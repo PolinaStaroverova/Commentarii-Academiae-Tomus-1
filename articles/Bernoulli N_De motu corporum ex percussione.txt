@@ -1,0 +1,40 @@
+DE MOTV CORPORVM EX
+PERCVSSIONE.
+DISSERTATIO,
+Auctore
+Nicolao Bernoulli Ioh. F.
+Hypotheses.
+	
+COrpora duo, E & F, per altitudines EB, FC, ex quiete libere delapsa, si velocitatibus ultimo acquisitis directe ad se invicem impingant in M, eam post ictum velocitatem mutuam habebunt, ut si cum sua singula ascendant, donec velocitate utriusque exhausta pervenerint in situm εΦ, eorum commune centrum gravitatis pristinam unde prius descenderat altitudinem acquirat, neque eam transgrediatur.
+Notissimum hoc est Hugenii axioma, quo passim usus est, quodque adeo evidens reputabat, ut in pari occasione incidenter tantum id monuisse ipsi suffecerit, in tractatu suo posthumo de motu corporum ex percussione.
+	Duo corpora aequalia A & C velocitatibus aequalibus eodem momento contra tertium quiescens B impellentia, aequali etiam post ictum, velocitate resilient.
+ 
+III. Si duo corpora ad se invicem impingentia velocitatibus AB & FL, post impulsum velocitatibus  αβ & Φλ recedant, eadem vero corpora aliis etiam velocitatibus ED, MN sibi occurentia resiliant velocitatibus εδ, μν Ipsa quoque haec corpora se pellentia velocitatibus totalibus AB+FL & ED+MN, totalibus αβ+Φλ & εδ+ μν repellentur.
+Sequitur hinc quod duorum corporum velocitatibus post ictum se mutantibus in velocitates p & q, etiam earum aeque multiplices na & nb post conflictum producturae sint aeque multiplices np & nq.
+. IV. Duorum corporum velocitatibus AB, CB, degenerantibus post ictum in alias αβ, γβ, erunt vicissim AB, CB velocitates post impulsum eorundem corporum quae ante hunc velocitatibus αβ, γβ sibi occurrerant.
+Pendet haec hypothesis ab axiomate generali, quo dicimus quod abeunte effectu in causam, vicissim causa in effectum mutetur.
+Hoc illustrant principia Catoptrica & Dioptrica, quod radio AB reflectente aut refringente secundum BC, vicissim radius CB reflexus aut refractus viam lineae AB sit initurus.
+Lemma
+Sint duo corpora quaecunque sibi directe occurrentia in M velocitatibus BM, CM, quas cadendo per altitudines EB & FC acquisiverant. Ponantur eadem corpora post impulsum velocitates acquisivisse quibus ad altitudines verticales εB, ΦC ascendant. Dico centrum commune gravitatis corporum tam in ε, Φ, quam in E, F consitutorum fore in S, intersectione linearum EF, εΦ.
+ 
+Si enim essent in P & O foret EO. OF::εP.PΦ aut componendo EF. OF:: εΦ.PΦ & alternando EF. εΦ:: OF.PΦ. Dein ob triangula similia ESε, FSΦ est ES. SF::εS. SΦ, vel EF. SF::εΦ. SΦ vel EF. εΦ::SF. SΦ, unde deducitur OF. PΦ::SF. SΦ, vel OF. SF::PΦ. SΦ. Q. E. Abs.
+Propositio I.
+Existentibus duorum corporum velocitatibus quibuscunque, erit summa productorum cuiusvis corporis in quadratum suae velocitatis eadem post ictum quae suerat ante.
+Positis enim quae prius manifestum est ob centrum gravitatis in S lineas FS & ES fore ut corpora E & F, aut ε & Φ, dum lineae EB, FC; εB, ΦC sunt ut quadrata velocitatum ante & post ictum. His positis erit ES. SF::Eε. ΦF, adeoque ES*ΦF=SF*Eε, acconsequenter EB*SF+FC*SE=EB*SF+Eε*SF+CF*SE-ΦF*SE=εB*SF+ΦC*SE. Q. E. D.
+Qui quantitatem virium in rerum natura constantem asserunt, huius propositionis veritatem tanquam corollarium ex theoremate Leibnitiano, quo quantitatem virium quadratis velocitatum proportionalem dicit, deducere possent.
+Propositio II.
+Binorum corporum D & C velocitatibus oppositis & massis quaeque suis reciproce proportionalibus praeditorum, eadem erit sigillatim velocitas post impulsum quae fuerat ante.
+Sit corpus D=m, eius velocitas DB=p, corpus
+
+ 
+C=n, erit eius velocitas CB=mp/n. Concipiatur corpus maius D divisum in duo corpora α & β, quorum prius α sit = n, ac proin β=m-n, & disponantur ita ut eorum commune centrum gravitatis sit in D. Patet quod haec duo corpora α & β virgae rigidae gravitatis experti atque velocitate DB se moventi adhaerentia, eundem plane effectum in corpus C sint exercitura, quem corpus D eadem sua velocitate motum produxisset, nec non, quod hic effectus constans sit permansurus quomodocunque se moveant corpora α & β durante motu puncti D in linea DB, dummodo centrum commune gravitatis non recedat a puncto D.
+Ponatur ergo moveri corpus β velocitate βD=BD=p, & corpus α velocitate αD quae erit=(mq-np)/n; fingatur insuper circumrotari virga αβ circa punctum D ut situm acquirat ADB, dum interea punctum D fertur velocitate DB, quo fiet ut corpus β positum in B (utpote duabus velocitatibus aequalibus & directe opposisis gaudens) prorsus sit quieturum, & α positum in A se moturum velocitate AD+DB=mp/n=CB. Corpus ergo C (per Coroll. Prop. I.) post ictum revertetur eadem velocitate qua gaudebat ante impulsum.
+Demonstrata propositionis veritate ratione corporis C, vera etiam erit per Prop. I. ratione corporis D. Q. E. D.
+Problema.
+Datis duorum corporum directe sibi occurrentium massis & velocitatibus: invenire eorundem velocitates post ictum.
+ 
+Sit massa corporis in A=m, eius velocitas AB=p; massa corporis C=n, eius velocitas CB=q. Mutentur velocitates AB & BC post occursum in alteras βα, & βγ, sitque βα=x, βγ=y=(per propositionem I.) √((mpp+nqq-mxx)/√n)      
+Ponantur iam eadem corpora reverti ad secundum impulsum velocitatibus δβ & Φβ, ita ut sit δβ. Φβ :: BA. BC, βα. Φγ :: n. m, seu reciproce ut massae corporum in A & C : reperietur δα=(qnx-pny)/(pm-qn), & Φγ=(qmx-pmy)/(pm-qn) His ita positis exprimantur velocitates post hunc secundum ictum in β per lineas BD & BF, & apparebit per secundam partem hypotheseos tertiae quod AB. βα :: δβ. DB=(mxx-nxy)/(pm-qn), &CB.βγ :: Φβ. BF=(mxy-nyy)/(pm-qn). Consideratis porro velocitatibus partialibus αβ, γβ, patet per hyp. 4 degenerare has in BA & BC, reliquas vero δα & Φγ (per prop. 2.)manere easdem, & per consequens AD=δα, sicut & CF=γΦ. Elicitur ergo etiam (per primam partem hypotheseos 3) quod BD=BA+AD=p+(qnx-pny)/(pm-qn), & BF BC+CF=q+(qmx-pmy)/(pm-qn) unde provenit (mxx-nxy)/(pm-qn)=p+(qnx-pny)/(pm-qn), & (mxy-nyy)/(pm-qn)=q+(qmx-pmy)/(pm-qn), quae duae aequatio nes per substitutionem valoris y supra exhibiti similem producunt aequationem. Primam ergo reduxisse hic sufficiat, & prodibit per debitam terminorum dispositionem mxx—nxy—qnx+pny—ppm+pqn=0, quae aequatio divisa per x—p (radicem manifeste inutilem dat mx—ny+mp—qn=0, vel, surrogato pro y valore suo, mmxx+mnxx+2mmpx—2mnqx+mmpp—mnpp—2mnpq=0, vel tandem dividendo per x+p, radicem
+ 
+etiam inutilem, mmx+mnx+mmp—mnp—2mnq=0, quae aequatio monstrat x=(mnp+2mnq-mmp)/(mm+mn)=(np+2nq-mp)/(m+n)=(2np+2nq)/(m+n)—(np-mp)/(m+n)=(2np+2nq)/(m+n)—p. Q.E.I.
+
