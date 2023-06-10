@@ -1,0 +1,764 @@
+,Part of speech 1,Part of speech 2,Number of n-gramms,Frequency of n-gramms,Name of text
+0,NOUN,NOUN,659,8.5,Bayer_De muro Caucaseo.txt
+1,NOUN,VERB,555,7.1,Bayer_De muro Caucaseo.txt
+2,ADP,NOUN,412,5.3,Bayer_De muro Caucaseo.txt
+3,VERB,NOUN,290,3.7,Bayer_De muro Caucaseo.txt
+4,ADJ,NOUN,266,3.4,Bayer_De muro Caucaseo.txt
+5,VERB,VERB,251,3.2,Bayer_De muro Caucaseo.txt
+6,NOUN,ADP,237,3.1,Bayer_De muro Caucaseo.txt
+7,VERB,ADP,219,2.8,Bayer_De muro Caucaseo.txt
+8,NOUN,CCONJ,213,2.7,Bayer_De muro Caucaseo.txt
+9,NOUN,ADJ,207,2.7,Bayer_De muro Caucaseo.txt
+10,CCONJ,NOUN,194,2.5,Bayer_De muro Caucaseo.txt
+11,PRON,VERB,160,2.1,Bayer_De muro Caucaseo.txt
+12,NOUN,PRON,160,2.1,Bayer_De muro Caucaseo.txt
+13,PRON,NOUN,143,1.8,Bayer_De muro Caucaseo.txt
+14,DET,NOUN,124,1.6,Bayer_De muro Caucaseo.txt
+15,VERB,PRON,124,1.6,Bayer_De muro Caucaseo.txt
+16,ADV,VERB,120,1.5,Bayer_De muro Caucaseo.txt
+17,VERB,CCONJ,114,1.5,Bayer_De muro Caucaseo.txt
+18,VERB,ADV,114,1.5,Bayer_De muro Caucaseo.txt
+19,NOUN,ADV,104,1.3,Bayer_De muro Caucaseo.txt
+20,ADP,PRON,97,1.2,Bayer_De muro Caucaseo.txt
+21,ADP,ADJ,97,1.2,Bayer_De muro Caucaseo.txt
+22,NUM,NOUN,91,1.2,Bayer_De muro Caucaseo.txt
+23,ADV,NOUN,90,1.2,Bayer_De muro Caucaseo.txt
+24,VERB,SCONJ,86,1.1,Bayer_De muro Caucaseo.txt
+151,NOUN,NOUN,237,9.6,Bayer_De origine et priscis.txt
+152,NOUN,VERB,167,6.7,Bayer_De origine et priscis.txt
+153,ADP,NOUN,155,6.3,Bayer_De origine et priscis.txt
+154,VERB,NOUN,92,3.7,Bayer_De origine et priscis.txt
+155,NOUN,ADP,91,3.7,Bayer_De origine et priscis.txt
+156,ADJ,NOUN,90,3.6,Bayer_De origine et priscis.txt
+157,NOUN,ADJ,64,2.6,Bayer_De origine et priscis.txt
+158,NOUN,PRON,56,2.3,Bayer_De origine et priscis.txt
+159,VERB,ADP,55,2.2,Bayer_De origine et priscis.txt
+160,VERB,VERB,54,2.2,Bayer_De origine et priscis.txt
+161,NOUN,CCONJ,50,2.0,Bayer_De origine et priscis.txt
+162,PRON,VERB,47,1.9,Bayer_De origine et priscis.txt
+163,DET,NOUN,43,1.7,Bayer_De origine et priscis.txt
+164,ADV,NOUN,42,1.7,Bayer_De origine et priscis.txt
+165,CCONJ,NOUN,40,1.6,Bayer_De origine et priscis.txt
+166,VERB,PRON,38,1.5,Bayer_De origine et priscis.txt
+167,PRON,NOUN,38,1.5,Bayer_De origine et priscis.txt
+168,VERB,ADV,36,1.5,Bayer_De origine et priscis.txt
+169,ADP,ADJ,35,1.4,Bayer_De origine et priscis.txt
+170,ADP,PRON,32,1.3,Bayer_De origine et priscis.txt
+171,PRON,ADP,31,1.3,Bayer_De origine et priscis.txt
+172,NOUN,ADV,31,1.3,Bayer_De origine et priscis.txt
+173,NOUN,NUM,29,1.2,Bayer_De origine et priscis.txt
+174,VERB,CCONJ,29,1.2,Bayer_De origine et priscis.txt
+175,ADV,VERB,28,1.1,Bayer_De origine et priscis.txt
+302,NOUN,NOUN,425,8.4,Bayer_De scythiae situ.txt
+303,NOUN,VERB,361,7.1,Bayer_De scythiae situ.txt
+304,ADP,NOUN,333,6.6,Bayer_De scythiae situ.txt
+305,VERB,NOUN,210,4.1,Bayer_De scythiae situ.txt
+306,NOUN,ADP,200,3.9,Bayer_De scythiae situ.txt
+307,ADJ,NOUN,160,3.2,Bayer_De scythiae situ.txt
+308,VERB,ADP,146,2.9,Bayer_De scythiae situ.txt
+309,NOUN,CCONJ,135,2.7,Bayer_De scythiae situ.txt
+310,NOUN,ADJ,126,2.5,Bayer_De scythiae situ.txt
+311,NOUN,PRON,122,2.4,Bayer_De scythiae situ.txt
+312,CCONJ,NOUN,116,2.3,Bayer_De scythiae situ.txt
+313,VERB,VERB,115,2.3,Bayer_De scythiae situ.txt
+314,PRON,NOUN,90,1.8,Bayer_De scythiae situ.txt
+315,DET,NOUN,81,1.6,Bayer_De scythiae situ.txt
+316,ADV,VERB,81,1.6,Bayer_De scythiae situ.txt
+317,PRON,VERB,75,1.5,Bayer_De scythiae situ.txt
+318,ADV,NOUN,75,1.5,Bayer_De scythiae situ.txt
+319,ADP,PRON,70,1.4,Bayer_De scythiae situ.txt
+320,NOUN,ADV,70,1.4,Bayer_De scythiae situ.txt
+321,VERB,SCONJ,65,1.3,Bayer_De scythiae situ.txt
+322,VERB,ADV,64,1.3,Bayer_De scythiae situ.txt
+323,PRON,ADP,61,1.2,Bayer_De scythiae situ.txt
+324,ADP,VERB,60,1.2,Bayer_De scythiae situ.txt
+325,VERB,PRON,57,1.1,Bayer_De scythiae situ.txt
+326,ADJ,VERB,54,1.1,Bayer_De scythiae situ.txt
+457,NOUN,VERB,1114,8.0,Svetonius_Divus Augustus.txt
+458,NOUN,NOUN,1018,7.3,Svetonius_Divus Augustus.txt
+459,VERB,NOUN,624,4.5,Svetonius_Divus Augustus.txt
+460,ADP,NOUN,624,4.5,Svetonius_Divus Augustus.txt
+461,ADJ,NOUN,567,4.0,Svetonius_Divus Augustus.txt
+462,VERB,VERB,545,3.9,Svetonius_Divus Augustus.txt
+463,NOUN,ADJ,425,3.0,Svetonius_Divus Augustus.txt
+464,NOUN,CCONJ,390,2.8,Svetonius_Divus Augustus.txt
+465,CCONJ,NOUN,346,2.5,Svetonius_Divus Augustus.txt
+466,NOUN,ADP,318,2.3,Svetonius_Divus Augustus.txt
+467,VERB,ADV,311,2.2,Svetonius_Divus Augustus.txt
+468,VERB,CCONJ,309,2.2,Svetonius_Divus Augustus.txt
+469,ADV,VERB,275,2.0,Svetonius_Divus Augustus.txt
+470,VERB,ADP,267,1.9,Svetonius_Divus Augustus.txt
+471,PRON,VERB,266,1.9,Svetonius_Divus Augustus.txt
+472,ADV,NOUN,256,1.8,Svetonius_Divus Augustus.txt
+473,NOUN,ADV,249,1.8,Svetonius_Divus Augustus.txt
+474,VERB,PRON,234,1.7,Svetonius_Divus Augustus.txt
+475,NOUN,PRON,218,1.6,Svetonius_Divus Augustus.txt
+476,VERB,SCONJ,206,1.5,Svetonius_Divus Augustus.txt
+477,DET,NOUN,205,1.5,Svetonius_Divus Augustus.txt
+478,PRON,NOUN,201,1.4,Svetonius_Divus Augustus.txt
+479,ADJ,VERB,196,1.4,Svetonius_Divus Augustus.txt
+480,ADP,ADJ,178,1.3,Svetonius_Divus Augustus.txt
+481,VERB,ADJ,165,1.2,Svetonius_Divus Augustus.txt
+482,CCONJ,VERB,158,1.1,Svetonius_Divus Augustus.txt
+622,NOUN,VERB,710,8.9,Svetonius_Nero.txt
+623,NOUN,NOUN,639,8.0,Svetonius_Nero.txt
+624,VERB,NOUN,421,5.3,Svetonius_Nero.txt
+625,ADP,NOUN,384,4.8,Svetonius_Nero.txt
+626,VERB,VERB,345,4.3,Svetonius_Nero.txt
+627,ADJ,NOUN,311,3.9,Svetonius_Nero.txt
+628,NOUN,ADJ,232,2.9,Svetonius_Nero.txt
+629,NOUN,ADP,196,2.4,Svetonius_Nero.txt
+630,NOUN,CCONJ,184,2.3,Svetonius_Nero.txt
+631,VERB,CCONJ,184,2.3,Svetonius_Nero.txt
+632,CCONJ,NOUN,181,2.3,Svetonius_Nero.txt
+633,ADV,VERB,171,2.1,Svetonius_Nero.txt
+634,VERB,ADP,157,2.0,Svetonius_Nero.txt
+635,VERB,ADV,156,1.9,Svetonius_Nero.txt
+636,ADV,NOUN,148,1.8,Svetonius_Nero.txt
+637,PRON,VERB,145,1.8,Svetonius_Nero.txt
+638,NOUN,ADV,144,1.8,Svetonius_Nero.txt
+639,VERB,PRON,143,1.8,Svetonius_Nero.txt
+640,NOUN,PRON,141,1.8,Svetonius_Nero.txt
+641,ADJ,VERB,125,1.6,Svetonius_Nero.txt
+642,PRON,NOUN,114,1.4,Svetonius_Nero.txt
+643,DET,NOUN,112,1.4,Svetonius_Nero.txt
+644,VERB,ADJ,109,1.4,Svetonius_Nero.txt
+645,VERB,SCONJ,98,1.2,Svetonius_Nero.txt
+780,NOUN,VERB,588,8.7,Tacitus_Agricola.txt
+781,NOUN,NOUN,568,8.4,Tacitus_Agricola.txt
+782,VERB,NOUN,351,5.2,Tacitus_Agricola.txt
+783,ADJ,NOUN,313,4.6,Tacitus_Agricola.txt
+784,NOUN,CCONJ,291,4.3,Tacitus_Agricola.txt
+785,CCONJ,NOUN,255,3.8,Tacitus_Agricola.txt
+786,ADP,NOUN,239,3.5,Tacitus_Agricola.txt
+787,NOUN,ADJ,230,3.4,Tacitus_Agricola.txt
+788,VERB,VERB,211,3.1,Tacitus_Agricola.txt
+789,VERB,ADV,177,2.6,Tacitus_Agricola.txt
+790,ADV,NOUN,151,2.2,Tacitus_Agricola.txt
+791,NOUN,ADV,148,2.2,Tacitus_Agricola.txt
+792,VERB,CCONJ,144,2.1,Tacitus_Agricola.txt
+793,ADV,VERB,123,1.8,Tacitus_Agricola.txt
+794,DET,NOUN,122,1.8,Tacitus_Agricola.txt
+795,NOUN,ADP,119,1.8,Tacitus_Agricola.txt
+796,PRON,NOUN,108,1.6,Tacitus_Agricola.txt
+797,NOUN,PRON,107,1.6,Tacitus_Agricola.txt
+798,VERB,ADJ,104,1.5,Tacitus_Agricola.txt
+799,VERB,PRON,100,1.5,Tacitus_Agricola.txt
+800,ADJ,VERB,99,1.5,Tacitus_Agricola.txt
+801,CCONJ,ADJ,88,1.3,Tacitus_Agricola.txt
+802,CCONJ,VERB,81,1.2,Tacitus_Agricola.txt
+803,VERB,ADP,77,1.1,Tacitus_Agricola.txt
+804,PRON,VERB,73,1.1,Tacitus_Agricola.txt
+805,SCONJ,NOUN,73,1.1,Tacitus_Agricola.txt
+921,NOUN,VERB,1059,9.8,Tacitus_Annales 1.txt
+922,NOUN,NOUN,1033,9.5,Tacitus_Annales 1.txt
+923,VERB,NOUN,703,6.5,Tacitus_Annales 1.txt
+924,ADJ,NOUN,494,4.6,Tacitus_Annales 1.txt
+925,ADP,NOUN,483,4.5,Tacitus_Annales 1.txt
+926,VERB,VERB,396,3.7,Tacitus_Annales 1.txt
+927,NOUN,ADJ,381,3.5,Tacitus_Annales 1.txt
+928,NOUN,CCONJ,343,3.2,Tacitus_Annales 1.txt
+929,CCONJ,NOUN,288,2.7,Tacitus_Annales 1.txt
+930,NOUN,ADP,240,2.2,Tacitus_Annales 1.txt
+931,VERB,ADV,232,2.1,Tacitus_Annales 1.txt
+932,NOUN,PRON,203,1.9,Tacitus_Annales 1.txt
+933,VERB,ADP,198,1.8,Tacitus_Annales 1.txt
+934,PRON,NOUN,198,1.8,Tacitus_Annales 1.txt
+935,ADV,NOUN,195,1.8,Tacitus_Annales 1.txt
+936,ADV,VERB,184,1.7,Tacitus_Annales 1.txt
+937,NOUN,ADV,179,1.7,Tacitus_Annales 1.txt
+938,ADJ,VERB,171,1.6,Tacitus_Annales 1.txt
+939,VERB,PRON,162,1.5,Tacitus_Annales 1.txt
+940,VERB,ADJ,160,1.5,Tacitus_Annales 1.txt
+941,VERB,CCONJ,156,1.4,Tacitus_Annales 1.txt
+942,NOUN,SCONJ,153,1.4,Tacitus_Annales 1.txt
+943,VERB,SCONJ,145,1.3,Tacitus_Annales 1.txt
+944,PRON,VERB,142,1.3,Tacitus_Annales 1.txt
+945,SCONJ,NOUN,141,1.3,Tacitus_Annales 1.txt
+946,DET,NOUN,134,1.2,Tacitus_Annales 1.txt
+1074,NOUN,VERB,1051,10.1,Tacitus_Annales 2.txt
+1075,NOUN,NOUN,993,9.6,Tacitus_Annales 2.txt
+1076,VERB,NOUN,661,6.4,Tacitus_Annales 2.txt
+1077,ADP,NOUN,498,4.8,Tacitus_Annales 2.txt
+1078,ADJ,NOUN,483,4.7,Tacitus_Annales 2.txt
+1079,VERB,VERB,391,3.8,Tacitus_Annales 2.txt
+1080,NOUN,ADJ,382,3.7,Tacitus_Annales 2.txt
+1081,NOUN,CCONJ,340,3.3,Tacitus_Annales 2.txt
+1082,CCONJ,NOUN,285,2.7,Tacitus_Annales 2.txt
+1083,NOUN,ADP,250,2.4,Tacitus_Annales 2.txt
+1084,VERB,ADV,208,2.0,Tacitus_Annales 2.txt
+1085,NOUN,PRON,196,1.9,Tacitus_Annales 2.txt
+1086,PRON,NOUN,187,1.8,Tacitus_Annales 2.txt
+1087,ADJ,VERB,174,1.7,Tacitus_Annales 2.txt
+1088,VERB,CCONJ,174,1.7,Tacitus_Annales 2.txt
+1089,VERB,ADP,173,1.7,Tacitus_Annales 2.txt
+1090,VERB,ADJ,167,1.6,Tacitus_Annales 2.txt
+1091,ADV,NOUN,153,1.5,Tacitus_Annales 2.txt
+1092,ADV,VERB,149,1.4,Tacitus_Annales 2.txt
+1093,VERB,SCONJ,141,1.4,Tacitus_Annales 2.txt
+1094,VERB,PRON,137,1.3,Tacitus_Annales 2.txt
+1095,PRON,VERB,137,1.3,Tacitus_Annales 2.txt
+1096,SCONJ,NOUN,135,1.3,Tacitus_Annales 2.txt
+1097,NOUN,ADV,126,1.2,Tacitus_Annales 2.txt
+1098,DET,NOUN,120,1.2,Tacitus_Annales 2.txt
+1099,NOUN,SCONJ,115,1.1,Tacitus_Annales 2.txt
+1227,NOUN,NOUN,274,7.3,Newton_Axiomata.txt
+1228,ADP,NOUN,268,7.1,Newton_Axiomata.txt
+1229,NOUN,VERB,202,5.4,Newton_Axiomata.txt
+1230,VERB,NOUN,184,4.9,Newton_Axiomata.txt
+1231,NOUN,ADP,151,4.0,Newton_Axiomata.txt
+1232,VERB,ADP,118,3.1,Newton_Axiomata.txt
+1233,NOUN,ADJ,116,3.1,Newton_Axiomata.txt
+1234,NOUN,CCONJ,97,2.6,Newton_Axiomata.txt
+1235,NOUN,NUM,85,2.3,Newton_Axiomata.txt
+1236,ADV,VERB,78,2.1,Newton_Axiomata.txt
+1237,NOUN,DET,76,2.0,Newton_Axiomata.txt
+1238,VERB,VERB,76,2.0,Newton_Axiomata.txt
+1239,CCONJ,NOUN,76,2.0,Newton_Axiomata.txt
+1240,SCONJ,NOUN,69,1.8,Newton_Axiomata.txt
+1241,VERB,ADV,65,1.7,Newton_Axiomata.txt
+1242,ADJ,NOUN,65,1.7,Newton_Axiomata.txt
+1243,NOUN,PRON,60,1.6,Newton_Axiomata.txt
+1244,ADP,PRON,59,1.6,Newton_Axiomata.txt
+1245,DET,NOUN,58,1.5,Newton_Axiomata.txt
+1246,NOUN,ADV,58,1.5,Newton_Axiomata.txt
+1247,PRON,VERB,57,1.5,Newton_Axiomata.txt
+1248,NUM,NOUN,56,1.5,Newton_Axiomata.txt
+1249,ADV,ADP,54,1.4,Newton_Axiomata.txt
+1250,CCONJ,VERB,49,1.3,Newton_Axiomata.txt
+1251,ADJ,VERB,46,1.2,Newton_Axiomata.txt
+1252,ADV,NOUN,44,1.2,Newton_Axiomata.txt
+1253,VERB,PRON,43,1.1,Newton_Axiomata.txt
+1254,PRON,NOUN,43,1.1,Newton_Axiomata.txt
+1255,VERB,CCONJ,42,1.1,Newton_Axiomata.txt
+1360,NOUN,NOUN,1428,8.4,Newton_De motu corporum (part).txt
+1361,ADP,NOUN,1067,6.3,Newton_De motu corporum (part).txt
+1362,NOUN,VERB,1003,5.9,Newton_De motu corporum (part).txt
+1363,VERB,NOUN,853,5.0,Newton_De motu corporum (part).txt
+1364,NOUN,NUM,745,4.4,Newton_De motu corporum (part).txt
+1365,NOUN,ADP,668,3.9,Newton_De motu corporum (part).txt
+1366,VERB,ADP,524,3.1,Newton_De motu corporum (part).txt
+1367,NUM,NOUN,492,2.9,Newton_De motu corporum (part).txt
+1368,VERB,VERB,479,2.8,Newton_De motu corporum (part).txt
+1369,NOUN,ADJ,424,2.5,Newton_De motu corporum (part).txt
+1370,ADJ,NOUN,374,2.2,Newton_De motu corporum (part).txt
+1371,NUM,NUM,372,2.2,Newton_De motu corporum (part).txt
+1372,NUM,ADP,335,2.0,Newton_De motu corporum (part).txt
+1373,ADP,NUM,262,1.5,Newton_De motu corporum (part).txt
+1374,ADJ,VERB,243,1.4,Newton_De motu corporum (part).txt
+1375,NUM,VERB,237,1.4,Newton_De motu corporum (part).txt
+1376,SCONJ,NOUN,237,1.4,Newton_De motu corporum (part).txt
+1377,NOUN,PRON,235,1.4,Newton_De motu corporum (part).txt
+1378,ADP,VERB,234,1.4,Newton_De motu corporum (part).txt
+1379,DET,NOUN,226,1.3,Newton_De motu corporum (part).txt
+1380,NOUN,CCONJ,221,1.3,Newton_De motu corporum (part).txt
+1381,ADP,ADJ,202,1.2,Newton_De motu corporum (part).txt
+1382,NOUN,DET,193,1.1,Newton_De motu corporum (part).txt
+1383,VERB,ADV,189,1.1,Newton_De motu corporum (part).txt
+1384,NOUN,ADV,185,1.1,Newton_De motu corporum (part).txt
+1385,CCONJ,NOUN,184,1.1,Newton_De motu corporum (part).txt
+1386,PRON,NOUN,183,1.1,Newton_De motu corporum (part).txt
+1512,NOUN,NOUN,95,10.0,Bernoulli N._De motu corporum ex percussione.txt
+1513,ADP,NOUN,67,7.1,Bernoulli N._De motu corporum ex percussione.txt
+1514,NOUN,VERB,48,5.1,Bernoulli N._De motu corporum ex percussione.txt
+1515,NOUN,NUM,48,5.1,Bernoulli N._De motu corporum ex percussione.txt
+1516,NUM,NOUN,44,4.6,Bernoulli N._De motu corporum ex percussione.txt
+1517,NOUN,ADP,42,4.4,Bernoulli N._De motu corporum ex percussione.txt
+1518,VERB,NOUN,40,4.2,Bernoulli N._De motu corporum ex percussione.txt
+1519,VERB,ADP,28,3.0,Bernoulli N._De motu corporum ex percussione.txt
+1520,PRON,VERB,25,2.6,Bernoulli N._De motu corporum ex percussione.txt
+1521,NOUN,PRON,24,2.5,Bernoulli N._De motu corporum ex percussione.txt
+1522,NOUN,ADJ,22,2.3,Bernoulli N._De motu corporum ex percussione.txt
+1523,NOUN,ADV,21,2.2,Bernoulli N._De motu corporum ex percussione.txt
+1524,VERB,VERB,20,2.1,Bernoulli N._De motu corporum ex percussione.txt
+1525,CCONJ,NOUN,17,1.8,Bernoulli N._De motu corporum ex percussione.txt
+1526,DET,NOUN,16,1.7,Bernoulli N._De motu corporum ex percussione.txt
+1527,ADV,VERB,15,1.6,Bernoulli N._De motu corporum ex percussione.txt
+1528,ADJ,NOUN,13,1.4,Bernoulli N._De motu corporum ex percussione.txt
+1529,NUM,NUM,13,1.4,Bernoulli N._De motu corporum ex percussione.txt
+1530,VERB,SCONJ,12,1.3,Bernoulli N._De motu corporum ex percussione.txt
+1531,ADJ,VERB,12,1.3,Bernoulli N._De motu corporum ex percussione.txt
+1532,VERB,PRON,12,1.3,Bernoulli N._De motu corporum ex percussione.txt
+1533,ADV,NOUN,11,1.2,Bernoulli N._De motu corporum ex percussione.txt
+1534,NOUN,CCONJ,11,1.2,Bernoulli N._De motu corporum ex percussione.txt
+1535,PRON,NOUN,11,1.2,Bernoulli N._De motu corporum ex percussione.txt
+1536,SCONJ,NOUN,10,1.1,Bernoulli N._De motu corporum ex percussione.txt
+1537,VERB,ADV,10,1.1,Bernoulli N._De motu corporum ex percussione.txt
+1617,NOUN,NOUN,72,9.6,Buxbaum_Nova plantarum.txt
+1618,NOUN,VERB,59,7.9,Buxbaum_Nova plantarum.txt
+1619,VERB,NOUN,50,6.7,Buxbaum_Nova plantarum.txt
+1620,NOUN,ADJ,46,6.1,Buxbaum_Nova plantarum.txt
+1621,ADP,NOUN,35,4.7,Buxbaum_Nova plantarum.txt
+1622,ADJ,NOUN,34,4.5,Buxbaum_Nova plantarum.txt
+1623,NOUN,CCONJ,25,3.3,Buxbaum_Nova plantarum.txt
+1624,ADJ,VERB,24,3.2,Buxbaum_Nova plantarum.txt
+1625,VERB,VERB,23,3.1,Buxbaum_Nova plantarum.txt
+1626,NOUN,ADP,22,2.9,Buxbaum_Nova plantarum.txt
+1627,VERB,ADJ,22,2.9,Buxbaum_Nova plantarum.txt
+1628,NOUN,ADV,20,2.7,Buxbaum_Nova plantarum.txt
+1629,CCONJ,NOUN,19,2.5,Buxbaum_Nova plantarum.txt
+1630,ADV,NOUN,19,2.5,Buxbaum_Nova plantarum.txt
+1631,ADJ,ADJ,18,2.4,Buxbaum_Nova plantarum.txt
+1632,VERB,ADP,14,1.9,Buxbaum_Nova plantarum.txt
+1633,NUM,NOUN,12,1.6,Buxbaum_Nova plantarum.txt
+1634,ADV,VERB,11,1.5,Buxbaum_Nova plantarum.txt
+1635,DET,NOUN,9,1.2,Buxbaum_Nova plantarum.txt
+1636,ADJ,CCONJ,9,1.2,Buxbaum_Nova plantarum.txt
+1637,ADP,ADJ,9,1.2,Buxbaum_Nova plantarum.txt
+1638,ADJ,ADP,9,1.2,Buxbaum_Nova plantarum.txt
+1639,PRON,VERB,8,1.1,Buxbaum_Nova plantarum.txt
+1709,NOUN,NOUN,300,8.7,Bülffinger_De directione corporum gravium.txt
+1710,NOUN,VERB,205,5.9,Bülffinger_De directione corporum gravium.txt
+1711,ADP,NOUN,197,5.7,Bülffinger_De directione corporum gravium.txt
+1712,VERB,NOUN,172,5.0,Bülffinger_De directione corporum gravium.txt
+1713,NOUN,ADJ,126,3.6,Bülffinger_De directione corporum gravium.txt
+1714,NOUN,ADP,109,3.2,Bülffinger_De directione corporum gravium.txt
+1715,VERB,VERB,107,3.1,Bülffinger_De directione corporum gravium.txt
+1716,ADJ,NOUN,82,2.4,Bülffinger_De directione corporum gravium.txt
+1717,NOUN,NUM,82,2.4,Bülffinger_De directione corporum gravium.txt
+1718,VERB,ADP,82,2.4,Bülffinger_De directione corporum gravium.txt
+1719,ADJ,VERB,65,1.9,Bülffinger_De directione corporum gravium.txt
+1720,ADV,VERB,64,1.9,Bülffinger_De directione corporum gravium.txt
+1721,PRON,VERB,61,1.8,Bülffinger_De directione corporum gravium.txt
+1722,NOUN,ADV,59,1.7,Bülffinger_De directione corporum gravium.txt
+1723,DET,NOUN,57,1.6,Bülffinger_De directione corporum gravium.txt
+1724,NOUN,CCONJ,56,1.6,Bülffinger_De directione corporum gravium.txt
+1725,NUM,NOUN,54,1.6,Bülffinger_De directione corporum gravium.txt
+1726,CCONJ,NOUN,50,1.4,Bülffinger_De directione corporum gravium.txt
+1727,NOUN,PRON,49,1.4,Bülffinger_De directione corporum gravium.txt
+1728,PRON,NOUN,47,1.4,Bülffinger_De directione corporum gravium.txt
+1729,VERB,ADV,45,1.3,Bülffinger_De directione corporum gravium.txt
+1730,ADV,NOUN,44,1.3,Bülffinger_De directione corporum gravium.txt
+1731,VERB,ADJ,43,1.2,Bülffinger_De directione corporum gravium.txt
+1732,VERB,SCONJ,42,1.2,Bülffinger_De directione corporum gravium.txt
+1733,VERB,PRON,41,1.2,Bülffinger_De directione corporum gravium.txt
+1734,NUM,VERB,37,1.1,Bülffinger_De directione corporum gravium.txt
+1852,NOUN,NOUN,318,7.0,Bülffinger_De variis Barometris sensibilioribus.txt
+1853,NOUN,VERB,292,6.4,Bülffinger_De variis Barometris sensibilioribus.txt
+1854,ADP,NOUN,241,5.3,Bülffinger_De variis Barometris sensibilioribus.txt
+1855,VERB,NOUN,209,4.6,Bülffinger_De variis Barometris sensibilioribus.txt
+1856,NOUN,ADJ,161,3.5,Bülffinger_De variis Barometris sensibilioribus.txt
+1857,ADJ,NOUN,134,2.9,Bülffinger_De variis Barometris sensibilioribus.txt
+1858,VERB,VERB,133,2.9,Bülffinger_De variis Barometris sensibilioribus.txt
+1859,NOUN,ADP,116,2.5,Bülffinger_De variis Barometris sensibilioribus.txt
+1860,DET,NOUN,98,2.1,Bülffinger_De variis Barometris sensibilioribus.txt
+1861,ADJ,VERB,96,2.1,Bülffinger_De variis Barometris sensibilioribus.txt
+1862,VERB,ADP,94,2.1,Bülffinger_De variis Barometris sensibilioribus.txt
+1863,ADV,VERB,86,1.9,Bülffinger_De variis Barometris sensibilioribus.txt
+1864,VERB,ADV,81,1.8,Bülffinger_De variis Barometris sensibilioribus.txt
+1865,VERB,PRON,79,1.7,Bülffinger_De variis Barometris sensibilioribus.txt
+1866,PRON,VERB,76,1.7,Bülffinger_De variis Barometris sensibilioribus.txt
+1867,NOUN,CCONJ,71,1.6,Bülffinger_De variis Barometris sensibilioribus.txt
+1868,VERB,SCONJ,69,1.5,Bülffinger_De variis Barometris sensibilioribus.txt
+1869,NOUN,PRON,68,1.5,Bülffinger_De variis Barometris sensibilioribus.txt
+1870,ADV,NOUN,65,1.4,Bülffinger_De variis Barometris sensibilioribus.txt
+1871,CCONJ,NOUN,64,1.4,Bülffinger_De variis Barometris sensibilioribus.txt
+1872,NOUN,NUM,63,1.4,Bülffinger_De variis Barometris sensibilioribus.txt
+1873,VERB,ADJ,59,1.3,Bülffinger_De variis Barometris sensibilioribus.txt
+1874,NOUN,ADV,58,1.3,Bülffinger_De variis Barometris sensibilioribus.txt
+1875,VERB,CCONJ,57,1.2,Bülffinger_De variis Barometris sensibilioribus.txt
+1876,SCONJ,NOUN,52,1.1,Bülffinger_De variis Barometris sensibilioribus.txt
+1877,PRON,NOUN,52,1.1,Bülffinger_De variis Barometris sensibilioribus.txt
+1878,ADP,ADJ,51,1.1,Bülffinger_De variis Barometris sensibilioribus.txt
+2005,NOUN,VERB,1269,8.0,Cato_De Agri cultura.txt
+2006,NOUN,NOUN,1181,7.5,Cato_De Agri cultura.txt
+2007,VERB,NOUN,839,5.3,Cato_De Agri cultura.txt
+2008,VERB,VERB,762,4.8,Cato_De Agri cultura.txt
+2009,ADP,NOUN,707,4.5,Cato_De Agri cultura.txt
+2010,NOUN,ADJ,640,4.0,Cato_De Agri cultura.txt
+2011,ADV,VERB,445,2.8,Cato_De Agri cultura.txt
+2012,NUM,NOUN,445,2.8,Cato_De Agri cultura.txt
+2013,NOUN,NUM,431,2.7,Cato_De Agri cultura.txt
+2014,VERB,ADV,398,2.5,Cato_De Agri cultura.txt
+2015,VERB,PRON,346,2.2,Cato_De Agri cultura.txt
+2016,VERB,ADP,336,2.1,Cato_De Agri cultura.txt
+2017,ADJ,VERB,335,2.1,Cato_De Agri cultura.txt
+2018,VERB,SCONJ,333,2.1,Cato_De Agri cultura.txt
+2019,ADJ,NOUN,326,2.1,Cato_De Agri cultura.txt
+2020,PRON,VERB,308,1.9,Cato_De Agri cultura.txt
+2021,CCONJ,NOUN,305,1.9,Cato_De Agri cultura.txt
+2022,PRON,NOUN,288,1.8,Cato_De Agri cultura.txt
+2023,VERB,CCONJ,281,1.8,Cato_De Agri cultura.txt
+2024,NOUN,ADP,277,1.7,Cato_De Agri cultura.txt
+2025,SCONJ,NOUN,253,1.6,Cato_De Agri cultura.txt
+2026,SCONJ,VERB,248,1.6,Cato_De Agri cultura.txt
+2027,NOUN,CCONJ,244,1.5,Cato_De Agri cultura.txt
+2028,NOUN,PRON,231,1.5,Cato_De Agri cultura.txt
+2029,ADV,NOUN,226,1.4,Cato_De Agri cultura.txt
+2030,DET,NOUN,224,1.4,Cato_De Agri cultura.txt
+2031,NOUN,ADV,222,1.4,Cato_De Agri cultura.txt
+2032,NOUN,SCONJ,200,1.3,Cato_De Agri cultura.txt
+2157,NOUN,NOUN,544,5.4,Cicero_De patririone oratio.txt
+2158,NOUN,VERB,534,5.3,Cicero_De patririone oratio.txt
+2159,ADP,NOUN,385,3.8,Cicero_De patririone oratio.txt
+2160,NOUN,CCONJ,351,3.5,Cicero_De patririone oratio.txt
+2161,VERB,NOUN,323,3.2,Cicero_De patririone oratio.txt
+2162,VERB,CCONJ,309,3.1,Cicero_De patririone oratio.txt
+2163,VERB,VERB,288,2.9,Cicero_De patririone oratio.txt
+2164,PRON,VERB,288,2.9,Cicero_De patririone oratio.txt
+2165,CCONJ,NOUN,276,2.7,Cicero_De patririone oratio.txt
+2166,NOUN,PRON,205,2.0,Cicero_De patririone oratio.txt
+2167,VERB,PRON,199,2.0,Cicero_De patririone oratio.txt
+2168,ADV,VERB,199,2.0,Cicero_De patririone oratio.txt
+2169,PRON,PRON,178,1.8,Cicero_De patririone oratio.txt
+2170,VERB,ADV,177,1.8,Cicero_De patririone oratio.txt
+2171,ADJ,NOUN,172,1.7,Cicero_De patririone oratio.txt
+2172,VERB,ADP,171,1.7,Cicero_De patririone oratio.txt
+2173,DET,NOUN,165,1.6,Cicero_De patririone oratio.txt
+2174,NOUN,ADP,151,1.5,Cicero_De patririone oratio.txt
+2175,CCONJ,VERB,149,1.5,Cicero_De patririone oratio.txt
+2176,ADP,PRON,139,1.4,Cicero_De patririone oratio.txt
+2177,PRON,NOUN,137,1.4,Cicero_De patririone oratio.txt
+2178,VERB,SCONJ,136,1.4,Cicero_De patririone oratio.txt
+2179,SCONJ,NOUN,135,1.3,Cicero_De patririone oratio.txt
+2180,VERB,AUX,134,1.3,Cicero_De patririone oratio.txt
+2181,NOUN,ADV,133,1.3,Cicero_De patririone oratio.txt
+2182,ADV,NOUN,131,1.3,Cicero_De patririone oratio.txt
+2183,NOUN,SCONJ,130,1.3,Cicero_De patririone oratio.txt
+2184,NOUN,ADJ,128,1.3,Cicero_De patririone oratio.txt
+2185,CCONJ,ADP,124,1.2,Cicero_De patririone oratio.txt
+2186,ADP,VERB,114,1.1,Cicero_De patririone oratio.txt
+2187,PRON,ADP,111,1.1,Cicero_De patririone oratio.txt
+2188,ADJ,VERB,109,1.1,Cicero_De patririone oratio.txt
+2189,PRON,ADV,107,1.1,Cicero_De patririone oratio.txt
+2302,NOUN,VERB,520,6.1,Cicero_Pro caelio.txt
+2303,NOUN,NOUN,457,5.4,Cicero_Pro caelio.txt
+2304,DET,NOUN,306,3.6,Cicero_Pro caelio.txt
+2305,VERB,VERB,294,3.5,Cicero_Pro caelio.txt
+2306,VERB,NOUN,283,3.3,Cicero_Pro caelio.txt
+2307,ADP,NOUN,280,3.3,Cicero_Pro caelio.txt
+2308,PRON,VERB,252,3.0,Cicero_Pro caelio.txt
+2309,VERB,PRON,251,2.9,Cicero_Pro caelio.txt
+2310,VERB,ADV,194,2.3,Cicero_Pro caelio.txt
+2311,ADJ,NOUN,193,2.3,Cicero_Pro caelio.txt
+2312,NOUN,ADJ,181,2.1,Cicero_Pro caelio.txt
+2313,NOUN,PRON,172,2.0,Cicero_Pro caelio.txt
+2314,PRON,NOUN,167,2.0,Cicero_Pro caelio.txt
+2315,NOUN,CCONJ,166,1.9,Cicero_Pro caelio.txt
+2316,ADV,VERB,164,1.9,Cicero_Pro caelio.txt
+2317,NOUN,DET,160,1.9,Cicero_Pro caelio.txt
+2318,VERB,SCONJ,154,1.8,Cicero_Pro caelio.txt
+2319,PRON,PRON,146,1.7,Cicero_Pro caelio.txt
+2320,VERB,ADP,135,1.6,Cicero_Pro caelio.txt
+2321,VERB,CCONJ,132,1.5,Cicero_Pro caelio.txt
+2322,ADV,NOUN,118,1.4,Cicero_Pro caelio.txt
+2323,NOUN,ADP,117,1.4,Cicero_Pro caelio.txt
+2324,PRON,ADV,112,1.3,Cicero_Pro caelio.txt
+2325,ADP,PRON,111,1.3,Cicero_Pro caelio.txt
+2326,CCONJ,NOUN,108,1.3,Cicero_Pro caelio.txt
+2327,NOUN,ADV,104,1.2,Cicero_Pro caelio.txt
+2328,PRON,ADP,90,1.1,Cicero_Pro caelio.txt
+2460,NOUN,VERB,266,6.7,Cicero_Pro rege Deiorato.txt
+2461,NOUN,NOUN,196,4.9,Cicero_Pro rege Deiorato.txt
+2462,VERB,NOUN,141,3.5,Cicero_Pro rege Deiorato.txt
+2463,VERB,PRON,141,3.5,Cicero_Pro rege Deiorato.txt
+2464,ADP,NOUN,133,3.3,Cicero_Pro rege Deiorato.txt
+2465,PRON,VERB,126,3.2,Cicero_Pro rege Deiorato.txt
+2466,DET,NOUN,122,3.1,Cicero_Pro rege Deiorato.txt
+2467,VERB,VERB,118,3.0,Cicero_Pro rege Deiorato.txt
+2468,PRON,NOUN,95,2.4,Cicero_Pro rege Deiorato.txt
+2469,NOUN,PRON,90,2.3,Cicero_Pro rege Deiorato.txt
+2470,VERB,ADV,83,2.1,Cicero_Pro rege Deiorato.txt
+2471,NOUN,ADJ,82,2.1,Cicero_Pro rege Deiorato.txt
+2472,ADJ,NOUN,77,1.9,Cicero_Pro rege Deiorato.txt
+2473,PRON,PRON,74,1.9,Cicero_Pro rege Deiorato.txt
+2474,VERB,CCONJ,71,1.8,Cicero_Pro rege Deiorato.txt
+2475,VERB,ADP,71,1.8,Cicero_Pro rege Deiorato.txt
+2476,ADV,NOUN,70,1.8,Cicero_Pro rege Deiorato.txt
+2477,ADV,VERB,70,1.8,Cicero_Pro rege Deiorato.txt
+2478,ADP,PRON,70,1.8,Cicero_Pro rege Deiorato.txt
+2479,CCONJ,NOUN,65,1.6,Cicero_Pro rege Deiorato.txt
+2480,NOUN,DET,63,1.6,Cicero_Pro rege Deiorato.txt
+2481,NOUN,CCONJ,62,1.6,Cicero_Pro rege Deiorato.txt
+2482,NOUN,ADP,57,1.4,Cicero_Pro rege Deiorato.txt
+2483,PRON,ADV,57,1.4,Cicero_Pro rege Deiorato.txt
+2484,VERB,SCONJ,56,1.4,Cicero_Pro rege Deiorato.txt
+2485,PRON,ADP,56,1.4,Cicero_Pro rege Deiorato.txt
+2486,ADJ,VERB,48,1.2,Cicero_Pro rege Deiorato.txt
+2487,NOUN,ADV,45,1.1,Cicero_Pro rege Deiorato.txt
+2608,NOUN,VERB,237,4.3,Dantis_De monarchia 1.txt
+2609,ADP,NOUN,199,3.6,Dantis_De monarchia 1.txt
+2610,VERB,ADP,159,2.9,Dantis_De monarchia 1.txt
+2611,ADJ,NOUN,151,2.8,Dantis_De monarchia 1.txt
+2612,NOUN,NOUN,149,2.7,Dantis_De monarchia 1.txt
+2613,ADV,VERB,140,2.6,Dantis_De monarchia 1.txt
+2614,PRON,VERB,137,2.5,Dantis_De monarchia 1.txt
+2615,ADP,PRON,128,2.3,Dantis_De monarchia 1.txt
+2616,NOUN,ADJ,125,2.3,Dantis_De monarchia 1.txt
+2617,NOUN,ADP,119,2.2,Dantis_De monarchia 1.txt
+2618,NOUN,CCONJ,119,2.2,Dantis_De monarchia 1.txt
+2619,DET,NOUN,112,2.0,Dantis_De monarchia 1.txt
+2620,CCONJ,NOUN,109,2.0,Dantis_De monarchia 1.txt
+2621,VERB,SCONJ,107,2.0,Dantis_De monarchia 1.txt
+2622,ADV,NOUN,103,1.9,Dantis_De monarchia 1.txt
+2623,VERB,VERB,100,1.8,Dantis_De monarchia 1.txt
+2624,NOUN,ADV,92,1.7,Dantis_De monarchia 1.txt
+2625,VERB,NOUN,89,1.6,Dantis_De monarchia 1.txt
+2626,VERB,CCONJ,88,1.6,Dantis_De monarchia 1.txt
+2627,VERB,ADV,80,1.5,Dantis_De monarchia 1.txt
+2628,NOUN,PRON,75,1.4,Dantis_De monarchia 1.txt
+2629,CCONJ,ADV,73,1.3,Dantis_De monarchia 1.txt
+2630,ADV,ADV,67,1.2,Dantis_De monarchia 1.txt
+2631,ADP,ADJ,62,1.1,Dantis_De monarchia 1.txt
+2632,ADJ,VERB,61,1.1,Dantis_De monarchia 1.txt
+2633,VERB,AUX,61,1.1,Dantis_De monarchia 1.txt
+2634,NOUN,NUM,61,1.1,Dantis_De monarchia 1.txt
+2635,SCONJ,NOUN,60,1.1,Dantis_De monarchia 1.txt
+2636,NOUN,DET,58,1.1,Dantis_De monarchia 1.txt
+2765,NOUN,VERB,424,6.4,Dantis_De monarchia 2.txt
+2766,NOUN,NOUN,355,5.4,Dantis_De monarchia 2.txt
+2767,ADP,NOUN,331,5.0,Dantis_De monarchia 2.txt
+2768,VERB,NOUN,224,3.4,Dantis_De monarchia 2.txt
+2769,ADJ,NOUN,221,3.3,Dantis_De monarchia 2.txt
+2770,VERB,ADP,165,2.5,Dantis_De monarchia 2.txt
+2771,VERB,VERB,161,2.4,Dantis_De monarchia 2.txt
+2772,NOUN,ADP,156,2.4,Dantis_De monarchia 2.txt
+2773,NOUN,ADJ,149,2.2,Dantis_De monarchia 2.txt
+2774,PRON,VERB,130,2.0,Dantis_De monarchia 2.txt
+2775,ADV,VERB,128,1.9,Dantis_De monarchia 2.txt
+2776,ADP,ADJ,113,1.7,Dantis_De monarchia 2.txt
+2777,NOUN,CCONJ,112,1.7,Dantis_De monarchia 2.txt
+2778,VERB,ADV,108,1.6,Dantis_De monarchia 2.txt
+2779,NOUN,ADV,101,1.5,Dantis_De monarchia 2.txt
+2780,VERB,SCONJ,101,1.5,Dantis_De monarchia 2.txt
+2781,ADV,NOUN,98,1.5,Dantis_De monarchia 2.txt
+2782,VERB,CCONJ,97,1.5,Dantis_De monarchia 2.txt
+2783,CCONJ,NOUN,93,1.4,Dantis_De monarchia 2.txt
+2784,NOUN,PRON,93,1.4,Dantis_De monarchia 2.txt
+2785,ADJ,VERB,92,1.4,Dantis_De monarchia 2.txt
+2786,DET,NOUN,92,1.4,Dantis_De monarchia 2.txt
+2787,VERB,AUX,89,1.3,Dantis_De monarchia 2.txt
+2788,ADP,PRON,86,1.3,Dantis_De monarchia 2.txt
+2789,VERB,PRON,85,1.3,Dantis_De monarchia 2.txt
+2790,PRON,NOUN,80,1.2,Dantis_De monarchia 2.txt
+2791,SCONJ,NOUN,78,1.2,Dantis_De monarchia 2.txt
+2926,NOUN,VERB,357,4.7,Dantis_De monarchia 3.txt
+2927,ADP,NOUN,336,4.5,Dantis_De monarchia 3.txt
+2928,NOUN,NOUN,238,3.2,Dantis_De monarchia 3.txt
+2929,PRON,VERB,234,3.1,Dantis_De monarchia 3.txt
+2930,VERB,ADP,232,3.1,Dantis_De monarchia 3.txt
+2931,VERB,NOUN,223,3.0,Dantis_De monarchia 3.txt
+2932,VERB,VERB,205,2.7,Dantis_De monarchia 3.txt
+2933,ADV,VERB,169,2.2,Dantis_De monarchia 3.txt
+2934,NOUN,CCONJ,158,2.1,Dantis_De monarchia 3.txt
+2935,ADP,PRON,158,2.1,Dantis_De monarchia 3.txt
+2936,VERB,SCONJ,151,2.0,Dantis_De monarchia 3.txt
+2937,NOUN,ADJ,145,1.9,Dantis_De monarchia 3.txt
+2938,VERB,PRON,143,1.9,Dantis_De monarchia 3.txt
+2939,VERB,CCONJ,140,1.9,Dantis_De monarchia 3.txt
+2940,ADJ,NOUN,139,1.8,Dantis_De monarchia 3.txt
+2941,NOUN,ADP,134,1.8,Dantis_De monarchia 3.txt
+2942,VERB,ADV,125,1.7,Dantis_De monarchia 3.txt
+2943,DET,NOUN,123,1.6,Dantis_De monarchia 3.txt
+2944,CCONJ,NOUN,109,1.4,Dantis_De monarchia 3.txt
+2945,PART,VERB,102,1.4,Dantis_De monarchia 3.txt
+2946,NOUN,PRON,99,1.3,Dantis_De monarchia 3.txt
+2947,ADV,NOUN,98,1.3,Dantis_De monarchia 3.txt
+2948,CCONJ,VERB,89,1.2,Dantis_De monarchia 3.txt
+2949,NOUN,ADV,89,1.2,Dantis_De monarchia 3.txt
+2950,ADJ,VERB,83,1.1,Dantis_De monarchia 3.txt
+2951,SCONJ,NOUN,81,1.1,Dantis_De monarchia 3.txt
+2952,ADP,ADJ,81,1.1,Dantis_De monarchia 3.txt
+3092,NOUN,NOUN,478,6.9,Du Vernoi_Descriptio vasorum chyliferorum.txt
+3093,NOUN,VERB,444,6.4,Du Vernoi_Descriptio vasorum chyliferorum.txt
+3094,ADP,NOUN,298,4.3,Du Vernoi_Descriptio vasorum chyliferorum.txt
+3095,ADJ,NOUN,257,3.7,Du Vernoi_Descriptio vasorum chyliferorum.txt
+3096,NOUN,ADJ,229,3.3,Du Vernoi_Descriptio vasorum chyliferorum.txt
+3097,VERB,NOUN,208,3.0,Du Vernoi_Descriptio vasorum chyliferorum.txt
+3098,VERB,VERB,206,3.0,Du Vernoi_Descriptio vasorum chyliferorum.txt
+3099,ADV,VERB,205,3.0,Du Vernoi_Descriptio vasorum chyliferorum.txt
+3100,NOUN,ADP,181,2.6,Du Vernoi_Descriptio vasorum chyliferorum.txt
+3101,DET,NOUN,152,2.2,Du Vernoi_Descriptio vasorum chyliferorum.txt
+3102,NOUN,CCONJ,133,1.9,Du Vernoi_Descriptio vasorum chyliferorum.txt
+3103,ADJ,VERB,132,1.9,Du Vernoi_Descriptio vasorum chyliferorum.txt
+3104,ADP,ADJ,131,1.9,Du Vernoi_Descriptio vasorum chyliferorum.txt
+3105,NOUN,ADV,130,1.9,Du Vernoi_Descriptio vasorum chyliferorum.txt
+3106,VERB,AUX,130,1.9,Du Vernoi_Descriptio vasorum chyliferorum.txt
+3107,CCONJ,NOUN,129,1.9,Du Vernoi_Descriptio vasorum chyliferorum.txt
+3108,VERB,ADP,121,1.7,Du Vernoi_Descriptio vasorum chyliferorum.txt
+3109,VERB,PRON,121,1.7,Du Vernoi_Descriptio vasorum chyliferorum.txt
+3110,PRON,VERB,120,1.7,Du Vernoi_Descriptio vasorum chyliferorum.txt
+3111,VERB,ADV,118,1.7,Du Vernoi_Descriptio vasorum chyliferorum.txt
+3112,VERB,ADJ,115,1.7,Du Vernoi_Descriptio vasorum chyliferorum.txt
+3113,VERB,SCONJ,113,1.6,Du Vernoi_Descriptio vasorum chyliferorum.txt
+3114,ADV,NOUN,112,1.6,Du Vernoi_Descriptio vasorum chyliferorum.txt
+3115,NOUN,PRON,111,1.6,Du Vernoi_Descriptio vasorum chyliferorum.txt
+3116,ADP,PRON,108,1.6,Du Vernoi_Descriptio vasorum chyliferorum.txt
+3117,PRON,ADV,101,1.5,Du Vernoi_Descriptio vasorum chyliferorum.txt
+3118,PRON,NOUN,98,1.4,Du Vernoi_Descriptio vasorum chyliferorum.txt
+3119,ADJ,AUX,89,1.3,Du Vernoi_Descriptio vasorum chyliferorum.txt
+3120,ADJ,ADJ,76,1.1,Du Vernoi_Descriptio vasorum chyliferorum.txt
+3121,ADV,ADP,76,1.1,Du Vernoi_Descriptio vasorum chyliferorum.txt
+3122,ADV,ADJ,76,1.1,Du Vernoi_Descriptio vasorum chyliferorum.txt
+3240,NOUN,VERB,1558,6.2,Erasmus_Stultitiae Laus.txt
+3241,NOUN,NOUN,1543,6.1,Erasmus_Stultitiae Laus.txt
+3242,VERB,NOUN,990,3.9,Erasmus_Stultitiae Laus.txt
+3243,VERB,VERB,760,3.0,Erasmus_Stultitiae Laus.txt
+3244,PRON,VERB,707,2.8,Erasmus_Stultitiae Laus.txt
+3245,ADJ,NOUN,686,2.7,Erasmus_Stultitiae Laus.txt
+3246,VERB,PRON,672,2.7,Erasmus_Stultitiae Laus.txt
+3247,ADP,NOUN,617,2.5,Erasmus_Stultitiae Laus.txt
+3248,ADV,VERB,612,2.4,Erasmus_Stultitiae Laus.txt
+3249,NOUN,PRON,593,2.4,Erasmus_Stultitiae Laus.txt
+3250,VERB,SCONJ,584,2.3,Erasmus_Stultitiae Laus.txt
+3251,VERB,ADV,552,2.2,Erasmus_Stultitiae Laus.txt
+3252,DET,NOUN,539,2.1,Erasmus_Stultitiae Laus.txt
+3253,NOUN,ADJ,522,2.1,Erasmus_Stultitiae Laus.txt
+3254,PRON,NOUN,507,2.0,Erasmus_Stultitiae Laus.txt
+3255,NOUN,ADV,476,1.9,Erasmus_Stultitiae Laus.txt
+3256,NOUN,CCONJ,453,1.8,Erasmus_Stultitiae Laus.txt
+3257,PRON,ADV,449,1.8,Erasmus_Stultitiae Laus.txt
+3258,VERB,CCONJ,439,1.7,Erasmus_Stultitiae Laus.txt
+3259,ADV,NOUN,416,1.7,Erasmus_Stultitiae Laus.txt
+3260,CCONJ,NOUN,412,1.6,Erasmus_Stultitiae Laus.txt
+3261,ADJ,VERB,400,1.6,Erasmus_Stultitiae Laus.txt
+3262,PRON,PRON,375,1.5,Erasmus_Stultitiae Laus.txt
+3263,SCONJ,NOUN,326,1.3,Erasmus_Stultitiae Laus.txt
+3264,SCONJ,PRON,310,1.2,Erasmus_Stultitiae Laus.txt
+3265,NOUN,SCONJ,301,1.2,Erasmus_Stultitiae Laus.txt
+3266,VERB,ADP,294,1.2,Erasmus_Stultitiae Laus.txt
+3267,NOUN,DET,292,1.2,Erasmus_Stultitiae Laus.txt
+3268,VERB,ADJ,281,1.1,Erasmus_Stultitiae Laus.txt
+3269,ADV,ADJ,271,1.1,Erasmus_Stultitiae Laus.txt
+3270,ADV,PRON,269,1.1,Erasmus_Stultitiae Laus.txt
+3271,PRON,ADJ,267,1.1,Erasmus_Stultitiae Laus.txt
+3272,NOUN,ADP,264,1.1,Erasmus_Stultitiae Laus.txt
+3411,NOUN,NOUN,117,9.3,Hermanni_De Problemate Kepleriano.txt
+3412,NOUN,VERB,84,6.7,Hermanni_De Problemate Kepleriano.txt
+3413,VERB,NOUN,66,5.3,Hermanni_De Problemate Kepleriano.txt
+3414,ADP,NOUN,63,5.0,Hermanni_De Problemate Kepleriano.txt
+3415,VERB,VERB,50,4.0,Hermanni_De Problemate Kepleriano.txt
+3416,NOUN,ADP,38,3.0,Hermanni_De Problemate Kepleriano.txt
+3417,ADJ,NOUN,33,2.6,Hermanni_De Problemate Kepleriano.txt
+3418,VERB,ADP,29,2.3,Hermanni_De Problemate Kepleriano.txt
+3419,NOUN,NUM,29,2.3,Hermanni_De Problemate Kepleriano.txt
+3420,NOUN,PRON,27,2.2,Hermanni_De Problemate Kepleriano.txt
+3421,NOUN,ADJ,27,2.2,Hermanni_De Problemate Kepleriano.txt
+3422,DET,NOUN,26,2.1,Hermanni_De Problemate Kepleriano.txt
+3423,NUM,NOUN,22,1.8,Hermanni_De Problemate Kepleriano.txt
+3424,ADV,NOUN,22,1.8,Hermanni_De Problemate Kepleriano.txt
+3425,NOUN,ADV,21,1.7,Hermanni_De Problemate Kepleriano.txt
+3426,PRON,VERB,21,1.7,Hermanni_De Problemate Kepleriano.txt
+3427,PRON,NOUN,20,1.6,Hermanni_De Problemate Kepleriano.txt
+3428,ADJ,VERB,20,1.6,Hermanni_De Problemate Kepleriano.txt
+3429,VERB,ADV,19,1.5,Hermanni_De Problemate Kepleriano.txt
+3430,ADV,VERB,17,1.4,Hermanni_De Problemate Kepleriano.txt
+3431,AUX,NOUN,17,1.4,Hermanni_De Problemate Kepleriano.txt
+3432,NOUN,CCONJ,17,1.4,Hermanni_De Problemate Kepleriano.txt
+3433,NOUN,DET,16,1.3,Hermanni_De Problemate Kepleriano.txt
+3434,VERB,PRON,15,1.2,Hermanni_De Problemate Kepleriano.txt
+3435,VERB,ADJ,14,1.1,Hermanni_De Problemate Kepleriano.txt
+3436,ADP,ADJ,14,1.1,Hermanni_De Problemate Kepleriano.txt
+3538,NOUN,NOUN,826,8.3,Hermanni_De mensura virium corporum.txt
+3539,NOUN,VERB,577,5.8,Hermanni_De mensura virium corporum.txt
+3540,ADP,NOUN,489,4.9,Hermanni_De mensura virium corporum.txt
+3541,VERB,NOUN,358,3.6,Hermanni_De mensura virium corporum.txt
+3542,NOUN,ADP,340,3.4,Hermanni_De mensura virium corporum.txt
+3543,NOUN,ADJ,323,3.2,Hermanni_De mensura virium corporum.txt
+3544,VERB,VERB,288,2.9,Hermanni_De mensura virium corporum.txt
+3545,DET,NOUN,265,2.7,Hermanni_De mensura virium corporum.txt
+3546,VERB,ADP,262,2.6,Hermanni_De mensura virium corporum.txt
+3547,ADJ,NOUN,256,2.6,Hermanni_De mensura virium corporum.txt
+3548,NOUN,PRON,205,2.1,Hermanni_De mensura virium corporum.txt
+3549,ADV,VERB,192,1.9,Hermanni_De mensura virium corporum.txt
+3550,VERB,ADV,189,1.9,Hermanni_De mensura virium corporum.txt
+3551,NOUN,NUM,178,1.8,Hermanni_De mensura virium corporum.txt
+3552,PRON,VERB,165,1.7,Hermanni_De mensura virium corporum.txt
+3553,SCONJ,NOUN,165,1.7,Hermanni_De mensura virium corporum.txt
+3554,VERB,SCONJ,164,1.6,Hermanni_De mensura virium corporum.txt
+3555,ADV,NOUN,155,1.6,Hermanni_De mensura virium corporum.txt
+3556,CCONJ,NOUN,150,1.5,Hermanni_De mensura virium corporum.txt
+3557,ADJ,VERB,143,1.4,Hermanni_De mensura virium corporum.txt
+3558,NOUN,ADV,140,1.4,Hermanni_De mensura virium corporum.txt
+3559,NOUN,DET,140,1.4,Hermanni_De mensura virium corporum.txt
+3560,NUM,NOUN,138,1.4,Hermanni_De mensura virium corporum.txt
+3561,NOUN,CCONJ,138,1.4,Hermanni_De mensura virium corporum.txt
+3562,ADP,PRON,129,1.3,Hermanni_De mensura virium corporum.txt
+3563,PRON,NOUN,128,1.3,Hermanni_De mensura virium corporum.txt
+3564,VERB,PRON,110,1.1,Hermanni_De mensura virium corporum.txt
+3565,VERB,CCONJ,108,1.1,Hermanni_De mensura virium corporum.txt
+3696,NOUN,VERB,235,5.3,Leibnitius_De ipsa natura.txt
+3697,NOUN,NOUN,217,4.9,Leibnitius_De ipsa natura.txt
+3698,ADV,VERB,163,3.7,Leibnitius_De ipsa natura.txt
+3699,VERB,NOUN,161,3.6,Leibnitius_De ipsa natura.txt
+3700,VERB,VERB,149,3.4,Leibnitius_De ipsa natura.txt
+3701,ADP,NOUN,137,3.1,Leibnitius_De ipsa natura.txt
+3702,NOUN,ADJ,111,2.5,Leibnitius_De ipsa natura.txt
+3703,VERB,ADV,108,2.4,Leibnitius_De ipsa natura.txt
+3704,ADJ,NOUN,106,2.4,Leibnitius_De ipsa natura.txt
+3705,PRON,VERB,105,2.4,Leibnitius_De ipsa natura.txt
+3706,NOUN,CCONJ,96,2.2,Leibnitius_De ipsa natura.txt
+3707,VERB,PRON,91,2.0,Leibnitius_De ipsa natura.txt
+3708,DET,NOUN,90,2.0,Leibnitius_De ipsa natura.txt
+3709,CCONJ,NOUN,88,2.0,Leibnitius_De ipsa natura.txt
+3710,VERB,CCONJ,86,1.9,Leibnitius_De ipsa natura.txt
+3711,ADP,PRON,80,1.8,Leibnitius_De ipsa natura.txt
+3712,VERB,ADP,77,1.7,Leibnitius_De ipsa natura.txt
+3713,VERB,SCONJ,75,1.7,Leibnitius_De ipsa natura.txt
+3714,ADV,NOUN,73,1.6,Leibnitius_De ipsa natura.txt
+3715,NOUN,ADP,70,1.6,Leibnitius_De ipsa natura.txt
+3716,PRON,ADV,70,1.6,Leibnitius_De ipsa natura.txt
+3717,NOUN,ADV,66,1.5,Leibnitius_De ipsa natura.txt
+3718,PRON,NOUN,62,1.4,Leibnitius_De ipsa natura.txt
+3719,ADV,ADV,59,1.3,Leibnitius_De ipsa natura.txt
+3720,NOUN,DET,57,1.3,Leibnitius_De ipsa natura.txt
+3721,NOUN,PRON,56,1.3,Leibnitius_De ipsa natura.txt
+3722,ADJ,VERB,56,1.3,Leibnitius_De ipsa natura.txt
+3843,NOUN,VERB,227,6.1,Nepos_Atticus.txt
+3844,NOUN,NOUN,160,4.3,Nepos_Atticus.txt
+3845,VERB,NOUN,128,3.5,Nepos_Atticus.txt
+3846,VERB,VERB,119,3.2,Nepos_Atticus.txt
+3847,PRON,VERB,117,3.2,Nepos_Atticus.txt
+3848,ADP,NOUN,113,3.0,Nepos_Atticus.txt
+3849,DET,NOUN,93,2.5,Nepos_Atticus.txt
+3850,ADJ,NOUN,90,2.4,Nepos_Atticus.txt
+3851,NOUN,ADJ,86,2.3,Nepos_Atticus.txt
+3852,NOUN,PRON,85,2.3,Nepos_Atticus.txt
+3853,PRON,NOUN,84,2.3,Nepos_Atticus.txt
+3854,VERB,PRON,81,2.2,Nepos_Atticus.txt
+3855,VERB,SCONJ,72,1.9,Nepos_Atticus.txt
+3856,ADV,VERB,69,1.9,Nepos_Atticus.txt
+3857,NOUN,CCONJ,63,1.7,Nepos_Atticus.txt
+3858,VERB,ADV,59,1.6,Nepos_Atticus.txt
+3859,ADJ,VERB,56,1.5,Nepos_Atticus.txt
+3860,VERB,NUM,55,1.5,Nepos_Atticus.txt
+3861,ADV,NOUN,55,1.5,Nepos_Atticus.txt
+3862,NOUN,ADP,54,1.5,Nepos_Atticus.txt
+3863,PRON,PRON,54,1.5,Nepos_Atticus.txt
+3864,CCONJ,NOUN,52,1.4,Nepos_Atticus.txt
+3865,VERB,CCONJ,52,1.4,Nepos_Atticus.txt
+3866,ADP,PRON,48,1.3,Nepos_Atticus.txt
+3867,PRON,ADP,46,1.2,Nepos_Atticus.txt
+3868,NOUN,SCONJ,42,1.1,Nepos_Atticus.txt
+3869,SCONJ,PRON,42,1.1,Nepos_Atticus.txt
+3870,NOUN,ADV,42,1.1,Nepos_Atticus.txt
+3871,VERB,AUX,41,1.1,Nepos_Atticus.txt
+3998,NOUN,VERB,659,6.1,Cicero_Pro Milone.txt
+3999,NOUN,NOUN,574,5.4,Cicero_Pro Milone.txt
+4000,VERB,VERB,391,3.6,Cicero_Pro Milone.txt
+4001,VERB,NOUN,386,3.6,Cicero_Pro Milone.txt
+4002,ADP,NOUN,327,3.1,Cicero_Pro Milone.txt
+4003,PRON,VERB,325,3.0,Cicero_Pro Milone.txt
+4004,VERB,PRON,316,2.9,Cicero_Pro Milone.txt
+4005,ADJ,NOUN,280,2.6,Cicero_Pro Milone.txt
+4006,DET,NOUN,277,2.6,Cicero_Pro Milone.txt
+4007,NOUN,ADJ,257,2.4,Cicero_Pro Milone.txt
+4008,PRON,NOUN,255,2.4,Cicero_Pro Milone.txt
+4009,NOUN,PRON,240,2.2,Cicero_Pro Milone.txt
+4010,ADV,VERB,202,1.9,Cicero_Pro Milone.txt
+4011,PRON,PRON,195,1.8,Cicero_Pro Milone.txt
+4012,VERB,ADV,188,1.8,Cicero_Pro Milone.txt
+4013,VERB,SCONJ,183,1.7,Cicero_Pro Milone.txt
+4014,NOUN,DET,169,1.6,Cicero_Pro Milone.txt
+4015,VERB,CCONJ,167,1.6,Cicero_Pro Milone.txt
+4016,NOUN,CCONJ,162,1.5,Cicero_Pro Milone.txt
+4017,VERB,ADP,150,1.4,Cicero_Pro Milone.txt
+4018,ADP,PRON,149,1.4,Cicero_Pro Milone.txt
+4019,PRON,ADV,142,1.3,Cicero_Pro Milone.txt
+4020,NOUN,ADP,140,1.3,Cicero_Pro Milone.txt
+4021,ADV,NOUN,130,1.2,Cicero_Pro Milone.txt
+4022,VERB,AUX,129,1.2,Cicero_Pro Milone.txt
+4023,CCONJ,NOUN,128,1.2,Cicero_Pro Milone.txt
+4024,ADJ,VERB,122,1.1,Cicero_Pro Milone.txt
+4025,NOUN,ADV,122,1.1,Cicero_Pro Milone.txt
+4026,NOUN,SCONJ,115,1.1,Cicero_Pro Milone.txt
