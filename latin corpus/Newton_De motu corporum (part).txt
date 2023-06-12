@@ -1,0 +1,2018 @@
+DE MOTU CORPORUM
+
+       *       *       *       *       *
+
+Liber PRIMUS
+
+       *       *       *       *       *
+
+SECT. I.
+
+_De Methodo Rationum primarum & ultimarum, cujus ope sequentia
+demonstrantur._
+
+       *       *       *       *       *
+
+LEMMA I.
+
+    _Quantitates, ut & quantitatum rationes, quæ ad æqualitatem dato
+    tempore constanter tendunt & eo pacto propius ad invicem accedere
+    possunt quam pro data quavis differentia; fiunt ultimo æquales._
+
+Si negas, sit earum ultima differentia D. Ergo nequeunt propius ad
+æqualitatem accedere quam pro data differentia D: contra hypothesin.
+
+Lemma II.
+
+[Illustration]
+
+    _Si in figura quavis AacE rectis Aa, AE, & curva acE comprehensa,
+    inscribantur parallelogramma quotcunq; Ab, Bc, Cd, &c. sub basibus AB,
+    BC, CD, &c. æqualibus, & lateribus Bb, Cc, Dd, &c. figuræ lateri Aa
+    parallelis contenta; & compleantur parallelogramma aKbl, bLcm, cMdn,
+    &c. Dein horum parallelogrammorum latitudo minuatur, & numerus augeatur
+    in infinitum: dico quod ultimæ rationes, quas habent ad se invicem
+    figura inscripta AKbLcMdD, circumscripta AalbmcndoE, & curvilinea
+    AabcdE, sunt rationes æqualitatis._
+
+Nam figuræ inscriptæ & circumscriptæ differentia est summa
+parallelogrammorum Kl + Lm + Mn + Do, hoc est (ob æquales omnium bases)
+rectangulum sub unius basi Kb & altitudinum summa Aa, id est rectangulum
+ABla. Sed hoc rectangulum, eo quod latitudo ejus AB in infinitum minuitur,
+sit minus quovis dato. Ergo, per Lemma I, figura inscripta & circumscripta
+& multo magis figura curvilinea intermedia fiunt ultimo æquales.
+_Q. E. D._
+
+Lemma III.
+
+    _Eædem rationes ultimæ sunt etiam æqualitatis, ubi parallelogrammorum
+    latitudines AB, BC, CD, _&c._ sunt inæquales, & omnes minuuntur in
+    infinitum._
+
+Sit enim AF æqualis latitudini maximæ & compleatur parallelogrammum FAaf.
+Hoc erit majus quam differentia figuræ inscriptæ & figuræ circumscripta, at
+latitudine sua AF in infinitum diminuta, minus fiet quam datum quodvis
+rectangulum.
+
+_Corol. 1._ Hinc summa ultima parallelogrammorum evanescentium coincidit
+omni ex parte cum figura curvilinea.
+
+_Corol. 2._ Et multo magis figura rectilinea, quæ chordis evanescentium
+arcuum ab, bc, cd, _&c._ comprehenditur, coincidit ultimo cum figura
+curvilinea.
+
+_Corol. 3._ Ut & figura rectilinea quæ tangentibus eorundem arcuum
+circumscribitur.
+
+_Corol. 4._ Et propterea hæ figuræ ultimæ (quoad perimetros acE,) non sunt
+rectilineæ, sed rectilinearum limites curvilinei.
+
+Lemma IV.
+
+    _Si in duabus figuris AacE, PprT, inscribantur (ut supra) duæ
+    parallelogrammorum series, sitq; idem amborum numerus, & ubi
+    latitudines in infinitum diminuitur, rationes ultimæ parallelogrammorum
+    in una figura ad parallelogramma in altera, singulorum ad singula, sint
+    eædem; dico quod figuræ duæ AacE, PprT, sunt ad invicem in eadem illa
+    ratione._
+
+[Illustration]
+
+Etenim ut sunt parallelogramma singula ad singula, ita (componendo) fit
+summa omnium ad summam omnium, & ita figura ad figuram; existente nimirum
+figura priore (per Lemma III.) ad summam priorem, & posteriore figura ad
+summam posteriorem in ratione æqualitatis.
+
+_Corol._ Hinc si duæ cujuscunq; generis quantitates in eundem partium
+numerum utcunq; dividantur, & partes illæ, ubi numerus earum augetur &
+magnitudo diminuitur in infinitum, datam obtineant rationem ad invicem,
+prima ad primam, secunda ad secundam cæteræq; suo ordine ad cæteras; erunt
+tota ad invicem in eadem illa data ratione. Nam si in Lemmatis hujus
+figuris sumantur parallelogramma inter se ut partes, summæ partium semper
+erunt ut summæ parallelogrammorum; atq; adeo, ubi partium &
+parallelogrammorum numerus augetur & magnitudo diminuitur in infinitum, in
+ultima ratione parallelogrammi ad parallelogrammum, id est (per hypothesin)
+in ultima ratione partis ad partem.
+
+Lemma V.
+
+    _Similium figurarum latera omnia, quæ sibi mutuo respondent, sunt
+    proportionalia, tam curvilinea quam rectilinea, & areæ sunt in
+    duplicata ratione laterum._
+
+Lemma VI.
+
+[Illustration]
+
+    _Si arcus quilibet positione datus AB subtendatur chorda AB, & in
+    puncto aliquo A, in medio curvaturæ continuæ, tangatur a recta utrinq;
+    producta AD; dein puncta A, B ad invicem accendant & coeant; dico quod
+    angulus BAD sub chorda & tangente contentus minuetur in infinitum &
+    ultimo evanescet._
+
+Nam producatur AB ad b & AD ad d, & punctis A, B coeuntibus, nullaq; adeo
+ipsius Ab parte AB jacente amplius intra curvam, manifestum esi quod hæc
+recta Ab, vel coincidet cum tangente Ad, vel ducetur inter tangentem &
+curvam. Sed casus posterior est contra naturam Curvaturæ, ergo prior
+obtinet.   _Q. E. D._
+
+Lemma VII.
+
+    _Iisdem positis, dico quod ultima ratio arcus, chordæ & tangentis ad
+    invicem est ratio æqualitatis. Vide _Fig._ Lem. 6 & 8 vi._
+
+Nam producantur AB & AD ad b & d secanti BD parallela agatur bd. Sitq;
+arcus Ab similis arcui AB. Et punctis A, B coeuntibus, angulus dAb, per
+Lemma superius, evanescet; adeoq; rectæ Ab, Ad arcus intermedius Ab
+coincident, & propterea æquales erunt. Unde & hisce semper proportionales
+rectæ AB, AD, & arcus intermedius AB rationem ultimam habebunt æqualitatis.
+_Q. E. D._
+
+[Illustration]
+
+_Corol. 1._ Unde si per B ducatur tangenti parallela BF rectam quamvis AF
+per A transeuntem perpetuo secans in F, hæc ultimo ad arcum evanescentem AB
+rationem habebit æqualitatis, eo quod completo parallelogrammo AFBD,
+rationem semper habet æqualitatis ad AD.
+
+_Corol. 2._ Et si per B & A ducantur plures rectæ BE, BD, AF, AG, secantes
+tangentem AD & ipsius parallelam BF, ratio ultima abscissarum omnium AD,
+AE, BF, BG, chordæq; & arcus AB ad invicem erit ratio æqualitatis.
+
+_Corol. 3._ Et propterea hæ omnes lineæ in omni de rationibus ultimis
+argumentatione pro se invicem usurpari possunt.
+
+Lemma VIII.
+
+[Illustration]
+
+    _Si rectæ datæ AR, BR cum arcu AB, chorda AB & tangente AD, triangula
+    tria ARB, ARB, ARD constituunt, dein puncta A, B accedunt ad invicem:
+    dico quod ultima forma triangulorum evanescentium est similitudinis, &
+    ultima ratio æqualitatis._
+
+Nam producantur AB, AD, AR ad b, d & r. Ipsi RD agatur parallela rbd, &
+arcui AB similis ducatur arcus Ab. Coeuntibus punctis A, B, angulus bAd
+evanescet, & propterea triangula tria rAb, rAb, rAd coincident, suntq; eo
+nomine similia & æqualia. Unde & hisce semper similia & proportionalia RAB,
+RAB, RAD fient ultimo sibi invicem similia & æqualia.   _Q. E. D._
+
+_Corol._ Et hinc triangula illa in omni de rationibus ultimis
+argumentatione pro se invicem usurpari possunt.
+
+Lemma IX.
+
+[Illustration]
+
+    _Si recta AE & Curva AC positione datæ se mutuo secent in angulo dato
+    A, & ad rectam illam in alio dato angulo ordinatim applicentur BD, EC,
+    curvæ occurrentes in B, C; dein puncta B, C accedant ad punctum A: dico
+    quod areæ triangulorum ADB, AEC erunt ultimo ad invicem in duplicata
+    ratione laterum._
+
+Etenim in AD producta capiantur Ad, Ae ipsis AD, AE proportionales, &
+erigantur ordinatæ db, ec ordinatis DB, EC parallelæ & proportionales.
+Producatur AC ad c, ducatur curva Abc ipsi ABC similis, & recta Ag tangatur
+curva utraq; in A; & secantur ordinatim applicatæ in F, G, f, g. Tum coeant
+puncta B, C cum puncto A, & angulo cAg evanescente, coincident areæ
+curvilineæ Abd, Ace cum rectilineis Afd, Age, adeoq; per Lemma V, erunt in
+duplicata ratione laterum Ad, Ae: Sed his areis proportionales semper sunt
+areæ ABD, ACE, & his lateribus latera AD, AE. Ergo & areæ ABD, ACE sunt
+ultimo in duplicata ratione laterum AD, AE.   _Q. E. D._
+
+Lemma X.
+
+    _Spatia, quæ corpus urgente quacunq; vi regulari describit, sunt ipso
+    motus initio in duplicata ratione temporum._
+
+Exponantur tempora per lineas AD, AE, & velocitates genitæ per ordinatas
+DB, EC, & spatia his velocitatibus descripta erunt ut areæ ABD, ACE his
+ordinatis descriptæ, hoc est ipso motus initio (per Lemma IX) in duplicata
+ratione temporum AD, AE.   _Q. E. D._
+
+_Corol. 1._ Et hinc facile colligitur, quod corporum similes similium
+figurarum partes temporibus proportionalibus describentium errores, qui
+viribus æqualibus in partibus istis ad corpora similiter applicatis
+generantur, & mensurantur a locis figurarum, ad quæ corpora temporibus
+ijsdem proportionalibus absq; viribus istis pervenirent, sunt ut quadrata
+temporum in quibus generantur quam proxime.
+
+_Corol. 2._ Errores autem qui viribus proportionalibus similiter applicatis
+generantur, sunt ut vires & quadrata temporum conjunctim.
+
+Lemma XI.
+
+    _Subtensa evanescens anguli contactus est ultimo in ratione duplicata
+    subtensæ arcus contermini._
+
+[Illustration]
+
+_Cas. 1._ Sit arcus ille AB, tangens ejus AD, subtensa anguli contactus ad
+tangentem perpendicularis BD, subtensa arcus AB. Huic subtensæ AB &
+tangenti AD perpendiculares erigantur AG, BG, concurrentes in G; dein
+accedant puncta D, B, G, ad puncta d, b, g, sitq; J intersectio linearum
+BG, AG ultimo facta ubi puncta D, B accedunt usq; ad A. Manifestum est quod
+distantia GJ minor esse potest quam assignata quævis. Est autem (ex natura
+circulorum per puncta ABG, Abg transeuntium) AB quad. æquale AG × BD & Ab
+quad. æquale Ag × bd, adeoq; ratio AB quad. ad Ab quad. componitur ex
+rationibus AG ad Ag & BD ad bd. Sed quoniam JG assumi potest minor
+longitudine quavis assignata, fieri potest ut ratio AG ad Ag minus differat
+a ratione æqualitatis quam pro differentia quavis assignata, adeoq; ut
+ratio AB quad. ad Ab quad. minus differat a ratione BD ad bd quam pro
+differentia quavis assignata. Est ergo, per Lemma I, ratio ultima AB quad.
+ad Ab quad. æqualis rationi ultimæ BD ad bd.   _Q. E. D._
+
+_Cas. 2._ Inclinetur jam BD ad AD in angulo quovis dato, & eadem semper
+erit ratio ultima BD ad bd quæ prius, adeoq; eadem ac AB quad. ad Ab quad.
+_Q. E. D._
+
+_Cas. 3._ Et quamvis angulus D non detur, tamen anguli D, d ad æqualitatem
+semper vergent & propius accedent ad invicem quam pro differentia quavis
+assignata, adeoq; ultimo æquales erunt, per Lem. I. & propterea lineæ BD,
+bd in eadem ratione ad invicem ac prius.   _Q. E. D._
+
+_Corol. 1._ Unde cum tangentes AD, Ad, arcus AB, Ab & eorum sinus BC, bc
+fiant ultimo chordis AB, Ab æquales; erunt etiam illorum quadrata ultimo ut
+subtensæ BD, bd.
+
+_Corol. 2._ Triangula rectilinea ADB, Adb sunt ultimo in triplicata ratione
+laterum AD, Ad, inq; sesquiplicata laterum DB, db: Utpote in composita
+ratione laterum AD & DB, Ad & db existentia. Sic & triangula ABC, Abc sunt
+ultimo in triplicata ratione laterum BC, bc.
+
+_Corol. 3._ Et quoniam DB, db sunt ultimo parallelæ & in duplicata ratione
+ipsarum AD, Ad; erunt areæ ultimæ curvilineæ ADB, Adb (ex natura Parabolæ)
+duæ tertiæ partes triangulorum rectilineorum ADB, Adb, & segmenta AB, Ab
+partes tertiæ eorundem triangulorum. Et inde hæ areæ & hæc segmenta erunt
+in triplicata ratione tum tangentium AD, Ad; tum chordarum & arcuum AB, Ab.
+
+_Scholium._
+
+Cæterum in his omnibus supponimus angulum contactus nec infinite majorem
+esse angulis contactuum, quos circuli continent cum tangentibus suis, nec
+iisdem infinite minorem; hoc est curvaturam ad punctum A, nec infinite
+parvam esse nec infinite magnam, seu intervallum AJ finitæ esse
+magnitudinis. Capi enim potest DB ut AD^3: quo in casu circulus nullus per
+punctum A inter tangentem AD & curvam AB duci potest, proindeq; angulus
+contactus erit infinite minor circularibus. Et simili argumento si fiat DB
+successive ut AD^4, AD^5, AD^6, AD^7, &c. habebitur series angulorum
+contactus pergens in infinitum, quorum quilibet posterior est infinite
+minor priore. Et si fiat DB successive ut AD^2, AD^{3/2}, AD^{4/3},
+AD^{5/4}, AD^{6/5}, AD^{7/6}, &c. habebitur alia series infinita angulorum
+contactus, quorum primus est ejusdem generis cum circularibus, secundus
+infinite major, & quilibet posterior infinite major priore. Sed & inter
+duos quosvis ex his angulis potest series utrinq; in infinitum pergens
+angulorum intermediorum inseri, quorum quilibet posterior erit infinite
+major priore. Ut si inter terminos AD^2 & AD^3 inseratur series AD^{13/6},
+AD^{11/5}, AD^{9/4}, AD^{7/3}, AD^{5/2}, AD^{8/3}, AD^{11/4}, AD^{14/5},
+AD^{17/6}, &c. Et rursus inter binos quosvis angulos hujus seriei inseri
+potest series nova angulorum intermediorum ab invicem infinitis intervallis
+differentium. Neq; novit natura limitem.
+
+Quæ de curvis lineis deq; superficiebus comprehensis demonstrata sunt,
+facile applicantur ad solidorum superficies curvas & contenta. Præmisi vero
+hæc Lemmata ut effugerem tædium deducendi perplexas demonstrationes, more
+veterum Geometrarum, ad absurdum. Contractiores enim redduntur
+demonstrationes per methodum indivisibilium. Sed quoniam durior est
+indivisibilium Hypothesis; & propterea Methodus illa minus Geometrica
+censetur, malui demonstrationes rerum sequentium ad ultimas quantitatum
+evanescentium summas & rationes, primasq; nascentium, id est, ad limites
+summarum & rationum deducere, & propterea limitum illorum demonstrationes
+qua potui breuitate præmittere. His enim idem præstatur quod per methodum
+indivisibilium, & principiis demonstratis jam tutius utemur. Proinde in
+sequentibus, siquando quantitates tanquam ex particulis constantes
+consideravero, vel si pro rectis usurpavero lineolas curvas, nolim
+indivisibilia sed evanescentia divisibilia, non summas & rationes partium
+determinatarum, sed summarum & rationum limites semper intelligi, vimq;
+talium demonstrationum ad methodum præcedentium Lemmatum semper revocari.
+
+Objectio est, quod quantitatum evanescentium nulla sit ultima proportio;
+quippe quæ, antequam evanuerunt, non est ultima, ubi evanuerunt, nulla est.
+Sed & eodem argumento æque contendi posset nullam esse corporis ad certum
+locum pergentis velocitatem ultimam. Hanc enim, antequam corpus attingit
+locum, non esse ultimam, ubi attigit, nullam esse. Et responsio facilis
+est. Per velocitatem ultimam intelligi eam, qua corpus movetur neq;
+antequam attingit locum ultimum & motus cessat, neq; postea, sed tunc cum
+attingit, id est illam ipsam velocitatem quacum corpus attingit locum
+ultimum & quacum motus cessat. Et similiter per ultimam rationem
+quantitatum evanescentium intelligendam esse rationem quantitatum non
+antequam evanescunt, non postea, sed quacum evanescunt. Pariter & ratio
+prima nascentium est ratio quacum nascuntur. Et summa prima & ultima est
+quacum esse (vel augeri & minui) incipiunt & cessant. Extat limes quem
+velocitas in fine motus attingere potest, non autem transgredi. Hæc est
+velocitas ultima. Et par est ratio limitis quantitatum & proportionum
+omnium incipientium & cessantium. Cumq; hic limes sit certus & definitus,
+Problema est vere Geometricum eundem determinare. Geometrica vero omnia in
+aliis Geometricis determinandis ac demonstrandis legitime usurpantur.
+
+Contendi etiam potest, quod si dentur ultimæ quantitatum evanescentium
+rationes, dabuntur & ultimæ magnitudines; & sic quantitas omnis constabit
+ex indivisibilibus, contra quam _Euclides_ de incommensurabilibus, in libro
+decimo Elementorum, demonstravit. Verum hæc Objectio falsæ innititur
+hypothesi. Ultimæ rationes illæ quibuscum quantitates evanescunt, revera
+non sunt rationes quantitatum ultimarum, sed limites ad quos quantitatum
+sine limite decrescentium rationes semper appropinquant, & quas propius
+assequi possunt quam pro data quavis differentia, nunquam vero transgredi,
+neq; prius attingere quam quantitates diminuuntur in infinitum. Res clarius
+intelligetur in infinite magnis. Si quantitates duæ quarum data est
+differentia augeantur in infinitum, dabitur harum ultima ratio, nimirum
+ratio æqualitatis, nec tamen ideo dabuntur quantitates ultimæ seu maximæ
+quarum ista est ratio. Igitur in sequentibus, siquando facili rerum
+imaginationi consulens, dixero quantitates quam minimas, vel evanescentes
+vel ultimas, cave intelligas quantitates magnitudine determinatas, sed
+cogita semper diminuendas sine limite.
+
+       *       *       *       *       *
+
+
+SECT. II.
+
+_De Inventione Virium Centripetarum._
+
+Prop. I. Theorema. I.
+
+    _Areas quas corpora in gyros acta radiis ad immobile centrum virium
+    ductis describunt, & in planis immobilibus consistere, & esse
+    temporibus proportionales._
+
+[Illustration]
+
+Dividatur tempus in partes æquales, & prima temporis parte describat corpus
+vi insita rectam AB. Idem secunda temporis parte, si nil impediret, recta
+pergeret ad c, (per Leg. I) describens lineam Bc æqualem ipsi AB, adeo ut
+radiis AS, BS, cS ad centrum actis, consectæ forent æquales areæ ASB, BSc.
+Verum ubi corpus venit ad B, agat vis centripeta impulsu unico sed magno,
+faciatq; corpus a recta Bc deflectere & pergere in recta BC. Ipsi BS
+parallela agatur cC occurrens BC in C, & completa secunda temporis parte,
+corpus (per Legum Corol. I) reperietur in C, in eodem plano cum triangulo
+ASB. Junge SC, & triangulum SBC, ob parallelas SB, Cc, æquale erit
+triangulo SBc, atq; adeo etiam triangulo SAB. Simili argumento si vis
+centripeta successive agat in C, D, E, &c. faciens ut corpus singulis
+temporis particulis singulas describat rectas CD, DE, EF, &c. jacebunt hæ
+in eodem plano, & triangulum SCD triangulo SBC & SDE ipsi SCD & SEF ipsi
+SDE æquale erit. Æqualibus igitur temporibus æquales areæ in plano immoto
+describuntur: & componendo, sunt arearum summæ quævis SADS, SAFS inter se,
+ut sunt tempora descriptionum. Augeatur jam numerus & minuatur latitudo
+triangulorum in infinitum, & eorum ultima perimeter ADF, (per Corollarium
+quartum Lemmatis tertii) erit linea curva; adeoq; vis centripeta qua corpus
+de tangente hujus curvæ perpetuo retrahitur, aget indesinenter; areæ vero
+quævis descriptæ SADS, SAFS temporibus descriptionum semper proportionales,
+erunt iisdem temporibus in hoc casu proportionales.   _Q. E. D._
+
+_Corol. 1._ In mediis non resistentibus, si areæ non sunt temporibus
+proportionales, vires non tendunt ad concursum radiorum.
+
+_Corol. 2._ In mediis omnibus, si arearum descriptio acceleratur, vires non
+tendunt ad concursum radiorum, sed inde declinant in consequentia.
+
+Pro. II. Theor. II.
+
+    _Corpus omne quod, cum movetur in linea aliqua curva, & radio ducto ad
+    punctum vel immobile, vel motu rectilineo uniformiter progrediens,
+    describit areas circa punctum illud temporibus proportionales, urgetur
+    a vi centripeta tendente ad idem punctum._
+
+_Cas. 1._ Nam corpus omne quod movetur in linea curva, detorquetur de cursu
+rectilineo per vim aliquam in ipsum agentem. (per Leg. I.) Et vis illa qua
+corpus de cursu rectilineo detorquetur & cogitur triangula quam minima SAB,
+SBC, SCD &c. circa punctum immobile S, temporibus æqualibus æqualia
+describere, agit in loco B secundum lineam parallelam ipsi cC (per Prop. 40
+Lib. I Elem. & Leg. II.) hoc est secundum lineam BS & in loco C secundum
+lineam ipsi dD parallelam, hoc est secundum lineam CS, &c. Agit ergo semper
+secundum lineas tendentes ad punctum illud immobile S.   _Q. E. D._
+
+_Cas. 2._ Et, per Legum Corollarium quintum, perinde est sive quiescat
+superficies in qua corpus describit figuram curvilineam, sive moveatur
+eadem una cum corpore, figura descripta & puncto suo S uniformiter in
+directum.
+
+_Scholium._
+
+Urgeri potest corpus a vi centripeta composita ex pluribus viribus. In hoc
+casu sensus Propositionis est, quod vis illa quæ ex omnibus componitur,
+tendit ad punctum S. Porro si vis aliqua agat secundum lineam superficiei
+descriptæ perpendicularem, hæc faciet corpus deflectere a plano sui motus,
+sed quantitatem superficiei descriptæ nec augebit nec minuet, & propterea
+in compositione virium negligenda est.
+
+Prop. III. Theor. III.
+
+    _Corpus omne quod, radio ad centrum corporis alterius utcunq; moti
+    ducto, describit areas circa centrum illud temporibus proportionales,
+    urgetur vi composita ex vi centripeta tendente ad corpus alterum & ex
+    vi omni acceleratrice, qua corpus alterum urgetur._
+
+Nam (per Legum Corol. 6.) si vi nova, quæ æqualis & contraria sit illi qua
+corpus alterum urgetur, urgeatur corpus utrumq; secundum lineas parallelas,
+perget corpus primum describere circa corpus alterum areas easdem ac prius:
+vis autem qua corpus alterum urgebatur, jam destruetur per vim sibi æqualem
+& contrariam, & propterea (per Leg. 1.) corpus illud alterum vel quiescet
+vel movebitur uniformiter in directum, & corpus primum, urgente differentia
+virium, perget areas temporibus proportionales circa corpus alterum
+describere. Tendit igitur (per Theor. 2.) differentia virium ad corpus
+illud alterum ut centrum.   _Q. E. D._
+
+_Corol. 1._ Hinc si corpus unum radio ad alterum ducto describit areas
+temporibus proportionales, atq; de vi tota (sive simplici, sive ex viribus
+pluribus, juxta Legum Corollarium secundum, composita,) qua corpus prius
+urgetur, subducatur (per idem Legum Corollarium) vis tota acceleratrix qua
+corpus alterum urgetur; vis omnis reliqua qua corpus prius urgetur tendet
+ad corpus alterum ut centrum.
+
+_Corol. 2._ Et si areæ illæ sunt temporibus quamproxime proportionales, vis
+reliqua tendet ad corpus alterum quamproxime.
+
+_Corol. 3._ Et vice versa, si vis reliqua tendit quamproxime ad corpus
+alterum, erunt areæ illæ temporibus quamproxime proportionales.
+
+_Corol. 4._ Si corpus radio ad alterum corpus ducto describit areas quæ,
+cum temporibus collatæ, sunt valde inæquales, & corpus illud alterum vel
+quiescit vel movetur uniformiter in directum; actio vis centripetæ ad
+corpus illud alterum tendentis, vel nulla est, vel miscetur & componitur
+cum actionibus admodum potentibus aliarum virium: Visq; tota ex omnibus, si
+plures sunt vires, composita, ad aliud (sive immobile sive mobile) centrum
+dirigitur, circum quod æquabilis est arearum descriptio. Idem obtinet ubi
+corpus alterum motu quocunq; movetur, si modo vis centripeta sumatur, quæ
+restat post subductionem vis totius agentis in corpus illud alterum.
+
+_Scholium_
+
+Quoniam æquabilis arearum descriptio Index est centri quod vis illa
+respicit qua corpus maxime afficitur, corpus autem vi ad hoc centrum
+tendente retinetur in orbita sua, & motus omnis circularis recte dicitur
+circa centrum illud fieri, cujus vi corpus retrahitur de motu rectilineo &
+retinetur in Orbita: quidni usurpemus in sequentibus æquabilem arearum
+descriptionem ut Indicem centri circum quod motus omnis circularis in
+spatiis liberis peragitur?
+
+Prop. IV. Theor. IV.
+
+    _Corporum quæ diversos circulos æquabili motu describunt, vires
+    centripetas ad centra eorundem circulorum tendere, & esse inter se ut
+    arcuum simul descriptorum quadrata applicata ad circulorum radios._
+
+[Illustration]
+
+Corpora B, b in circumferentiis circulorum BD, bd gyrantia, simul
+describant arcus BD, bd. Quoniam sola vi insita describerent tangentes BC,
+bc his arcubus æquales, manifestum est quod vires centripetæ sunt quæ
+perpetuo retrahunt corpora de tangentibus ad circumferentias circulorum,
+atq; adeo hæ sunt ad invicem in ratione prima spatiorum nascentium CD, cd:
+tendunt vero ad centra circulorum per Theor. II, propterea quod areæ radiis
+descriptæ ponuntur temporibus proportionales. Fiat figura tkb figuræ DCB
+similis, & per Lemma V, lineola CD erit ad lineolam kt ut arcus BD ad arcum
+bt: nec non, per Lemma XI, lineola nascens tk ad lineolam nascentem dc ut
+bt quad. ad bd quad. & ex æquo lineola nascens DC ad lineolam nascentem dc
+ut BD × bt ad bd quad. seu quod perinde est, ut BD × bt ÷ Sb ad bd quad. ÷
+Sb, adeoq; (ob æquales rationes bt ÷ Sb & BD ÷ SB) ut BD quad. ÷ SB ad bd
+quad. ÷ Sb   _Q. E. D._
+
+_Corol. 1._ Hinc vires centripetæ sunt ut velocitatum quadrata applicata ad
+radios circulorum.
+
+_Corol. 2._ Et reciproce ut quadrata temporum periodicorum applicata ad
+radios ita sunt hæ vires inter se. Id est (ut cum Geometris loquar) hæ
+vires sunt in ratione composita ex duplicata ratione velocitatum directe &
+ratione simplici radiorum inverse: necnon in ratione composita ex ratione
+simplici radiorum directe & ratione duplicata temporum periodicorum
+inverse.
+
+_Corol. 3._ Unde si tempora periodica æquantur, erunt tum vires centripetæ
+tum velocitates ut radii, & vice versa.
+
+_Corol. 4._ Si quadrata temporum periodicorum sunt ut radii, vires
+centripetæ sunt æquales, & velocitates in dimidiata ratione radiorum: Et
+vice versa.
+
+_Corol. 5._ Si quadrata temporum periodicorum sunt ut quadrata radiorum,
+vires centripetæ sunt reciproce ut radii, & velocitates æquales; Et vice
+versa.
+
+_Corol. 6._ Si quadrata temporum periodicorum sunt ut cubi radiorum, vires
+centripeta: sunt reciproce ut quadrata radiorum; velocitates autem in
+radiorum dimidiata ratione: Et vice versa.
+
+_Corol. 7._ Eadem omnia de temporibus, velocitatibus & viribus, quibus
+corpora similes figurarum quarumcunq; similium, centraq; similiter posita
+habentium, partes describunt, consequuntur ex Demonstratione præcedentium
+ad hosce casus applicata.
+
+_Scholium._
+
+Casus Corollarii sexti obtinet in corporibus cælestibus (ut seorsum
+colligerunt etiam nostrates _Wrennus, Hookius & Halleus_) & propterea quæ
+spectant ad vim centripetam decrescentem in duplicata ratione distantiarum
+a centris decrevi fusius in sequentibus exponere.
+
+Porro præcedentis demonstrationis beneficio colligitur etiam proportio vis
+centripetæ ad vim quamlibet notam, qualis est ea gravitatis. Nam cum vis
+illa, quo tempore corpus percurrit arcum BC, impellat ipsum per spatium CD,
+quod ipso motus initio æquale est quadrato arcus illius BD ad circuli
+diametrum applicato; & corpus omne vi eadem in eandem semper plagam
+continuata, describat spatia in duplicata ratione temporum: Vis illa, quo
+tempore corpus revolvens arcum quemvis datum describit, efficiet ut corpus
+idem recta progrediens describat spatium quadrato arcus illius ad circuli
+diametrum applicato æquale; adeoq; est ad vim gravitatis ut spatium illud
+ad spatium quod grave cadendo eodem tempore describit. Et hujusmodi
+Propositionibus _Hugenius_, in eximio suo Tractatu de Horologio
+oscillatorio, vim gravitatis cum revolventium viribus centrifugis contulit.
+
+Demonstrari etiam possunt præcedentia in hunc modum. In circulo quovis
+describi intelligatur Polygonum laterum quotcunq; Et si corpus in Polygoni
+lateribus data cum velocitate movendo, ad ejus angulos singulos a circulo
+reflectatur; vis qua singulis reflexionibus impingit in circulum erit ut
+ejus velocitas, adeoq; summa virium in dato tempore erit ut velocitas illa
+& numerus reflexionum conjunctim, hoc est (si Polygonum detur specie) ut
+longitudo dato illo tempore descripta & longitudo eadem applicata ad Radium
+circuli, id est ut quadratum longitudinis illius applicatum ad Radium;
+adeoq; si Polygonum lateribus infinite diminutis coincidat cum circulo, ut
+quadratum arcus dato tempore descripti applicatum ad radium. Hæc est vis
+qua corpus urget circulum, & huic æqualis est vis contraria qua circulus
+continuo repellit corpus centrum versus.
+
+Prop. V. Prob. I.
+
+[Illustration]
+
+    _Data quibuscunq; in locis velocitate, qua corpus figuram datam viribus
+    ad commune aliquod centrum tendentibus describit, centrum illud
+    invenire._
+
+Figuram descriptam tangant rectæ tres PT, TQV, VR in punctis totidem P, Q,
+R, concurrentes in T & V. Ad tangentes erigantur perpendicula PA, QB, RC,
+velocitatibus corporis in punctis illis P, Q, R a quibus eriguntur
+reciproce proportionalia; id est ita ut sit PA ad QB ut velocitas in Q ad
+velocitatem in P, & QB ad RC ut velocitas in R ad velocitatem in Q. Per
+perpendiculorum terminos A, B, C ad angulos rectos ducantur AD, DBE, EC
+concurrentia in D & E: Et actæ TD, VE concurrent in centro quæsito S.
+
+Nam cum corpus in P & Q radiis ad centrum ductis areas describat temporibus
+proportionales, sintq; areæ illæ simul descriptæ ut velocitates in P & Q
+ductæ respective in perpendicula a centro in tangentes PT, QT demissa:
+Erunt perpendicula illa ut velocitates reciproce, adeoq; ut perpendicula
+AP, BQ directe, id est ut perpendicula a puncto D in tangentes demissa.
+Unde facile colligitur quod puncta S, D, T sunt in una recta. Et simili
+argumento puncta S, E, V sunt etiam in una recta; & propterea centrum S in
+concursu rectarum TD, VE versatur.   _Q. E. D._
+
+Pro. VI. Theor. V.
+
+    _Si corpus P revolvendo circa centrum S, describat lineam quamvis
+    curvam APQ, tangat vero recta ZPR curvam illam in puncto quovis P, & ad
+    tangentem ab alio quovis curvæ Q agatur QR distantiæ SP parallela, ac
+    demittatur QT perpendicularis ad distantiam SP: Dico quod vis
+    centripeta sit reciproce ut solidum SP quad. × QT quad. ÷ QR, si modo
+    solidi illius ea semper sumatur quantitas quæ ultimo fit ubi coeunt
+    puncta P & Q._
+
+[Illustration]
+
+Namq; in figura indefinite parva QRPT lineola nascens QR, dato tempore, est
+ut vis centripeta (per Leg. II.) & data vi, ut quadratum temporis (per Lem.
+X.) atq; adeo, neutro dato, ut vis centripeta & quadratum temporis
+conjunctim, adeoq; vis centripeta ut lineola QR directe & quadratum
+temporis inverse. Est autem tempus ut area SPQ, ejus dupla SP × QT, id est
+ut SP & QT conjunctim, adeoq; vis centripeta ut QR directe atq; SP quad. in
+QT quad. inverse, id est ut SP quad. × QT quad. ÷ QR inverse.   _Q. E. D._
+
+_Corol._ Hinc si detur figura quævis, & in ea punctum ad quod vis
+centripeta dirigitur; inveniri potest lex vis centripetæ quæ corpus in
+figuræ illius perimetro gyrari faciet. Nimirum computandum est solidum SP
+quad. × QT quad. ÷ QR huic vi reciproce proportionale. Ejus rei dabimus
+exempla in problematis sequentibus.
+
+Prop. VII. Prob. II.
+
+[Illustration]
+
+    _Gyretur corpus in circumferentia circuli, requiritur lex vis
+    centripetæ tendentis ad punctum aliquod in circumferentia datum._
+
+Esto circuli circumferentia SQPA, centrum vis centripetæ S, corpus in
+circumferentia latum P, locus proximus in quem movebitur Q. Ad diametrum SA
+& rectam SP demitte perpendiculi PK, QT, & per Q ipsi SP parallelam age LR
+occurrentem circulo in L & tangenti PR in R, & coeant TQ, PR in Z. Ob
+similitudinem triangulorum ZQR, ZTP, SPA erit RP quad. (hoc est QRL) ad QT
+quad. ut SA quad. ad SP quad. Ergo QRL × SP quad. ÷ SA quad. æquatur QT
+quad. Ducantur hæc æqualia in SP quad. ÷ QR, & punctis P & Q coeuntibus,
+scribatur SP pro RL. Sic fiet SP qc. ÷ SAq. æquale QTq. × SPq. ÷ QR. Ergo
+(per Corol. Theor. V.) vis centripeta reciproce est ut SP qc. ÷ SAq., id
+est (ob datum SA quad.) ut quadrato-cubus distantiæ SP. Quod erat
+inveniendum.
+
+Prop. VIII. Prob. III.
+
+[Illustration]
+
+    _Moveatur corpus in circulo PQA: ad hunc effectum requiritur lex vis
+    centripetæ tendentis ad punctum adeo longinquum, ut lineæ omnes PS, RS
+    ad id ductæ, pro parallelis haberi possint._
+
+A circuli centro C agatur semidiameter CA parallelas istas
+perpendiculariter secans in M & N, & jungantur CP. Ob similia triangula
+CPM, & TPZ, vel (per Lem. VIII.) TPQ, est CPq. ad PMq. ut PQq. vel (per
+Lem. VII.) PRq. ad QTq. & ex natura circuli rectangulum QR × RN + QN æquale
+est PR quadrato. Coeuntibus autem punctis P, Q fit RN + QN æqualis 2PM.
+Ergo est CP quad. ad PM quad. ut QR × 2PM ad QT quad. adeoq; QT quad. ÷ QR
+æquale 2PM cub. ÷ CP quad., & QT quad. × SP quad. ÷ QR æquale 2PM cub. × SP
+quad. ÷ CP quad. Est ergo (per Corol. Theor. V.) vis centripeta reciproce
+ut 2PM cub. × SP quad. ÷ CP quad. hoc est (neglecta ratione determinata 2SP
+quad. ÷ CP quad.) reciproce ut PM cub.   _Q. E. I._
+
+_Scholium._
+
+Et simili argumento corpus movebitur in Ellipsi vel etiam in Hyperbola vel
+Parabola, vi centripeta quæ sit reciproce ut cubus ordinatim applicatæ ad
+centrum virium maxime longinquum tendentis.
+
+Prop. IX. Prob. IV.
+
+[Illustration]
+
+    _Gyretur corpus in spiral PQS secante radios omnes SP, SQ, &c. in
+    angulo dato: Requiritur lex vis centripetæ tendentis ad centrum
+    spiralis._
+
+Detur angulus indefinite parvus PSQ, & ob datos omnes angulos dabitur
+specie figura SPQRT. Ergo datur ratio QT ÷ RQ estq; QT quad. ÷ QR ut QT,
+hoc est ut SP. Mutetur jam utcunq; angulus PSQ, & recta QR angulum
+contactus QPR subtendens mutabitur (per Lemma XI.) in duplicata ratione
+ipsius PR vel QT. Ergo manebit QT quad. ÷ QR eadem quæ prius, hoc est ut
+SP. Quare QTq. × SPq. ÷ QR est ut SP cub. id est (per Corol. Theor. V.) vis
+centripeta ut cubus distantiæ SP.   _Q. E. I._
+
+Lemma XII.
+
+    _Parallelogramma omnia circa datam Ellipsin descripta esse inter se
+    æqualia. Idem intellige de Parallelogrammis in Hyperbola circum
+    diametros ejus descriptis._
+
+Constat utrumq; ex Conicis.
+
+Prop. X. Prob. V.
+
+    _Gyretur corpus in Ellipsi: requiritur lex vis centripetæ tendentis ad
+    centrum Ellipseos._
+
+[Illustration]
+
+Sunto CA, CB semiaxes Ellipseos; GP, DK diametri conjugatæ; PF, Qt,
+perpendicula ad diametros; Qv ordinatim applicata ad diametrum GP; & si
+compleatur parallelogrammum QvRP, erit (ex Conicis) PvG ad Qv quad. ut PC
+quad. ad CD quad. & (ob similia triangula Qvt, PCF) Qv quad. est ad Qt
+quad. ut PC quad. ad PF quad. & conjunctis rationibus, PvG ad Qt quad. ut
+PC quad. ad CD quad. & PC quad. ad PF quad. id est vG ad Qt quad. ÷ Pv ut
+PC quad. ad CDq. × PFq. ÷ PCq.. Scribe QR pro Pv, & (per Lemma xii.) BC ×
+CA pro CD × PF, nec non (punctis P & Q coeuntibus) 2PC pro vG, & ductis
+extremis & medijs in se mutuo, fiet QTq. × PCq. ÷ QR æquale 2BCq. × CAq. ÷
+PC. Est ergo (per Corol. Theor. V.) vis centripeta reciproce ut 2BCq. ×
+CAq. ÷ PC, id est (ob datum 2BCq. × CAq.) ut 1 ÷ PC, hoc est, directe ut
+distantia PC.   _Q. E. I._
+
+_Corol. 1._ Unde vicissim si vis sit ut distantia, movebitur corpus in
+Ellipsi centrum habente in centro virium, aut forte in circulo, in quem
+Ellipsis migrare potest.
+
+_Corol. 2._ Et æqualia erunt revolutionum in Figuris universis circa
+centrum idem factarum periodica tempora. Nam tempora illa in Ellipsibus
+similibus æqualia sunt per Corol. 3 & 7 Prop. IV: In Ellipsibus autem
+communem habentibus axem majorem, sunt ad invicem ut Ellipseon areæ totæ
+directe & arearum particulæ simul descriptæ inverse; id est ut axes minores
+directe & corporum velocitates in verticibus principalibus inverse, hoc est
+ut axes illi directe & ordinatim applicatæ ad axes alteros inverse, &
+propterea (ob æqualitatem rationum directarum & inversarum) in ratione
+æqualitatis.
+
+_Scholium._
+
+Si Ellipsis, centro in infinitum abeunte, vertatur in Parabolam, corpus
+movebitur in hac Parabola, & vis ad centrum infinite distans jam tendens,
+evadet æquabilis. Hoc est Theorema _Galilei_. Et si Conisectio Parabolica,
+inclinatione plani ad conum sectum mutata, vertatur in Hyperbolam,
+movebitur corpus in hujus perimetro, vi centripeta in centrifugam versa.
+
+       *       *       *       *       *
+
+
+SECT. III.
+
+_De motu Corporum in Conicis Sectionibus excentricis._
+
+Prop. XI. Prob. VI.
+
+    _Revolvatur corpus in Ellipsi: Requiritur lex vis centripetæ tendentis
+    ad umbilicum Ellipseos._
+
+[Illustration]
+
+Esto Ellipseos superioris umbilicus S. Agatur SP secans Ellipseos tum
+diametrum DK in E, tum ordinatim applicatam Qv in x, & compleatur
+parallelogrammum QxPR. Patet EP æqualem esse semiaxi majori AC, eo quod
+acta ab altero Ellipseos umbilico H linea HI ipsi EC parallela, (ob æquales
+CS, CH) æquentur ES, EI, adeo ut EP semisumma sit ipsarum PS, PI, id est
+(ob parallelas HI, PR & angulos æquales IPR, HPZ) ipsorum PS, PH, quæ
+conjunctim axem totum 2AC adæquant. Ad SP demittatur perpendicularis QT, &
+Ellipseos latere recto principali (seu 2BC quad. ÷ AC) dicto L, erit L × QR
+ad L × Pv ut QR ad Pv; id est ut PE (seu AC) ad PC; & L × Pv ad GvP ut L ad
+Gv; & GvP ad Qv quad. ut CP quad. ad CD quad.; & (per Lem. VIII.) Qv quad.
+ad Qx quad. punctis Q & P coeuntibus, est ratio æqualitatis, & Qx quad. seu
+Qv quad. est ad QT quad. ut EP quad. ad PF quad., id est ut CA quad. ad PF
+quad. sive (per Lem. XII.) ut CD quad. ad CB quad. Et conjunctis his
+omnibus rationibus, L × QR fit ad QT quad. ut AC ad PC + L ad Gv + CPq. ad
+CDq. + CDq. ad CBq. id est ut AC × L (seu 2CBq.) × CPq. ad PC × Gv × CBq.
+sive ut 2PC ad Gv. Sed punctis Q & P coeuntibus, æquantur 2PC & Gv. Ergo &
+his proportionalia L × QR & QT quad. æquantur. Ducantur hæc aqualia in SPq.
+÷ QR & fiet L × SPq. æquale SPq. × QTq. ÷ QR. Ergo (per Corol. Theor. V.)
+vis centripeta reciproce est ut L × SPq. id est reciproce in ratione
+duplicata distantiæ SP.   _Q. E. I._
+
+Eadem brevitate qua traduximus Problema quintum ad Parabolam, & Hyperbolam,
+liceret idem hic facere: verum ob dignitatem Problematis & usum ejus in
+sequentibus, non pigebit casus cæteros demonstratione confirmare.
+
+Prop. XII. Prob. VII.
+
+    _Moveatur corpus in Hyperbola: requiritur lex vis centripetæ tendentis
+    ad umbilicum figuræ._
+
+[Illustration]
+
+Sunto CA, CB semi-axes Hyperbolæ; PG, KD diametri conjugatæ; PF, Qt
+perpendicula ad diametros; & Qv ordinatim applicata ad diametrum GP. Agatur
+SP secans tum diametrum DK in E, tum ordinatim applicatam Qv in x, &
+compleatur parallelogrammum QRPx. Patet EP æqualem esse semi-axi transverso
+AC, eo quod, acta ab altero Hyperbolæ umbilico H linea HI ipsi EC
+parallela, ob æquales CS, CH, æquentur ES, EI; adeo ut EP semidifferentia
+sit ipsarum PS, PI, id est (ob parallelas HI, PR & angulos æquales IPR,
+HPZ) ipsarum PI, PH, quarum differentia axem totum 2AC adæquat. Ad SP
+demittatur perpendicularis QT. Et Hyperbolæ latere recto principali (seu
+2BCq. ÷ AC) dicto L, erit L × QR ad L × Pv ut QR ad Pv, id est, ut PE (seu
+AC) ad PC; Et L × Pv ad GvP ut L ad Gv; & GvP ad Qvq. ut CPq. ad CDq.; &
+(per Lem. VIII.) Qvq. ad Qxq., punctis Q & P coeuntibus fit ratio
+æqualitatis; & Qxq. seu Qvq. est ad QTq. ut EPq. ad PFq., id est ut CAq. ad
+PFq., sive (per Lem. XII.) ut CDq. ad CBq.: & conjunctis his omnibus
+rationibus L × QR fit ad QTq. ut AC ad PC + L ad Gv + CPq. ad CDq. + CDq.
+ad CBq.: id est ut AC × L (seu 2BCq.) × PCq. ad PC × Gv × CB quad. sive ut
+2PC ad Gv, sed punctis Q & P coeuntibus æquantur 2PC & Gv. Ergo & his
+proportionalia L × QR & QTq. æquantur. Ducantur hæc æqualia in SPq. ÷ QR &
+fiet L × SPq. æquale SPq. × QTq. ÷ QR. Ergo (per Corol. Theor. V.) vis
+centripeta reciproce est ut L × SPq. id est in ratione duplicata distantiæ
+SP.   _Q. E. I._
+
+Eodem modo demonstratur quod corpus, hac vi centripeta in centrifugam
+versa, movebitur in Hyperbola conjugata.
+
+Lemma XIII.
+
+    _Latus rectum Parabolæ ad verticem quemvis pertinens, est quadruplum
+    distantiæ verticis illius ab umbilico figuræ._ Patet ex Conicis.
+
+Lemma XIV.
+
+[Illustration]
+
+    _Perpendiculum quod ab umbilico Parabolæ ad tangentem ejus demittitur,
+    medium est proportionale inter distantias umbilici a puncto contactus &
+    a vertice principali figuræ._
+
+Sit enim APQ Parabola, S umbilicus ejus, A vertex principalis, P punctum
+contactus, PO ordinatim applicata ad diametrum principalem, PM tangens
+diametro principali occurrens in M, & SN linea perpendicularis ab umbilico
+in tangentem. Jungatur AN, & ob æquales MS & SP, MN & NP, MA & AO,
+parallelæ erunt rectæ AN & OP, & inde triangulum SAN rectangulum erit ad A
+& simile triangulis æqualibus SMN, SPN. Ergo PS est ad SN ut SN ad SA.
+_Q. E. D._
+
+Corol. 1. PSq. est ad SNq. ut PS ad SA.
+
+Corol. 2. Et ob datam SA, est SNq. ut PS.
+
+Corol. 3. Et concursus tangentis cujusvis PM cum recta SN quæ ab umbilico
+in ipsam perpendicularis est, incidit in rectam AN, quæ Parabolam tangit in
+vertice principali.
+
+Prop. XIII. Prob. VIII.
+
+    _Moveatur corpus in perimetro Parabolæ: requiritur Lex vis centripetæ
+    tendentis ad umbilicum hujus figuræ._
+
+[Illustration]
+
+Maneat constructio Lemmatis, sitq; P corpus in perimetro Parabolæ, & a loco
+Q in quem corpus proxime movetur, age ipsi SP Parallelam QR &
+perpendicularem QT, necnon Qv tangentiparallelam & occurrentem tum diametro
+YPG in v, tum distantiæ SP in x. Jam ob similia triangula Pxv, MSP &
+æqualia unius latera SM, SP, æqualia sunt alterius latera Px seu QR & Pv.
+Sed, ex Conicis, quadratum ordinatæ Qv æquale est rectangulo sub latere
+recto & segmento diametri Pv, id est (per Lem. XIII.) rectangulo 4PS × Pv
+seu 4PS × QR; & punctis P & Q coeuntibus, ratio Qv ad Qx (per Lem. 8.) fit
+æqualitatis. Ergo Qxq. eo in casu, æquale est rectangulo 4PS × QR. Est
+autem (ob æquales angulos QxT, MPS, PMO) Qxq. ad QTq. ut PSq. ad SNq. hoc
+est (per Corol. I. Lem. XIV.) ut PS ad AS, id est ut 4PS × QR ad 4AS × QR,
+& inde (per Prop. 9. Lib. V. Elem.) QTq. & 4AS × QR æquantur. Ducantur hæc
+æqualia in SPq. ÷ QR, & fiet SPq. × QTq. ÷ QR æquale SPq. × 4AS: &
+propterea (per Corol. Theor. V.) vis centripeta est reciproce ut SPq. ×
+4AS, id est, ob datam 4AS, reciproce in duplicata ratione distantiæ SP.
+_Q. E. I._
+
+_Corol. I._ Ex tribus novissimis Proportionibus consequens est, quod si
+corpus quodvis P, secundum lineam quamvis rectam PR, quacunq; cum
+velocitate exeat de loco P, & vi centripeta quæ sit reciproce
+proportionalis quadrato distantiæ a centro, simul agitetur; movebitur hoc
+corpus in aliqua sectionum Conicarum umbilicum habente in centro virium; &
+contra.
+
+_Corol. II._ Et si velocitas, quacum corpus exit de loco suo P, ea sit, qua
+lineola PR in minima aliqua temporis particula describi possit, & vis
+centripeta potis sit eodem tempore corpus idem movere per spatium QR:
+movebitur hoc corpus in Conica aliqua sectione cujus latus rectum est
+quantitas illa QTq. ÷ QR quæ ultimo fit ubi lineolæ PR, QR in infinitum
+diminuuntur. Circulum in his Corollariis refero ad Ellipsin, & casum
+excipio ubi corpus recta descendit ad centrum.
+
+Prop. XIV. Theor. VI.
+
+    _Si corpora plura revolvantur circa centrum commune, & vis centripeta
+    decrescat in duplicata ratione distantiarum a centro; dico quod Orbium
+    Latera recta sunt in duplicata ratione arearum quas corpora, radiis ad
+    centrum ductis, eodem tempore describunt._
+
+Nam per Corol. II. Prob. VIII. Latus rectum L æquale est quantitati QTq. ÷
+QR quæ ultimo fit ubi coeunt puncta P & Q. Sed linea minima QR, dato
+tempore, est ut vis centripeta generans, hoc est (per Hypothesin) reciproce
+ut SPq. Ergo QTq. ÷ QR est ut QTq. × SPq. hoc est, latus rectum L in
+duplicata ratione areæ QT × SP.   _Q. E. D._
+
+Corol. Hinc Ellipseos area tota, eiq; proportionale rectangulum sub axibus,
+est in ratione composita ex dimidiata ratione lateris recti & integra
+ratione temporis periodici.
+
+Prop. XV. Theor. VII.
+
+    _Iisdem positis, dico quod tempora periodica in Ellipsibus sunt in
+    ratione sesquiplicata transversorum axium._
+
+Namq; axis minor est medius proportionalis inter axem majorem (quem
+transversum appello) & latus rectum, atq; adeo rectangulum sub axibus est
+in ratione composita ex dimidiata ratione lateris recti & sesquiplicata
+ratione axis transversi. Sed hoc rectangulum, per Corollarium Theorematis
+Sexti, est in ratione composita ex dimidiata ratione lateris recti &
+integra ratione periodici temporis. Dematur utrobiq; dimidiata ratio
+lateris recti & manebit sesquiplicata ratio axis transversi æqualis rationi
+periodici temporis.   _Q. E. D._
+
+Corol. Sunt igitur tempora periodica in Ellipsibus eadem ac in circulis,
+quorum diametri æquantur majoribus axibus Ellipseon.
+
+Prop. XVI. Theor. VIII.
+
+    _Iisdem positis, & actis ad corpora lineis rectis, quæ ibidem tangant
+    orbitas, demissisq; ab umbilico communi ad has tangentes
+    perpendicularibus: dico quod velocitates corporum sunt in ratione
+    composita ex ratione perpendiculorum inverse & dimidiata ratione
+    laterum rectorum directe._ Vide Fig. Prop. X. &. XI.
+
+Ab umbilico S ad tangentem PR demitte perpendiculum SY & velocitas corporis
+P erit reciproce in dimidiata ratione quantitatis SYq. ÷ L. Nam velocitas
+illa est ut arcus quam minimus PQ in data temporis particula descriptus,
+hoc est (per Lem. VII.) ut tangens PR, id est (ob proportionales PR ad QT &
+SP ad SY) ut SP × QT ÷ SY, sive ut SY reciproce & SP × QT directe; estq; SP
+× QT ut area dato tempore descripta, id est, per Theor. VI. in dimidiata
+ratione lateris recti   _Q. E. D._
+
+_Corol. 1._ Latera recta sunt in ratione composita ex duplicata ratione
+perpendiculorum & duplicata ratione velocitatum.
+
+_Corol. 2._ Velocitates corporum in maximis & minimis ab umbilico communi
+distantiis, sunt in ratione composita ex ratione distantiarum inverse &
+dimidiata ratione laterum rectorum directe. Nam perpendicula jam sunt ipsæ
+distantiæ.
+
+_Corol. 3._ Ideoq; velocitas in Conica sectione, in minima ab umbilico
+distantia, est ad velocitatem in circulo in eadem a centro distantia, in
+dimidiata ratione lateris recti ad distantiam illam duplicatam.
+
+_Corol. 4._ Corporum in Ellipsibus gyrantium velocitates in mediocribus
+distantiis ab umbilico communi sunt eædem quæ corporum gyrantium in
+circulis ad easdem distantias, hoc est (per Corol. VI. Theor. IV.)
+reciproce in dimidiata ratione distantiarum. Nam perpendicula jam sunt
+semi-axes minores, & hi sunt ut mediæ proportionales inter distantias &
+latera recta. Componatur hæc ratio inverse cum dimidiata ratione laterum
+rectorum directe, & fiet ratio dimidiata distantiarum inverse.
+
+_Corol. 5._ In eadem vel æqualibus figuris, vel etiam in figuris
+inæqualibus, quarum latera recta sunt æqualia, velocitas corporis est
+reciproce ut perpendiculum demissum ab umbilico ad tangentem.
+
+_Corol. 6._ In Parabola, velocitas est reciproce in dimidiata ratione
+distantiæ corporis ab umbilico figuræ, in Ellipsi minor est, in Hyperbola
+major quam in hac ratione. Nam (per Corol. 2 Lem. XIV.) perpendiculum
+demissum ab umbilico ad tangentem Parabolæ est in dimidiata ratione
+distantiæ.
+
+_Corol. 7._ In Parabola, velocitas ubiq; est ad velocitatem corporis
+revolventis in circulo ad eandem distantiam, in dimidiata ratione numeri
+binarii ad unitatem; in Ellipsi minor est, in Hyperbola major quam in hac
+ratione. Nam per hujus Corollarium secundum, velocitas in vertice Parabolæ
+est in hac ratione, & per Corollaria sexta hujus & Theorematis quarti,
+servatur eadem proportio in omnibus distantiis. Hinc etiam in Parabola
+velocitas ubiq; æqualis est velocitati corporis revolventis in circulo ad
+dimidiam distantiam, in Ellipsi minor est, in Hyperbola major.
+
+_Corol. 8._ Velocitas gyrantis in Sectione quavis Conica est ad velocitatem
+gyrantis in circulo in distantia dimidii lateris recti Sectionis, ut
+distantia illa ad perpendiculum ab umbilico in tangentem Sectionis
+demissum. Patet per Corollarium quintum.
+
+_Corol. 9._ Unde cum (per Corol. 6. Theor. IV.) velocitas gyrantis in hoc
+circulo sit ad velocitatem gyrantis in circulo quovis alio, reciproce in
+dimidiata ratione distantiarum; fiet ex æquo velocitas gyrantis in Conica
+sectione ad velocitatem gyrantis in circulo in eadem distantia, ut media
+proportionalis inter distantiam illam communem & semissem lateris recti
+sectionis, ad perpendiculum ab umbilico communi in tangentem sectionis
+demissum.
+
+Prop. XVII. Prob. IX.
+
+    _Posito quod vis centripeta sit reciproce proportionalis quadrato
+    distantiæ a centro, & quod vis illius quantitas absoluta sit cognita;
+    requiritur linea quam corpus describit, de loco dato cum data
+    velocitate secundum datam rectam egrediens._
+
+[Illustration]
+
+Vis centripeta tendens ad punctum S ea sit quæ corpus p in orbita quavis
+data pq gyrare faciat, & cognoscatur hujus velocitas in loco p. De loco P
+secundum lineam PR exeat corpus P cum data velocitate, & mox inde, cogente
+vi centripeta, deflectat illud in Conisectionem PQ. Hanc igitur recta PR
+tanget in P. Tangat itidem recta aliqua pr orbitam pq in p, & si ab S ad
+eas tangentes demitti intelligantur perpendicula, erit (per Corol. 1.
+Theor. VIII.) latus rectum Conisectionis ad latus rectum orbitæ datæ, in
+ratione composita ex duplicata ratione perpendiculorum & duplicata ratione
+velocitatum, atq; adeo datur. Sit istud L. Datur præterea Conisectionis
+umbilicus S. Anguli RPS complementum ad duos rectos fiat angulus RPH, &
+dabitur positione linea PH, in qua umbilicus alter H locatur. Demisso ad PH
+perpendiculo SK, & erecto semiaxe conjugato BC, est SPq. - 2KPH + PHq. (per
+Prop. 13. Lib. II. Elem.) = SHq. = 4CHq. = 4BHq. - 4BCq. = {SP + PH} quad.
+- L × {SP + PH} = SPq. + 2SPH + PHq. - L × {SP + PH}. Addantur utrobiq;
+2KPH + L × {SP + PH} - SPq. - PHq. & fiet L × {SP + PH} = 2SPH + 2KPH, seu
+SP + PH ad PH ut 2SP + 2KP ad L. Unde datur PH tam longitudine quam
+positione. Nimirum si ea sit corporis in P velocitas, ut latus rectum L
+minus fuerit quam 2SP + 2KP, jacebit PH ad eandem partem tangentis PR cum
+linea PS, adeoq; figura erit Ellipsis, & ex datis umbilicis S, H, & axe
+principali SP + PH, dabitur: Sin tanta sit corporis velocitas ut latus
+rectum L æquale fuerit 2SP + 2KP, longitudo PH infinita erit, & propterea
+figura erit Parabola axem habens SH parallelum lineæ PK, & inde dabitur.
+Quod si corpus majori adhuc cum velocitate de loco suo P exeat, capienda
+erit longitudo PH ad alteram partem tangentis, adeoq; tangente inter
+umbilicos pergente, figura erit Hyperbola axem habens principalem æqualem
+differentiæ linearum SP & PH, & inde dabitur.   _Q. E. I._
+
+_Corol. 1._ Hinc in omni Conisectione ex dato vertice principali D, latere
+recto L, & umbilico S, datur umbilicus alter H capiendo DH ad DS ut est
+latus rectum ad differentiam inter latus rectum & 4DS. Nam proportio SP +
+PH ad PH ut 2SP ad L, in casu hujus Corollarii, fit DS + DH ad DH ut 4DS ad
+L, & divisim DS ad DH ut 4DS - L ad L.
+
+_Corol. 2._ Unde si datur corporis velocitas in vertice principali D,
+invenietur Orbita expedite, capiendo scilicet latus rectum ejus, ad duplam
+distantiam DS, in duplicata ratione velocitatis hujus datæ ad velocitatem
+corporis in circulo ad distantiam DS gyrantis: (Per Corol. 3. Theor. VIII.)
+dein DH ad DS ut latus rectum ad differentiam inter latus rectum & 4DS.
+
+_Corol. 3._ Hinc etiam si corpus moveatur in Sectione quacunq; Conica, & ex
+orbe suo impulsu quocunq; exturbetur; cognosci potest orbis in quo postea
+cursum suum peraget. Nam componendo proprium corporis motum cum motu illo
+quem impulsus solus generaret, habebitur motus quocum corpus de dato
+impulsus loco, secundum rectam positione datam, exibit.
+
+_Corol. 4._ Et si corpus illud vi aliqua extrinsecus impressa continuo
+perturbetur, innotescet cursus quam proxime, colligendo mutationes quas vis
+illa in punctis quibusdam inducit, & ex seriei analogia, mutationes
+continuas in locis intermediis æstimando.
+
+       *       *       *       *       *
+
+
+SECT. IV.
+
+_De Inventione Orbium Ellipticorum, Parabolicorum & Hyperbolicorum ex
+umbilico dato._
+
+[Illustration]
+
+_Lemma XV._
+
+    _Si ab Ellipseos vel Hyperbolæ cujusvis umbilicis duobus S, H, ad
+    punctum quodvis tertium V inflectantur rectæ duæ SV, HV, quarum una HV
+    æqualis sit axi transverso figuræ, altera SV a perpendiculo TR in se
+    demisso bisecetur in T; perpendiculum illud TR sectionem Conicam
+    alicubi tangit: & contra, si tangit, erit VH æqualis axi figuræ._
+
+Secet enim VH sectionem conicam in R, & jungatur SR. Ob æquales rectas TS,
+TV, æquales erunt anguli TRS, TRV. Bisecat ergo RT angulum VRS & propterea
+figuram tangit: & contra.   _Q. E. D._
+
+Prop. XVIII. Prob. X.
+
+    _Datis umbilico & axibus transversis describere Trajectorias Ellipticas
+    & Hyperbolicas, quæ transibunt per puncta data, & rectas positione
+    datas contingent._
+
+[Illustration]
+
+Sit S communis umbilicus figuraram; AB longitudo axis transversi
+Trajectoriæ cujusvis; P punctum per quod Trajectoria debet transire; & TR
+recta quam debet tangere. Centro P intervallo AB - SP, si orbita sit
+Ellipsis, vel AB + SP, si ea sit Hyperbola, describatur circulus HG. Ad
+tangentem TR demittatur perpendiculum ST, & producatur ea ad V ut sit TV
+æqualis ST; centroq; V & intervallo AB describatur circulus FH. Hac methodo
+sive dentur duo puncta P, p, sive duæ tangentes TR, tr, sive punctum P &
+tangens TR, describendi sunt circuli duo. Sit H eorum intersectio communis,
+& umbilicis S, H, axe illo dato describatur Trajectoria. Dico factum. Nam
+Trajectoria descripta (eo quod PH + SP in Ellipsi, & PH - SP in Hyperbola
+æquatur axi) transibit per punctum P, & (per Lemma superius) tanget rectam
+TR. Et eodem argumento vel transibit eadem per puncta duo P, p, vel tanget
+rectas duas TR, tr.   _Q. E. F._
+
+Prop. XIX. Prob. XI.
+
+    _Circa datum umbilicum Trajectoriam Parabolicam describere, quæ
+    transibit per puncta data, & rectas positione datas continget._
+
+[Illustration]
+
+Sit S umbilicus, P punctum & TR tangens trajectoriæ describendæ. Centro P,
+intervallo PS describe circulum FG. Ab umbilico ad tangentem demitte
+perpendicularem ST, & produc eam ad V, ut sit TV æqualis ST. Eodem modo
+describendus est alter circulus fg, si datur alterum punctum p; vel
+inveniendum alterum punctum v, si datur altera tangens tr; dein ducenda
+recta IF quæ tangat duos circulos FG, fg si dantur duo puncta P, p; vel
+transeat per duo puncta V, v, si dantur duæ tangentes TR, tr, vel tangat
+circulum FG & transeat per punctum V, si datur punctum P & tangens TR. Ad
+FI demitte perpendicularem SI, eamq; biseca in K, & axe SK, vertice
+principali K describatur Parabola. Dico factum. Nam Parabola ob æquales SK
+& IK, SP & FP transibit per punctum P; & (per Lemmatis XIV. Corol. 3.) ob
+æquales ST & TV & angulum rectum STR, tanget rectam TR.   _Q. E. F._
+
+Prop. XX. Prob. XII.
+
+[Illustration]
+
+    _Circa datum umbilicum Trajectoriam quamvis specie datam describere,
+    quæ per data puncta transibit & rectas tanget positione datas._
+
+_Cas. 1._ Dato umbilico S, describenda sit Trajectoria ABC per puncta duo
+B, C. Quoniam Trajectoria datur specie, dabitur ratio axis transversi ad
+distantiam umbilicorum. In ea ratione cape KB ad BS, & LC ad CS. Centris B,
+C, intervallis BK, CL, describe circulos duos, & ad rectam KL, quæ tangat
+eosdem in K & L, demitte perpendiculum SG, idemq; seca in A & a, ita ut sit
+SA ad AG & Sa ad aG, ut est SB ad BK, & axe Aa, verticibus A, a,
+describatur Trajectoria. Dico factum. Sit enim H umbilicus alter figuræ
+descriptæ, & cum sit SA ad AG ut Sa ad aG, erit divisim Sa - SA seu SH ad
+aG - AG seu Aa in eadem ratione, adeoq; in ratione quam habet axis
+transversus figuræ describendæ ad distantiam umbilicorum ejus; & propterea
+figura descripta est ejusdem speciei cum describenda. Cumq; sint KB ad BS &
+LC ad CS in eadem ratione, transibit hæc Figura per puncta B, C, ut ex
+Conicis manifestum est.
+
+[Illustration]
+
+_Cas. 2._ Dato umbilico S, describenda sit Trajectoria quæ rectas duas TR,
+tr alicubi contingat. Ab umbilico in tangentes demitte perpendicula ST, St
+& produc eadem ad V, v, ut sint TV, tv æquales TS, ts. Biseca Vv in O, &
+erige perpendiculum infinite OH, rectamq; VS infinite productam seca in K &
+k ita, ut sit VK ad KS & Vk ad kS ut est Trajectoriæ describendæ axis
+transversus ad umbilicorum distantiam. Super diametro Kk describatur
+circulus secans rectam OH in H; & umbilicis S, H, axe transverso ipsam VH
+æquante, describatur Trajectoria. Dico factum. Nam biseca Kk in X, & junge
+HX, HS, HV, Hv. Quoniam est VK ad KS ut Vk ad kS; & composite ut VK + Vk ad
+KS + kS; divisimq; ut Vk - VK ad kS - KS id est ut 2VX ad 2KX & 2KX ad 2SX,
+adeoq; ut VX ad HX & HX ad SX, similia erunt triangula VXH, HXS, &
+propterea VH erit ad SH ut VX ad XH, adeoq; ut VK ad KS. Habet igitur
+Trajectoria; descriptæ axis transversus VH eam rationem ad ipsius
+umbilicorum distantiam SH, quam habet Trajectoriæ describendæ axis
+transversus ad ipsius umbilicorum distantiam, & propterea ejusdem est
+speciei. Insuper cum VH, vH æquentur axi transverso, & VS, vS a rectis TR,
+tr perpendiculariter bisecentur, liquet, ex Lemmate XV, rectas illas
+Trajectoriam descriptam tangere.   _Q. E. F._
+
+[Illustration]
+
+_Cas. 3._ Dato umbilico S describenda sit Trajectoria quæ rectam TR tanget
+in puncto dato R. In rectam TR demitte perpendicularem ST, & produc eandem
+ad V, ut sit TV æqualis ST. Junge VR, & rectam VS infinite productam seca
+in K & k, ita ut sit VK ad SK & Vk ad Sk ut Ellipseos describendæ axis
+transversus ad distantiam umbilicorum; circuloq; super diametro Kk
+descripto, secetur producta recta VR in H, & umbilicis S, H, axe transverso
+rectam HV æquante, describatur Trajectoria. Dico factum. Namq; VH esse ad
+SH ut VK ad SK, atq; adeo ut axis transversus Trajectoriæ describendæ ad
+distantiam umbilicorum ejus, patet ex demonstratis in Casu secundo, &
+propterea Trajectoriam descriptam ejusdem esse speciei cum describenda:
+rectam vero TR qua angulus VRS bisecatur, tangere Trajectoriam in puncto R,
+patet ex Conicis.   _Q. E. F._
+
+[Illustration]
+
+_Cas. 4._ Circa umbilicum S describenda jam sit Trajectoria APB, quæ tangat
+rectam TR, transeatq; per punctum quodvis P extra tangentem datum, quæq;
+similis sit figuræ apb, axe transverso ab & umbilicis s, h descriptæ. In
+tangentem TR demitte perpendiculum ST, & produc idem ad V, ut sit TV
+æqualis ST. Angulis autem VSP, SVP fac angulos hsq, shq æquales; centroq; q
+intervallo quod sit ad ab ut SP ad VS describe circulum secantem figuram
+apb in p. Junge sp & age SH quæ sit ad sh ut est SP ad sp quæq; angulum PSH
+angulo psh & angulum VSH angulo psq æquales constituat. Deniq; umbilicis S,
+H, axe distantiam VH æquante, describatur sectio conica.
+
+Dico factum. Nam si agatur sv quæ sit ad sp ut est sh ad sq, quæq;
+constituat angulum vsp angulo hsq & angulum vsh angulo psq æquales,
+triangula svh, spq erunt similia, & propterea vh erit ad pq ut est sh ad
+sq, id est (ob similia triangula VSP, hsq) ut est VS ad SP seu ab ad pq.
+Æquantur ergo vh & ab. Porro ob similia triangula VSH, vsh est VH ad SH ut
+vh ad sh, id est, axis Conicæ actionis jam descripta: ad illius umbilicorum
+intervallum, ut axis ab ad umbilicorum intervallum sh, & propterea figura
+jam descripta similis est figuræ apb. Transit autem hæc figura per punctum
+P, eo quod triangulum PSH simile sit triangulo psh; & quia VH æquatur
+ipsius axi & VS bisecatur perpendiculariter a recta TR tangit eadem rectam
+TR.   _Q. E. F._
+
+Lemma XVI.
+
+    _A datis tribus punctis ad quartum non datum inflectere tres rectas
+    quarum differentiæ vel dantur vel nullæ sunt._
+
+[Illustration]
+
+_Cas. 1._ Sunto puncta illa data A, B, C & punctum quartum Z, quod invenire
+oportet: Ob datam differentiam linearum AZ, BZ, locabitur punctum Z in
+Hyperbola cujus umbilici sunt A & B, & axis transversus differentia illa
+data. Sit axis ille MN. Cape PM ad MA ut est MN ad AB, & erecto PR
+perpendiculari ad AB, demissoq; ZR perpendiculari ad PR, erit ex natura
+hujus Hyperbolæ ZR ad AZ ut est MN ad AB. Simili discursu punctum Z
+locabitur in alia Hyperbola, cujus umbilici sunt A, C & axis transversus
+differentia inter AZ & CZ, duciq; potest QS ipsi AC perpendicularis, ad
+quam si ab Hyperbolæ hujus puncto quovis Z demittatur normalis ZS, hæc
+fuerit ad AZ ut est differentia inter AZ & CZ ad AC. Dantur ergo rationes
+ipsarum ZR & ZS ad AZ, & idcirco datur earundem ZR & ZS ratio ad invicem;
+adeoq; rectis RP, SQ concurrentibus in T, locabitur punctum Z in recta TZ
+positione data. Eadem Methodo per Hyperbolam tertiam, cujus umbilici sunt B
+& C & axis transversus differentia rectarum BZ, CZ, inveniri potest alia
+recta in qua punctum Z locatur. Habitis autem duobus locis rectilineis,
+habetur punctum quæsitum Z in earum intersectione,   _Q. E. I._
+
+_Cas. 2._ Si duæ ex tribus lineis, puta AZ & BZ æquantur, punctum Z
+locabitur in perpendiculo bisecante distantiam AB, & locus alius
+rectilineus invenietur ut supra.   _Q. E. I._
+
+_Cas. 3._ Si omnes tres æquantur, locabitur punctum Z in centro circuli per
+puncta A, B, C transeuntis.   _Q. E. I._
+
+Solvitur etiam hoc Lemma problematicum per Librum. Tactionum _Apollonii_ a
+_Vieta_ restitutum.
+
+Prop. XXI. Prob. XIII.
+
+[Illustration]
+
+    _Trajectoriam circa datum umbilicum describere, quæ transibit per
+    puncta data & rectas positione datas continget._
+
+Detur umbilicus S, punctum P, & tangens TR, & inveniendus sit umbilicus
+alter H. Ad tangentem demitte perpendiculum ST, & produc idem ad Y, ut sit
+TY æqualis ST, & erit YH æqualis axi transverso. Junge SP, HP & erit SP
+differentia inter HP & axem transversum. Hoc modo si dentur plures
+tangentes TR, vel plura puncta P, devenietur semper ad lineas totidem YH,
+vel PH, a dictis punctis Y vel P ad umbilicum H ductas, quæ vel æquantur
+axibus, vel datis longitudinibus SP differunt ab iisdem, atq; adeo quæ vel
+æquantur sibi invicem, vel datas habent differentias; & inde, per Lemma
+superius, datur umbilicus ille alter H. Habitis autem umbilicis una cum
+axis longitudine (quæ vel est YH, vel si Trajectoria Ellipsis est, PH + SP;
+sin Hyperbola PH - SP) habetur Trajectoria.   _Q. E. I._
+
+_Scholium._
+
+[Illustration]
+
+Casus ubi dantur tria puncta sic solvitur expeditius. Dentur puncta B, C,
+D. Junctas BC, CD produc ad E, F, ut sit EB ad EC ut SB ad SC, & FC ad FD
+ut SC ad SD. Ad EF ductam & productam demitte normales SG, BH, inq; GS
+infinite producta cape GA ad AS & Ga ad aS ut est HB ad BS; & erit A
+vertex, & Aa axis transversus Trajectoriæ: quæ, perinde ut GA minor,
+æqualis vel major fuerit quam AS, erit Ellipsis, Parabola vel Hyperbola;
+puncto a in primo casu cadente ad eandem partem lineæ GK cum puncto A; in
+secundo casu abeunte in infinitum; in tertio cadente ad contrariam partem
+lineæ GK. Nam si demittantur ad GF perpendicula CI, DK, erit IC ad HB ut EC
+ad EB, hoc est ut SC ad SB; & vicissim IC ad SC ut HB ad SB, seu GA ad SA.
+Et simili argumento probabitur esse KD ad SD in eadem ratione. Jacent ergo
+puncta B, C, D in Conisectione circa umbilicum S ita descripta, ut rectæ
+omnes ab umbilico S ad singula Sectionis puncta ductæ, sint ad perpendicula
+a punctis iisdem ad rectam GK demissa in data illa ratione.
+
+Methodo haud multum dissimili hujus problematis solutionem tradit
+Clarissimus Geometra _De la Hire_, Conicorum suorum Lib. VIII. Prop. XXV.
+
+       *       *       *       *       *
+
+
+SECT. V.
+
+_Inventio orbium ubi umbilicus neuter datur._
+
+_Lemma XVII._
+
+[Illustration]
+
+    _Si a datæ conicæ sectionis puncto quovis P, ad Trapezii alicujus ABCD,
+    in Conica illa sectione inscripti, latera quatuor infinite producta AB,
+    CD, AC, DB, totidem rectæ PQ, PR, PS, PT in datis angulis ducantur,
+    singulæ ad singula: rectangulum ductarum ad opposita duo latera PQ ×
+    PR, erit ad rectangulum ductarum ad alia duo latera opposita PS × PT in
+    data ratione._
+
+_Cas. 1._ Ponamus imprimis lineas ad opposita latera ductas parallelas esse
+alterutri reliquorum laterum, puta PQ & PR lateri AC, & PS ac PT lateri AB.
+Sintq; insuper latera duo ex oppositis, puta AC & BD, parallela. Et recta
+quæ bisecat parallela illa latera erit una ex diametris Conicæ sectionis, &
+bisecabit etiam RQ. Sit O punctum in quo RQ bisecatur, & erit PO ordinatim
+applicata ad diametrum illam. Produc PO ad K ut sit OK æqualis PO, & erit
+OK ordinatim applicata ad contrarias partes diametri. Cum igitur puncta A,
+B, P & K sint ad Conicam sectionem, & PR secet AB in dato angulo, erit (per
+Prop. 17 & 18 Lib. III _Apollonii_) rectangulum PQK ad rectangulum AQB in
+data ratione. Sed QK & PR æquales sunt, utpote æqualium OK, OP, & OQ, OR
+differentiæ, & inde etiam rectangula PQK & PQ × PR æqualia sunt; atq; adeo
+rectangulum PQ × PR est ad rectangulum AQB, hoc est ad rectangulum PS × PT
+in data ratione.   _Q. E. D._
+
+[Illustration]
+
+_Cas. 2._ Ponamus jam Trapezii latera opposita AC & BD non esse parallela.
+Age Bd parallelam AC & occurrentem tum rectæ ST in t, tum Conicæ sectioni
+in d. Junge Cd secantem PQ in r, & ipsi PQ parallelam age DM secantem Cd in
+M & AB in N. Jam ob similia triangula BTt, DBN, est Bt seu PQ ad Tt ut DN
+ad NB. Sic & Rr est ad AQ seu PS ut DM ad AN. Ergo ducendo antecedentes in
+antecedentes & consequentes in consequentes, ut rectangulum PQ in Rr est ad
+rectangulum Tt in PS, ita rectangulum NDM est ad rectangulum ANB, & (per
+Cas. 1) ita rectangulum QPr est ad rectangulum SPt, ac divisim ita
+rectangulum QPR est ad rectangulum PS × PT.   _Q. E. D._
+
+[Illustration]
+
+_Cas. 3._ Ponamus deniq; lineas quatuor PQ, PR, PS, PT non esse parallelas
+lateribus AC, AB, sed ad ea utcunq; inclinatas. Earum vice age Pq, Pr
+parallelas ipsi AC; & Ps, Pt parallelas ipsi AB; & propter datos angulos
+triangulorum PQq, PRr, PSs, PTt, dabuntur rationes PQ ad Pq, PR ad Pr, PS
+ad Ps & PT ad Pt, atq; adeo rationes compositæ PQ in PR ad Pq in Pr, & PS
+in PT ad Ps in Pt. Sed per superius demonstrata, ratio Pq in Pr ad Ps in Pt
+data est: Ergo & ratio PQ in PR ad PS in PT.   _Q. E. D._
+
+_Lemma XVIII._
+
+    _Iisdem positis, si rectangulum ductarum ad opposita duo latera
+    Trapezii PQ × PR sit ad rectangulum ductarum ad reliqua duo latera PS ×
+    PT in data ratione; punctum P, a quo lineæ ducuntur, tanget Conicam
+    sectionem circa Trapezium descriptam._
+
+[Illustration]
+
+Per puncta A, B, C, D & aliquod infinitorum punctorum P, puta p, concipe
+Conicam sectionem describi: dico punctum P hanc semper tangere. Si negas,
+junge AP secantem hanc Conicam sectionem alibi quam in P si fieri potest,
+puta in b. Ergo si ab his punctis p & b ducantur in datis angulis ad latera
+Trapezii rectæ pq, pr, ps, pt & bk, b[r], b[s], bd; erit ut bk × b[r] ad bd
+× b[s] ita (per Lemma XVII) pq × pr ad ps × pt & ita (per hypoth.) PQ × PR
+ad PS × PT. Est & propter similitudinem Trapeziorum bkA[s], PQAS, ut bk ad
+b[s] ita PQ ad PS. Quare applicando terminos prioris propositionis ad
+terminos correspondentes hujus, erit b[r] ad bd ut PR ad PT. Ergo Trapezia
+æquiangula D[r]bd, DRPT similia sunt, & eorum diagonales Db, DP propterea
+coincidunt. Incidit itaq; b in intersectionem rectarum AP, DP adeoq;
+coincidit cum puncto P. Quare punctum P, ubicunq; sumatur, incidit in
+assignatam Conicam sectionem.   _Q. E. D._
+
+_Corol._ Hinc si rectæ tres PQ, PR, PS a puncto communi P ad alias totidem
+positione datas rectas AB, CD, AC, singulæ ad singulas, in datis angulis
+ducantur, sitq; rectangulum sub duabus ductis PQ × PR ad quadratum tertii,
+PS quad. in data ratione: punctum P, a quibus rectæ ducuntur, locabitur in
+sectione Conica quæ tangit lineas AB, CD in A & C & contra. Nam coeat linea
+BD cum linea AC manente positione trium AB, CD, AC; dein coeat etiam linea
+PT cum linea PS: & rectangulum PS × PT evadet PS quad. rectæq; AB, CD quæ
+curvam in punctis A & B, C & D secabant, jam Curvam in punctis illis
+coeuntibus non amplius secare possunt sed tantum tangent.
+
+_Scholium._
+
+Nomen Conicæ sectionis in hoc Lemmate late sumitur, ita ut sectio tam
+rectilinea per verticem Coni transiens, quam circularis basi parallela
+includatur. Nam si punctum p incidit in rectam, qua quævis ex punctis
+quatuor A, B, C, D junguntur, Conica sectio vertetur in geminas rectas,
+quarum una est recta illa in quam punctum p incidit, & altera recta qua
+alia duo ex punctis quatuor junguntur. Si trapezii anguli duo oppositi
+simul sumpti æquentur duobus rectis, & lineæ quatuor PQ, PR, PS, PT
+ducantur ad latera ejus vel perpendiculariter vel in angulis quibusvis
+æqualibus, sitq; rectangulum sub duabus ductis PS × PR æquale rectangulo
+sub duabus aliis PS × PT, Sectio conica evadet Circulus. Idem fiet si lineæ
+quatuor ducantur in angulis quibusvis & rectangulum sub duabus ductis PQ ×
+PR sit ad rectangulum sub aliis duabus PS × PT ut rectangulum sub sinubus
+angulorum S, T, in quibus duæ ultimæ PS, PT ducuntur, ad rectangulum sub
+sinubus angulorum Q, R, in quibus duæ primæ PQ, PR ducuntur. Cæteris in
+casibus Locus puncti P erit aliqua trium figurarum quæ vulgo nominantur
+Sectiones Conicæ. Vice autem Trapezii ABCD substitui potest quadrilaterum
+cujus latera duo opposita se mutuo instar diagonalium decussant. Sed & e
+punctis quatuor A, B, C, D possunt unum vel duo abire in infinitum, eoq;
+pacto latera figuræ quæ ad puncta illa convergunt, evadere parallela: quo
+in casu sectio conica transibit per cætera puncta, & in plagas parallelarum
+abibit in infinitum.
+
+Lemma XIX.
+
+[Illustration]
+
+    _Invenire punctum P, a quo si rectæ quatuor PQ, PR, PS, PT ad alias
+    totidem positione datas rectas AB, CD, AC, BD singulæ ad singulas in
+    datis angulis ducantur, rectangulum sub duabus ductis, PQ × PR, sit ad
+    rectangulum sub aliis duabus, PS × PT, in data ratione._
+
+Lineæ AB, CD, ad quas rectæ duæ PQ, PR, unum rectangulorum continentes
+ducuntur, conveniant cum aliis duabus positione datis lineis in punctis A,
+B, C, D. Ab eorum aliquo A age rectam quamlibet AH, in qua velis punctum P
+reperiri. Secet ea lineas oppositas BD, CD, nimirum BD in H & CD in I, & ob
+datos omnes angulos figuræ, dabuntur rationes PQ ad PA & PA ad PS, adeoq;
+ratio PQ ad PS. Auferendo hanc a data ratione PQ × PR ad PS × PT, dabitur
+ratio PR ad PT, & addendo datas rationes PI ad PR, & PT ad PH dabitur ratio
+PI ad PH atq; adeo punctum P.   _Q. E. I._
+
+_Corol. 1._ Hinc etiam ad Loci punctorum infinitorum P punctum quodvis D
+tangens duci potest. Nam chorda PD ubi puncta P ac D conveniunt, hoc est,
+ubi AH ducitur per punctum D, tangens evadit. Quo in casu, ultima ratio
+evanescentium IP & PH invenietur ut supra. Ipsi igitur AD duc parallelam
+CF, occurrentem BD in F, & in ea ultima ratione sectam in E, & DE tangens
+erit, propterea quod CF & evanescens IH parallelæ sunt, & in E & P
+similiter sectæ.
+
+[Illustration]
+
+_Corol. 2._ Hinc etiam Locus punctorum omnium P definiri potest. Per
+quodvis punctorum A, B, C, D, puta A, duc Loci tangentem AE, & per aliud
+quodvis punctum B duc tangenti parallelam BF occurrentem Loco in F.
+Invenietur autem punctum F per Lemma superius. Biseca BF in G, & acta AG
+diameter erit ad quam BG & FG ordinatim applicantur. Hæc AG occurrat Loco
+in H, & erit AH latus transversum, ad quod latus rectum est ut BGq. ad AGH.
+Si AG nullibi occurrit Loco, linea AH existente infinita, Locus erit
+Parabola & latus rectum ejus BGq. ÷ AG. Sin ea alicubi occurrit, Locus
+Hyperbola erit ubi puncta A & H sita sunt ad easdem partes ipsius G: &
+Ellipsis, ubi G intermedium est, nisi forte angulus AGB rectus sit &
+insuper BG quad. æquale rectangulo AGH, quo in casu circulus habebitur.
+
+Atq; ita Problematis veterum de quatuor lineis ab _Euclide_ incæpti & ab
+_Apollonio_ continuati non calculus, sed compositio Geometrica, qualem
+Veteres quærebant, in hoc Corollario exhibetur.
+
+Lemma XX.
+
+    _Si parallelogrammum quodvis ASPQ angulis duobus oppositis A & P tangit
+    sectionem quamvis Conicam in punctis A & P, & lateribus unius angulorum
+    illorum infinite productis AQ, AS occurrit eidem sectioni Conicæ in B &
+    C; a punctis autem occursuum B & C ad quintum quodvis sectionis Conicæ
+    punctum D agantur rectæ duæ BD, CD occurrentes alteris duobus infinite
+    productis parallelogrammi lateribus PS, PQ in T & R: erunt semper
+    abscissæ laterum partes PR & PT ad invicem in data ratione. Et contra,
+    si partes illæ abscissæ sunt ad invicem in data ratione, punctum D
+    tanget Sectionem Conicam per puncta quatuor A, B, P, C transeuntem._
+
+[Illustration]
+
+_Cas. 1._ Jungantur BP, CP & a puncto D agantur rectæ duæ DG, DE, quarum
+prior DG ipsi AB parallela sit & occurrat PB, PQ, CA in H, I, G; altera DE
+parallela sit ipsi AC & occurrat PC, PS, AB in F, K, E: & erit (per Lemma
+XVII.) rectangulum DE × DF ad rectangulum DG × DH in ratione data. Sed est
+PQ ad DE seu IQ, ut PB ad HB, adeoq; ut PT ad DH; & vicissim PQ ad PT ut DE
+ad DH. Est & PR ad DF ut RC ad DC, adeoq; ut IG vel PS ad DG, & vicissim PR
+ad PS ut DF ad DG; & conjunctis rationibus fit rectangulum PQ × PR ad
+rectangulum PS × PT ut rectangulum DE × DF ad rectangulum DG × DH, atq;
+adeo in data ratione. Sed dantur PQ & PS & propterea ratio PR ad PT datur.
+_Q. E. D._
+
+_Cas. 2._ Quod si PR & PT ponantur in data ratione ad invicem, tunc simili
+ratiocinio regrediendo, sequetur esse rectangulum DE × DF ad rectangulum DG
+× DH in ratione data, adeoq; punctum D (per Lemma XVIII.) contingere
+Conicam sectionem transeuntem per puncta A, B, P, C.   _Q. E. D._
+
+_Corol. 1._ Hinc si agatur BC secans PQ in r, & in PT capiatur Pt in
+ratione ad Pr quam habet PT ad PR, erit Bt Tangens Conicæ sectionis ad
+punctum B. Nam concipe punctum D coire cum puncto B ita ut, chorda BD
+evanescente, BT Tangens evadet; & CD ac BT coincident cum CB & Bt.
+
+_Corol. 2._ Et vice versa si Bt sit Tangens, & ad quodvis Conicæ sectionis
+punctum D conveniant BD, CD erit PR ad PT ut Pr ad Pt. Et contra, si sit PR
+ad PT ut Pr ad Pt, convenient BD, CD ad Conicæ sectionis punctum aliquod D.
+
+_Corol. 3._ Conica sectio non secat Conicam sectionem in punctis pluribus
+quam quatuor. Nam, si fieri potest, transeant duæ Conicæ sectiones per
+quinq; puncta A, B, C, D, P, easq; secet recta BD in punctis D, d, & ipsam
+PQ secet recta Cd in r. Ergo PR est ad PT ut P[r] ad PT, hoc est, PR & P[r]
+sibi invicem æquantur, contra Hypothesin.
+
+Lemma XXI.
+
+[Illustration]
+
+    _Si recta duæ mobiles & infinitæ BM, CM per data puncta B, C, ceu polos
+    ductæ, concursu suo M describant tertiam positione datam rectam MN; &
+    aliæ duæ infinitæ rectæ BD, CD cum prioribus duabus ad puncta illa data
+    B, C, datos angulos MBD, MCD efficientes ducantur; dico quod hæ duæ BD,
+    CD concursu suo D describent sectionem Conicam. Et vice versa, si rectæ
+    BD, CD concursu suo D describant Sectionem Conicam per puncta B, C, A
+    transeuntem, & harum concursus tunc incidit in ejus punctum aliquod A,
+    cum alteræ duæ BM, CM coincidunt cum linea BC, punctum M continget
+    rectam positione datam._
+
+Nam in recta MN detur punctum N, & ubi punctum mobile M incidit in immotum
+N, incidat punctum mobile D in immotum P. Junge CN, BN, CP, BP, & a puncto
+P age rectas PT, PR occurrentes ipsis BD, CD in T & R, & facientes angulum
+BPT æqualem angulo BNM & angulum CPR æqualem angulo CNM. Cum ergo (ex
+Hypothesi) æquales sint anguli MBD, NBP, ut & anguli MCD, NCP: aufer
+communes NBD & MCP, & restabunt æquales NBM & PBT, NCM & PCR: adeoq;
+triangula NBM, PBT similia sunt, ut & triangula NCM, PCR. Quare PT est ad
+NM ut PB ad NB, & PR ad NM ut PC ad NC. Ergo PT & PR datam habent rationem
+ad NM, proindeq; datam rationem inter se, atq; adeo, per Lemma XX, punctum
+P (perpetuus rectarum mobilum BT & CR concursus) contingit sectionem
+Conicam.   _Q. E. D._
+
+Et contra, si punctum D contingit sectionem Conicam transeuntem per puncta
+B, C, A, & ubi rectæ BM, CM coincidunt cum recta BC, punctum illud D
+incidit in aliquod sectionis punctum A; ubi vero punctum D incidit
+successive in alia duo quævis sectionis puncta p, P, punctum mobile M
+incidit successive in puncta immobilia n, N: per eadem n, N agatur recta
+nN, & hæc erit Locus perpetuus puncti illius mobilis M. Nam, si fieri
+potest, versetur punctum M in linea aliqua curva. Tanget ergo punctum D
+sectionem Conicam per puncta quinq; C, p, P, B, A, transeuntem, ubi punctum
+M perpetuo tangit lineam curvam. Sed & ex jam demonstratis tanget etiam
+punctum D sectionem Conicam per eadem quinq; puncta C, p, P, B, A,
+transeuntem, ubi punctum M perpetuo tangit lineam rectam. Ergo duæ
+sectiones Conicæ transibunt per eadem quinq; puncta, contra Corol. 3. Lem.
+XX. Igitur punctum M versari in linea curva absurdum est.   _Q. E. D._
+
+Prop. XXII. Prob. XIV.
+
+    _Trajectoriam per data quinq; puncta describere._
+
+[Illustration]
+
+Dentur puncta quinq; A, B, C, D, P. Ab eorum aliquo A ad alia duo quævis B,
+C, quæ poli nominentur, age rectas AB, AC hisq; parallelas TPS, PRQ per
+punctum quartum P. Deinde a polis duobus B, C age per punctum quintum D
+infinitas duas BDT, CRD, novissime ductis TPS, PRQ (priorem priori &
+posteriorem posteriori) occurrentes in T & R. Deniq; de rectis PT, PR, acta
+recta tr ipsi TR parallela, abscinde quasvis Pt, Pr ipsis PT, PR
+proportionales, & si per earum terminos t, r & polos B, C actæ Bt, Cr
+concurrant in d, locabitur punctum illud d in Trajectoria quæsita. Nam
+punctum illud d (per Lem. XX) versatur in Conica Sectione per puncta
+quatuor A, B, P, C transeunte; & lineis Rr, Tt evanescentibus, coit punctum
+d cum puncto D. Transit ergo sectio Conica per puncta quinq; A, B, C, D, P.
+_Q. E. D._
+
+_Idem aliter._
+
+[Illustration]
+
+E punctis datis junge tria quævis A, B, C, & circum duo eorum B, C ceu
+polos, rotando angulos magnitudine datos ABC, ACB, applicentur crura BA, CA
+primo ad punctum D deinde ad punctum P, & notentur puncta M, N in quibus
+altera crura BL, CL casu utroq; se decussant. Agatur recta infinita MN, &
+rotentur anguli illi mobiles circum polos suos B, C, ea lege ut crurum BL,
+CL vel BM, CM intersectio, quæ jam sit m, incidat semper in rectam illam
+infinitam MN, & crurum BA, CA, vel BD, CD intersectio, quæ jam sit d,
+Trajectoriam quæsitam PADdB delineabit. Nam punctum d per Lem. XXI
+continget sectionem Conicam per puncta B, C transeuntem & ubi punctum m
+accedit ad puncta L, M, N, punctum d (per constructionem) accedet ad puncta
+A, D, P. Describetur itaq; sectio Conica transiens per puncta quinq; A, B,
+C, D, P.   _Q. E. F._
+
+_Corol. 1._ Hinc rectæ expedite duci possunt quæ trajectoriam in punctis
+quibusvis datis B, C tangent. In casu utrovis accedat punctum d ad punctum
+C & recta Cd evadet tangens quæsita.
+
+_Corol. 2._ Unde etiam Trajectoriarum centra, diametri & latera recta
+inveniri possunt, ut in Corollario secundo Lemmatis XIX.
+
+_Schol._
+
+Constructio in casu priore evadet paulo simplicior jungendo BP, & in ea si
+opus est producta, capiendo Bp ad BP ut est PR ad PT, & per p agendo rectam
+infinitam p[D] ipsi SPT parallelam, inq; ea capiendo semper p[D] æqualem
+Pr, & agendo rectas B[D], Cr concurrentes in d. Nam cum sint Pr ad Pt, PR
+ad PT, pB ad PB, p[D] ad Pt in eadem ratione, erunt p[D] & Pr semper
+æquales. Hac methodo puncta Trajectoriæ inveniuntur expeditissime, nisi
+mavis Curvam, ut in casu secundo, describere Mechanice.
+
+Prop. XXIII. Prob. XV.
+
+    _Trajectoriam describere quæ per data quatuor puncta transibit, &
+    rectam continget positione datam._
+
+_Cas. 1._ Dentur tangens HB, punctum contactus B, & alia tria puncta C, D,
+P. Junge BC, & agendo PS parallelam BH, & PQ parallelam BC, comple
+parallelogrammum BSPQ. Age BD secantem SP in T, & CD secantem PQ in R.
+Deniq; agendo quamvis tr ipsi TR parallelam, de PQ, PS abscinde Pr, Pt
+ipsis PR, PT proportionales respective; & actarum Cr, Bt concursus d (per
+Corol. 2. Lem. XX) incidet semper in Trajectoriam describendam.
+
+[Illustration]
+
+_Idem aliter._
+
+Revolvatur tum angulus magnitudine datus CBH circa polum B, tum radius
+quilibet rectilineus & utrinq; productus DC circa polum C. Notentur puncta
+M, N in quibus anguli crus BC secat radium illum ubi crus alterum BH
+concurrit cum eodem radio in punctis D & P. Deinde ad actam infinitam MN
+concurrant perpetuo radius ille CP vel CD & anguli crus CB, & cruris
+alterius BH concursus cum radio delineabit Trajectoriam quæsitam.
+
+[Illustration]
+
+[Illustration]
+
+Nam si in constructionibus Problematis superioris accedat punctum A ad
+punctum B, lineæ CA & CB coincident, & linea AB in ultimo suo situ fiet
+tangens BH, atq; adeo constructiones ibi positæ evadent eædem cum
+constructionibus hic descriptis. Delineabit igitur cruris BH concursus cum
+radio sectionem Conicam per puncta C, D, P transeuntem, & rectam BH
+tangentem in puncto B.   _Q. E. F._
+
+_Cas. 2._ Dentur puncta quatuor B, C, D, P extra tangentem HI sita. Junge
+bina BD, CP concurrentia in G, tangentiq; occurrentia in H & I. Secetur
+tangens in A, ita ut sit HA ad AI, ut est rectangulum sub media
+proportionali inter BH & HD & media proportionali inter CG & GP, ad
+rectangulum sub media proportionali inter PI & IC & media proportionali
+inter DG & GB, & erit A punctum contactus. Nam si rectæ PI parallela HX
+trajectoriam secet in punctis quibusvis X & Y: erit (ex Conicis) HA quad.
+ad AI quad. ut rectangulum XHY ad rectangulum BHD (seu rectangulum CGP ad
+rectangulum DGB) & rectangulum BHD ad rectangulum PIC conjunctim. Invento
+autem contactus puncto A, describetur Trajectoria ut in casu primo.
+_Q. E. F._   Capi autem potest punctum A vel inter puncta H & I, vel extra;
+& perinde Trajectoria dupliciter describi.
+
+Prop. XXIV. Prob. XVI.
+
+    _Trajectoriam describere quæ transibit per data tria puncta & rectas
+    duas positione datas continget._
+
+[Illustration]
+
+Dentur tangentes HI, KL & puncta B, C, D. Age BD tangentibus occurrentem in
+punctis H, K & CD tangentibus occurrentem in punctis I, L. Actas ita seca
+in R & S, ut sit HR ad KR ut est media proportionalis inter BH & HD ad
+mediam proportionalem inter BK & KD; & IS ad LS ut est media proportionalis
+inter CI & ID ad mediam proportionalem inter CL & LD. Age RS secantem
+tangentes in A & P, & erunt A & P puncta contactus. Nam si A & P sint
+Puncta contactuum ubivis in tangentibus sita, & per punctorum H, I, K, L
+quodvis I agatur recta IY tangenti KL parallela & occurrens curvæ in X & Y,
+& in ea sumatur IZ media proportionalis inter IX & IY: erit, ex Conicis,
+rectangulum XIY (seu IZ quad.) ad LP quad. ut rectangulum CID ad
+rectangulum CLD; id est (per constructionem) ut SI quad. ad SL quad. atq;
+adeo IZ ad LP ut SI ad SL. Jacent ergo puncta S, P, Z in una recta. Porro
+tangentibus concurrentibus in G, erit (ex Conicis) rectangulum XIY (seu IZ
+quad.) ad IA quad. ut GP quad. ad GA quad., adeoq; IZ ad IA ut GP ad GA.
+Jacent ergo puncta P, Z & A in una recta, adeoq; puncta S, P & A sunt in
+una recta. Et eodem argumento probabitur quod puncta R, P & A sunt in una
+recta. Jacent igitur puncta contactus A & P in recta SR. Hisce autem
+inventis, Trajectoria describetur ut in casu primo Problematis superioris.
+_Q. E. F._
+
+Lemma XXII.
+
+    _Figuras in alias ejusdem generis figuras mutare._
+
+[Illustration]
+
+Transmutanda sit figura quævis HGI. Ducantur pro lubitu rectæ duæ parallelæ
+AO, BL tertiam quamvis positione datam AB secantes in A & B, & a figuræ
+puncto quovis G, ad rectam AB ducatur GD, ipsi OA parallela. Deinde a
+puncto aliquo O in linea OA dato ad punctum D ducatur recta OD, ipsi BL
+occurrens in d; & a puncto occursus erigatur recta gd, datum quemvis
+angulum cum recta BL continens, atq; eam habens rationem ad Od quam habet
+GD ad OD; & erit g punctum in figura nova hgi puncto G respondens. Eadem
+ratione puncta singula figuræ primæ dabunt puncta totidem figuræ novæ.
+Concipe igitur punctum G motu continuo percurrere puncta omnia figuræ
+primæ, & punctum g motu itidem continuo percurret puncta omnia figuræ novæ
+& eandem describet. Distinctionis gratia nominemus DG ordinatam primam, dg
+ordinatam novam; BD abscissam primam, Bd abscissam novam; O polum, OD
+radium abscindentem, OA radium ordinatum primum & Oa (quo parallelogrammum
+OABa completur) radium ordinatum novum.
+
+Dico jam quod si punctum G tangit rectam lineam positione datam, punctum g
+tanget etiam lineam rectam positione datam. Si punctum G tangit Conicam
+sectionem, punctum g tanget etiam conicam sectionem. Conicis sectionibus
+hic circulum annumero. Porro si punctum G tangit lineam tertii ordinis
+Analytici, punctum g tanget lineam tertii itidem ordinis; & sic de curvis
+lineis superiorum ordinum: Lineæ duæ erunt ejusdem semper ordinis Analytici
+quas puncta G, g tangunt. Etenim ut est ad ad OA ita sunt Od ad OD, dg ad
+DG, & AB ad AD; adeoq; AD æqualis est OA × AB ÷ ad & DG æqualis est OA × dg
+÷ ad. Jam si punctum D tangit rectam lineam, atq; adeo in æquatione quavis,
+qua relatio inter abscissam AD & ordinatam DG habetur, indeterminatæ illæ
+AD & DG ad unicam tantum dimensionem ascendunt, scribendo in hac æquatione
+OA × AB ÷ ad pro AD, & OA × dg ÷ ad pro DG, producetur æquatio nova, in qua
+abscissa nova ad & ordinata noua dg ad unicam tantum dimensionem ascendent,
+atq; adeo quæ designat lineam rectam. Sin AD & DG (vel earum alterutra)
+ascendebant ad duas dimensiones in æquatione prima, ascendent itidem ad &
+dg ad duas in æquatione secunda. Et sic de tribus vel pluribus
+dimensionibus. Indeterminatæ ad, dg in æquatione secunda & AD, DG in prima
+ascendent semper ad eundem dimensionum numerum, & propterea lineæ, quas
+puncta G, g tangunt, sunt ejusdem ordinis Analytici.
+
+Dico præterea quod si recta aliqua tangat lineam curvam in figura prima;
+hæc recta translata tanget lineam curvam in figura nova: & contra. Nam si
+Curvæ puncta quævis duo accedunt ad invicem & coeunt in figura prima,
+puncta eadem translata coibunt in figura nova, atq; adeo rectæ, quibus hæc
+puncta junguntur simul, evadent curvarum tangentes in figura utraq;.
+Componi possent harum assertionum Demonstrationes more magis Geometrico.
+Sed brevitati consulo.
+
+Igitur si figura rectilinea in aliam transmutanda est, sufficit rectarum
+intersectiones transferre, & per easdem in figura nova lineas rectas
+ducere. Sin curvilineam transmutare oportet, transferenda sunt puncta,
+tangentes & aliæ rectæ quarum ope Curva linea definitur. Inservit autem hoc
+Lemma solutioni difficiliorum Problematum, transmutando figuras propositas
+in simpliciores. Nam rectæ quævis convergentes transmutantur in parallelas,
+adhibendo pro radio ordinato primo AO lineam quamvis rectam, quæ per
+concursum convergentium transit; id adeo quia concursus ille hoc pacto abit
+in infinitum, lineæ autem parallelæ sunt quæ ad punctum infinite distans
+tendunt. Postquam autem Problema solvitur in figura nova, si per inversas
+operationes transmutetur hæc figura in figuram primam, habebitur Solutio
+quæsita.
+
+Utile est etiam hoc Lemma in solutione Solidorum problematum. Nam quoties
+duæ sectiones conicæ obvenerint, quarum intersectione Problema solvi
+potest, transmutare licet unum earum in circulum. Recta item & sectio
+Conica in constructione planorum problematum vertuntur in rectam &
+circulum.
+
+Prop. XXV. Prob. XVII.
+
+    _Trajectoriam describere quæ per data duo puncta transibit & rectas
+    tres continget positione datas._
+
+[Illustration]
+
+Per concursum tangentium quarumvis duarum cum se invicem, & concursum
+tangentis tertiæ cum recta illa, quæ per puncta duo data transit, age
+rectam infinitam; eaq; adhibita pro radio ordinato primo, transmutetur
+figura, per Lemma superius, in figuram novam. In hac figura tangentes illæ
+duæ evadent parallelæ, & tangens tertia fiet parallela rectæ per puncta duo
+transeunti. Sunto hi, kl tangentes duæ parallelæ, ik tangens tertia, & hl
+recta huic parallela transiens per puncta illa a, b, per quæ Conica sectio
+in hac figura nova transire debet, & parallelogrammum hikl complens.
+Secentur rectæ hi, ik, kl in c, d & e, ita ut sit hc ad latus quadratum
+rectanguli ahb, ic ad id, & ke ad kd ut est summa rectarum hi & kl ad
+summam trium linearum quarum prima est recta ik, & alteræ duæ sunt latera
+quadrata rectangulorum ahb & alb: Et erunt c, d, e puncta contactus.
+Etenim, ex Conicis, sunt hc quadratum ad rectangulum ahb, & ic quadratum ad
+id quadratum, & ke quadratum ad kd quadratum, & el quadratum ad alb
+rectangulum in eadem ratione, & propterea hc ad latus quadratum ipsius ahb,
+ic ad id, ke ad kd & el ad latus quadratum ipsius alb sunt in dimidiata
+illa ratione, & composite, in data ratione omnium antecedentium hi & kl ad
+omnes consequentes, quæ sunt latus quadratum rectanguli ahb & recta ik &
+latus quadratum rectanguli alb. Habentur igitur ex data illa ratione puncta
+contactus c, d, e, in figura nova. Per inversas operationes Lemmatis
+novissimi transferantur hæc puncta in figuram primam & ibi, per casum
+primum Problematis XIV, describetur Trajectoria.   _Q. E. F._   Cæterum
+perinde ut puncta a, b jacent vel inter puncta h, l, vel extra, debent
+puncta c, d, e vel inter puncta h, i, k, l capi, vel extra. Si punctorum a,
+b alterutrum cadit inter puncta h, l, & alterum extra, Problema impossibile
+est.
+
+Prop. XXVI. Prob. XVIII.
+
+    _Trajectoriam describere quæ transibit per punctum datum & rectas
+    quatuor positione datas continget._
+
+Ab intersectione communi duarum quarumlibet tangentium ad intersectionem
+communem reliquarum duarum agatur recta infinita, & eadem pro radio
+ordinato primo adhibita, transmutetur figura (per Lem. XXII) in figuram
+novam, & Tangentes binæ, quæ ad radium ordinatum concurrebant, jam evadent
+parallelæ. Sunto illæ hi & kl, ik & hl continentes parallelogrammum hikl.
+Sitq; p punctum in hac nova figura, puncto in figura prima dato respondens.
+Per figuræ centrum O agatur pq, & existente Oq æquali Op erit q punctum
+alterum per quod sectio Conica in hac figura nova transire debet. Per
+Lemmatis XXII operationem inversam transferatur hoc punctum in figuram
+primam, & ibi habebuntur puncta duo per quæ Trajectoria describenda est.
+Per eadem vero describi potest Trajectoria illa per Prob. XVII.
+_Q. E. F._
+
+Lemma XXIII.
+
+[Illustration]
+
+    _Si rectæ duæ positione datæ AC, BD ad data puncta A, B terminentur,
+    datamq; habeant rationem ad invicem, & recta CD, qua puncta
+    indeterminata C, D junguntur secetur in ratione data in K: dico quod
+    punctum K locabitur in recta positione data._
+
+Concurrant enim rectæ AC, BD in E, & in BE capiatur BG ad AE ut est BD ad
+AC, sitq; FD æqualis EG, & erit EC ad GD, hoc est ad EF ut AC ad BD, adeoq;
+in ratione data, & propterea dabitur specie triangulum EFC. Secetur CF in L
+in ratione CK ad CD, & dabitur etiam specie triangulum EFL, proindeq;
+punctum L locabitur in recta EL positione data. Junge LK, & ob datam FD &
+datam rationem LK ad FD, dabitur LK. Huic æqualis capiatur EH, & erit ELKH
+parallelogrammum. Locatur igitur punctum K in parallelogrammi latere
+positione dato HK.   _Q. E. D._
+
+Lemma XXIV.
+
+    _Si rectæ tres tangant quamcunq; conisectionem, quarum duæ parallelæ
+    sint ac dentur positione; dico quod sectionis semidiameter hisce duabus
+    parallela, sit media proportionalis inter harum segmenta, punctis
+    contactum & tangenti tertiæ interjecta._
+
+[Illustration]
+
+Sunto AF, GB parallelæ duæ Conisectionem ADB tangentes in A & B; EF recta
+tertia Conisectionem tangens in I, & occurrens prioribus tangentibus in F &
+G; sitq; CD semidiameter Figuræ tangentibus parallela: Dico quod AF, CD, BG
+sunt continue proportionales.
+
+Nam si diametri conjugatæ AB, DM tangenti FG occurrant in E & H, seq; mutuo
+secent in C, & compleatur parallelogrammum IKCL; erit ex natura sectionum
+Conicarum, ut EC ad CA ita CA ad LC, & ita divisim EC - CA ad CA - CL seu
+EA ad AL, & composite EA ad EA + AL seu EL ut EC ad EC + CA seu EB; adeoq;
+(ob similitudinem triangulorum EAF, ELI, ECH, EBG) AF ad LI ut CH ad BG.
+Est itidem ex natura sectionum Conicarum LI seu CK ad CD ut CD ad CH atq;
+adeo ex æquo perturbate AF ad CD ut CD ad BG.   _Q. E. D._
+
+_Corol. 1._ Hinc si tangentes duæ FG, PQ tangentibus parallelis AF, BG
+occurrant in F & G, P & Q, seq; mutuo secent in O, erit (ex æquo
+perturbate) AF ad BQ ut AP ad BG, & divisim ut FP ad GQ, atq; adeo ut FO ad
+OG.
+
+_Corol. 2._ Unde etiam rectæ duæ PG, FQ per puncta P & G, F & Q ductæ,
+concurrent ad rectam ACB per centrum figuræ & puncta contactuum A, B
+transeuntem.
+
+Lemma XXV.
+
+    _Si parallelogrammi latera quattuor infinite producta tangant sectionem
+    quamcunq; Conicam & abscindantur ad tangentem quamvis quintam; sumantur
+    autem abscisse terminate ad angulos oppositos parallelogrammi: dico
+    quod abscissa unius lateris ad latus illud, ut pars lateris contermini
+    inter punctum contactus & latus tertium, ad abscissam lateris hujus
+    contermini._
+
+[Illustration]
+
+Tangant parallelogrammi MIKL latera quatuor ML, IK, KL, MI sectionem
+Conicam in A, B, C, D, & secet tangens quinta FQ hæc latera in F, Q, H & E:
+dico quod sit ME ad MI ut BK ad KQ & KH ad KL ut AM ad MF. Nam per
+Corollarium Lemmatis superioris, est ME ad EI ut AM seu BK ad BQ, &
+componendo ME ad MI ut BK ad KQ.   Q. E. D. Item KH ad HL ut BK seu AM ad
+AF, & dividendo KH ad KL ut AM ad MF.   _Q. E. D._
+
+_Corol. 1._ Hinc si parallelogrammum IKLM datur, dabitur rectangulum KQ ×
+ME, ut & huic æquale rectangulum KH × MF. Æquantur enim rectangula illa ob
+similitudinem triangulorum KQH, MFE.
+
+_Corol. 2._ Et si sexta ducatur tangens eq tangentibus KI, MI occurrens in
+e & q, rectangulum KQ × ME æquabitur rectangulo Kq × Me, eritq; KQ ad Me ut
+Kq ad ME, & divisim ut Qq ad Ee.
+
+_Corol. 3._ Unde etiam si Eq, eQ jungantur & bisecentur, & recta per puncta
+bisectionum agatur, transibit hæc per centrum Sectionis Conicæ. Nam cum sit
+Qq ad Ee ut KQ ad Me, transibit eadem recta per medium omnium Eq, eQ, MK;
+(per Lemma XXIII) & medium rectæ MK est centrum Sectionis.
+
+Prop. XXVII. Prob. XIX.
+
+[Illustration]
+
+    _Trajectoriam describere quæ rectas quinq; positione datas continget._
+
+Dentur positione tangentes ABG, BCF, GCD, FDE, EA. Figuræ quadrilateræ sub
+quatuor quibusvis contentæ ABFE diagonales AF, BE biseca, & (per Cor. 3.
+Lem. XXV) recta per puncta bisectionum acta transibit per centrum
+Trajectoriæ. Rursus figuræ quadrilateræ BGDF, sub alijs quibusvis quatuor
+tangentibus contentæ, diagonales (ut ita dicam) BD, GF biseca, & recta per
+puncta bisectionum acta transibit per centrum sectionis. Dabitur ergo
+centrum in concursu bisecantium. Sit illud O. Tangenti cuivis BC parallelam
+age KL, ad eam distantiam ut centrum O in medio inter parallelas locetur, &
+acta KL tanget trajectoriam describendam. Secet hæc tangentes alias quasvis
+duas CD, FDE in L & K. Per tangentium non parallelarum CL, FK cum
+parallelis CF, KL concursus C & K, F & L age CK, FL concurrentes in R, &
+recta OR ducta & producta secabit tangentes parallelas CF, KL in punctis
+contactuum. Patet hoc per Corol. 2. Lem. XXIV. Eadem methodo invenire licet
+alia contactuum puncta, & tum demum per Casum 1. Prob. XIV. Trajectoriam
+describere.   _Q. E. F._
+
+_Schol._
+
+Problemata, ubi dantur Trajectoriarum vel centra vel Asymptoti includuntur
+in præcedentibus. Nam datis punctis & tangentibus una cum centro, dantur
+alia totidem puncta aliæq; tangentes a centro ex altera ejus parte
+æqualiter distantes. Asymptotos autem pro tangente habenda est, & ejus
+terminus infinite distans (si ita loqui fas sit) pro puncto contactus.
+Concipe tangentis cujusvis punctum contactus abire in infinitum, & tangens
+vertetur in Asymptoton, atq; constructiones Problematis XV & Casus primi
+Problematis XIV vertentur in constructiones Problematum ubi Asymptoti
+dantur.
+
+[Illustration]
+
+Postquam Trajectoria descripta est, invenire licet axes & umbilicos ejus
+hac methodo. In constructione & Figura Lemmatis XXI, fac ut angulorum
+mobilium PBN, PCN crura BP, CP quorum concursu Trajectoria describebatur
+sint sibi invicem parallela, eumq; servantia situm revolvantur circa polos
+suos B, C in figura illa. Interea vero describant altera angulorum illorum
+crura CN, BN concursu suo K vel k, circulum IBKGC. Sit circuli hujus
+centrum O. Ab hoc centro ad Regulam MN, ad quam altera illa crura CN, BN
+interea concurrebant dum Trajectoria describebatur, demitte normalem OH
+circulo occurrentem in K & L. Et ubi crura illa altera CK, BK concurrant ad
+punctum istud K quod Regulæ proprius est, crura prima CP, BP parallela
+erunt axi majori & perpendicularia minori; & contrarium eveniet si crura
+eadem concurrunt ad punctum remotius L. Unde si detur Trajectoriæ centrum,
+dabuntur axes. Hisce autem datis, umbilici sunt in promptu.
+
+
+
+Axium vero quadrata sunt ad invicem ut KH ad LH, & inde facile est
+Trajectoriam specie datam per data quatuor puncta describere. Nam si duo ex
+punctis datis constituantur poli C, B, tertium dabit angulos mobiles PCK,
+PBK. Tum ob datam specie Trajectoriam, dabitur ratio OH ad OK, centroq; O &
+intervallo OH describendo circulum, & per punctum quartum agendo rectam quæ
+circulum illum tangat, dabitur regula MN cujus ope Trajectoria describatur.
+Unde etiam vicissim Trapezium specie datum (si casus quidam impossibiles
+excipiantur) in data quavis sectione Conica inscribi potest.
+
+
+
+Sunt & alia Lemmata quorum ope Trajectoriæ specie datæ, datis punctis &
+tangentibus, describi possunt. Ejus generis est quod, si recta linea per
+punctum quodvis positione datum ducatur, quæ datam Conisectionem in punctis
+duobus intersecet, & intersectionum intervallum bisecetur, punctum
+bisectionis tanget aliam Conisectionem ejusdem speciei cum priore, atq;
+axes habentem prioris axibus parallelos. Sed propero ad magis utilia.
+
+Lemma XXVI.
+
+[Illustration]
+
+    _Trianguli specie & magnitudine dati tres angulos ad rectas totidem
+    positione datas, quæ non sunt omnes parallelæ, singulos ad singulas
+    ponere._
+
+Dantur positione tres rectæ infinitæ AB, AC, BC, & oportet triangulum DEF
+ita locare, ut angulus ejus D lineam AB, angulus E lineam AC, & angulus F
+lineam BC tangat. Super DE, DF & EF describe tria circulorum segmenta DRE,
+DGF, EMF, quæ capiant angulos angulis BAC, ABC, ACB æquales respective.
+Describantur autem hæc segmenta ad eas partes linearum DE, DF, EF ut literæ
+DRED eodem ordine cum literis BACB, literæ DGFD eodem cum literis ABCA, &
+literæ EMFE eodem cum literis ACBA in orbem redeant: deinde compleantur hæc
+[Illustration] segmenta in circulos. Secent circuli duo priores se mutuo in
+G, sintq; centra eorum P & Q. Junctis GP, PQ, cape Ga ad AB ut est GP ad
+PQ, & centro G, intervallo Ga describe circulum, qui secet circulum primum
+DGE in a. Jungatur tum aD secans circulum secundum DFG in b, tum aE secans
+circulum tertium GEc in c. Et compleatur figura ABCdef similis & æqualis
+figuræ abcDEF. Dico factum.
+
+Agatur enim Fc ipsi aD occurrens in n. Jungantur aG, bG, PD, QD &
+producatur PQ ad R. Ex constructione est angulus EaD æqualis angulo CAB, &
+angulus EcF æqualis angulo ACB, adeoq; triangulum anc triangulo ABC
+æquiangulum. Ergo angulus anc seu FnD angulo ABC, adeoq; angulo FbD æqualis
+est, & propterea punctum n incidit in punctum b. Porro angulus GPQ, qui
+dimidius est anguli ad centrum GPD, æqualis est angulo ad circumferentiam
+GaD; & angulus GQR, qui dimidius est complementi anguli ad centrum GQD,
+æqualis est angulo ad circumferentiam GbD, adeoq; eorum complementa PQG,
+abG æquantur, suntq; ideo triangula GPQ, Gab similia, & Ga est ad ab ut GP
+ad PQ; id est (ex constructione) ut Ga ad AB. Æquantur itaq; ab & AB, &
+propterea triangula abc, ABC, quæ modo similia esse probavimus, sunt etiam
+æqualia. Unde cum tangant insuper trianguli DEF anguli D, E, F trianguli
+abc latera ab, ac, bc respective, compleri potest figura ABCdef figuræ
+abcDEF similis & æqualis, atq; eam complendo solvetur Problema.
+_Q. E. F._
+
+_Corol._ Hinc recta duci potest cujus partes longitudine datæ rectis tribus
+positione datis interjacebunt. Concipe Triangulum DEF, puncto D ad latus EF
+accedente, & lateribus DE, DF in directum positis, mutari in lineam rectam,
+cujus pars data DE, rectis positione datis AB, AC, & pars data DF rectis
+positione datis AB, BC interponi debet; & applicando constructionem
+præcedentem ad hunc casum solvetur Problema.
+
+Prop. XXVIII. Prob. XX.
+
+    _Trajectoriam specie & magnitudine datam describere, cujus partes datæ
+    rectis tribus positione datis interjacebunt._
+
+Describenda sit Trajectoria quæ sit similis & æqualis lineæ curvæ DEF,
+quæq; a rectis tribus AB, AC, BC positione datis, in partes datis hujus
+partibus DE & EF similes & æquales secabitur.
+
+[Illustration]
+
+Age rectas DE, EF, DF, & trianguli hujus DEF pone angulos D, E, F ad rectas
+illas positione datas: (per Lem. XXVI) Dein circa triangulum describe
+Trajectoriam curvæ DEF similem & æqualem.   _Q. E. F._
+
+Lemma XXVII.
+
+    _Trapezium specie datum describere cujus anguli ad rectas quatuor
+    positione datas (quæ neq; omnes parallelæ sunt, neq; ad commune punctum
+    convergunt) singuli ad singulas consistent._
+
+[Illustration]
+
+Dentur positione rectæ quatuor ABC, AD, BD, CE, quarum prima secet secundam
+in A, tertiam in B, & quartam in C: & describendum sit Trapezium fghi quod
+sit Trapezio FGHI simile, & cujus angulus f, angulo dato F æqualis, tangat
+rectam ABC cæteriq; anguli g, h, i cæteris angulis datis G, H, I æquales
+tangant cæteras lineas AD, BD, CE respective. Jungatur FH, & super FG, FH,
+FI describantur totidem circulorum segmenta FSG, FTH, FVI; quorum primum
+FSG capiat angulum æqualem angulo BAD, secundum FTH capiat angulum æqualem
+angulo CBE; ac tertium FVI capiat angulum æqualem angulo ACE. Describi
+autem debent segmenta ad eas partes linearum FG, FH, FI, ut literarum FSGF
+idem sit ordo circularis qui literarum BADB, utq; literæ FTHF eodem ordine
+cum literis CBEC, & literæ FVIF eodem cum literis ACEA in orbem redeant.
+Compleantur segmenta in circulos, sitq; P centrum circuli primi FSG, & Q
+centrum secundi FTH. Jungatur & utrinq; producatur PQ, & in ea capiatur QR
+in ea ratione ad PQ quam habet BC ad AB. Capiatur autem QR ad eas partes
+puncti Q ut literarum P, Q, R idem sit ordo circularis atq; literarum A, B,
+C: centroq; R & intervallo RF describatur circulus quartus FNc secans
+circulum tertium FVI in c. Jungatur Fc secans circulum primum in a &
+secundum in b. Agantur aG, bH, cI, & figuræ abcFGHI similis constituatur
+figura ABCfghi: Eritq; Trapezium fghi illud ipsum quod constituere
+oportuit.
+
+Secent enim circuli duo primi FSG, FTH se mutuo in K. Jungantur PK, QK, RK,
+aK, bK, cK & producatur QP ad L. Anguli ad circumferentias FaK, FbK, FcK,
+sunt semisses angulorum FPK, FQK, FRK ad centra, adeoq; angulorum illorum
+dimidiis LPK, LQK, LRK æquales. Est ergo figura PQRK figuræ abcK æquiangula
+& similis, & propterea ab est ad bc ut PQ ad QR, id est ut AB ad BC.
+Angulis insuper FaG, FbH, FcI æquantur fAg, fBh, fCi per constructionem.
+Ergo figuræ abcFGHI figura similis ABCfghi compleri potest. Quo facto
+Trapezium fghi constituetur simile Trapezio FGHI & angulis suis f, g, h, i
+tanget rectas AB, AD, BD, CE.   _Q. E. F._
+
+_Corol._ Hinc recta duci potest cujus partes, rectis quatuor positione
+datis dato ordine interjectæ, datam habebunt proportionem ad invicem.
+Augeantur anguli FGH, GHI usq; eo, ut rectæ FG, GH, HI in directum jaceant,
+& in hoc casu construendo Problema, ducetur recta fghi cujus partes fg, gh,
+hi, rectis quatuor positione datis AB & AD, AD & BD, BD & CE interjectæ,
+erunt ad invicem ut lineæ FG, GH, HI, eundemq; servabunt ordinem inter se.
+Idem vero sic fit expeditius.
+
+Producantur AB ad K, & BD ad L, ut sit BK ad AB ut HI ad GH; & DL ad BD ut
+GI ad FG; & jungatur KL occurrens rectæ CE in i. Producatur iL ad M, ut sit
+LM ad iL ut GH ad HI, & agatur tum MQ ipsi LB parallela rectæq; AD
+occurrens in g, tum gi secans AB, BD in f, h. Dico factum.
+
+[Illustration]
+
+Secet enim Mg rectam AB in Q, & AD rectam KL in S, & agatur AP, quæ sit
+ipsi BD parallela & occurrat iL in P, & erunt Mg ad Lh (Mi ad Li, gi ad hi,
+AK ad BK) & AP ad BL in eadem ratione. Secetur DL in R ut sit DL ad RL in
+eadem illa ratione, & ob proportionales gS ad gM, AS ad AP & DS ad DL, erit
+ex æquo ut gS ad Lh ita AS ad BL & DS ad RL; & mixtim, BL - RL ad Lh - BL
+ut AS - DS ad gS - AS. Id est BR ad Bh ut AD ad Ag, adeoq; ut BD ad gQ. Et
+vicissim BR ad BD ut Bh ad gQ seu fh ad fg. Sed ex constructione est BR ad
+BD ut FH ad FG. Ergo fh est ad fg ut FH ad FG. Cum igitur sit etiam ig ad
+ih ut Mi ad Li, id est, ut IG ad IH, patet lineas FI, fi in g & h, G & H
+similiter sectas esse.   _Q. E. F._
+
+In constructione Corollarii hujus postquam ducitur LK secans CE in i,
+producere licet iE ad V, ut sit EV ad iE ut FH ad HI, & agere Vf parallelam
+ipsi BD. Eodem recidit si centro i, intervallo IH describatur circulus
+secans BD in X, producatur iX ad Y, ut sit iY æqualis IF, & agatur Yf ipsi
+BD parallela.
+
+Prop. XXIX. Prob. XIX.
+
+    _Trajectoriam specie datam describere, quæ a rectis quatuor positione
+    datis in partes secabitur, ordine, specie & proportione datas._
+
+[Illustration]
+
+Describenda sit Trajectoria fghi, quæ similis sit lineæ curvæ FGHI, & cujus
+partes fg, gh, hi illius partibus FG, GH, HI similes & proportionales,
+rectis AB & AD, AD & BD, BD & EC positione datis, prima primis, secunda
+secundis, tertia tertiis interjaceant. Actis rectis FG, GH, HI, FI,
+describatur Trapezium fghi quod sit Trapezio FGHI simile & cujus anguli f,
+g, h, i tangant rectas illas positione datas AB, AD, BD, CE singuli
+singulas dicto ordine. Dein (per Lem. XXVII) circa hoc Trapezium
+describatur Trajectoria curvæ lineæ FGHI consimilis.
+
+_Scholium._
+
+[Illustration]
+
+Construi etiam potest hoc Problema ut sequitur. Junctis FG, GH, HI, FI
+produc GF ad V, jungeq; FH, IG, & angulis FGH, VFH fac angulos CAK, DAL
+æquales. Concurrant AK, AL cum recta BD in K & L, & inde aguntur KM, LN,
+quarum KM constituat angulum AKM æqualem angulo GHI, sitq; ad AK ut est HI
+ad GH; & LN constituat angulum ALN æqualem angulo FHI, sitq; ad AL ut HI ad
+FH. Ducantur autem AK, KM, AL, LN ad eas partes linearum AD, AK, AL, ut
+literæ CAKMC, ALK, DALND eodem ordine cum literis FGHIF in orbem redeant, &
+acta MN occurrat rectæ CE in i. Fac angulum iEP æqualem angulo IGF, sitq;
+PE ad Ei ut FG ad GI; & per P agatur QPf, quæ cum recta AED contineat
+angulum PQE æqualem angulo FIG, rectæq; AB occurrat in f, & jungatur fi.
+Agantur autem PE & PQ ad eas partes linearum CE, PE, ut literarum PEiP &
+PEQP idem sit ordo circularis qui literarum FGHIF, & si super linea fi
+eodem quoq; literarum ordine constituatur Trapezium fghi Trapezio FGHI
+simile, & circumscribatur Trajectoria specie data, solvetur Problema.
+
+Hactenus de orbibus inveniendis. Superest ut motus corporum orbibus
+inventis determinemus.
